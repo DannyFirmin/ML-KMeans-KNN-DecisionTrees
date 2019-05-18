@@ -1,0 +1,13 @@
+﻿Temperature,Cloudy,UV Index,Humidity,Rain
+25,No,Low,Low,No
+29,No,Low,High,No
+26,No,Low,Medium,No
+26,No,Medium,Medium,No
+27,No,Medium,High,No
+28,No,High,High,No
+25,No,High,Low,No
+29,Yes,Low,Low,Yes
+28,No,Medium,High,Yes
+28,Yes,Medium,High,Yes
+26,No,Low,Low,Yes
+27,Yes,Low,High,Yes
