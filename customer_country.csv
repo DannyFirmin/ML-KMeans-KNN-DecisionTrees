@@ -1,600 +1,600 @@
-,customer_id,store_id,first_name,last_name,email,address_id,activebool,create_date,last_update,active,address_id,address,address2,district,city_id,postal_code,phone,last_update,city_id,city,country_id,last_update,country_id,country,last_update
-0,524,1,Jared,Ely,jared.ely@sakilacustomer.org,530,True,2006-02-14,2013-05-26 14:49:45.738,1,530,1003 Qinhuangdao Street,,West Java,419,25972,35533115997,2006-02-15 09:45:30.000,419,Purwakarta,45,2006-02-15 09:45:25.000,45,Indonesia,2006-02-15 09:44:00.000
-1,1,1,Mary,Smith,mary.smith@sakilacustomer.org,5,True,2006-02-14,2013-05-26 14:49:45.738,1,5,1913 Hanoi Way,,Nagasaki,463,35200,28303384290,2006-02-15 09:45:30.000,463,Sasebo,50,2006-02-15 09:45:25.000,50,Japan,2006-02-15 09:44:00.000
-2,2,1,Patricia,Johnson,patricia.johnson@sakilacustomer.org,6,True,2006-02-14,2013-05-26 14:49:45.738,1,6,1121 Loja Avenue,,California,449,17886,838635286649,2006-02-15 09:45:30.000,449,San Bernardino,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-3,3,1,Linda,Williams,linda.williams@sakilacustomer.org,7,True,2006-02-14,2013-05-26 14:49:45.738,1,7,692 Joliet Street,,Attika,38,83579,448477190408,2006-02-15 09:45:30.000,38,Athenai,39,2006-02-15 09:45:25.000,39,Greece,2006-02-15 09:44:00.000
-4,4,2,Barbara,Jones,barbara.jones@sakilacustomer.org,8,True,2006-02-14,2013-05-26 14:49:45.738,1,8,1566 Inegl Manor,,Mandalay,349,53561,705814003527,2006-02-15 09:45:30.000,349,Myingyan,64,2006-02-15 09:45:25.000,64,Myanmar,2006-02-15 09:44:00.000
-5,5,1,Elizabeth,Brown,elizabeth.brown@sakilacustomer.org,9,True,2006-02-14,2013-05-26 14:49:45.738,1,9,53 Idfu Parkway,,Nantou,361,42399,10655648674,2006-02-15 09:45:30.000,361,Nantou,92,2006-02-15 09:45:25.000,92,Taiwan,2006-02-15 09:44:00.000
-6,6,2,Jennifer,Davis,jennifer.davis@sakilacustomer.org,10,True,2006-02-14,2013-05-26 14:49:45.738,1,10,1795 Santiago de Compostela Way,,Texas,295,18743,860452626434,2006-02-15 09:45:30.000,295,Laredo,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-7,7,1,Maria,Miller,maria.miller@sakilacustomer.org,11,True,2006-02-14,2013-05-26 14:49:45.738,1,11,900 Santiago de Compostela Parkway,,Central Serbia,280,93896,716571220373,2006-02-15 09:45:30.000,280,Kragujevac,108,2006-02-15 09:45:25.000,108,Yugoslavia,2006-02-15 09:44:00.000
-8,8,2,Susan,Wilson,susan.wilson@sakilacustomer.org,12,True,2006-02-14,2013-05-26 14:49:45.738,1,12,478 Joliet Way,,Hamilton,200,77948,657282285970,2006-02-15 09:45:30.000,200,Hamilton,68,2006-02-15 09:45:25.000,68,New Zealand,2006-02-15 09:44:00.000
-9,9,2,Margaret,Moore,margaret.moore@sakilacustomer.org,13,True,2006-02-14,2013-05-26 14:49:45.738,1,13,613 Korolev Drive,,Masqat,329,45844,380657522649,2006-02-15 09:45:30.000,329,Masqat,71,2006-02-15 09:45:25.000,71,Oman,2006-02-15 09:44:00.000
-10,10,1,Dorothy,Taylor,dorothy.taylor@sakilacustomer.org,14,True,2006-02-14,2013-05-26 14:49:45.738,1,14,1531 Sal Drive,,Esfahan,162,53628,648856936185,2006-02-15 09:45:30.000,162,Esfahan,46,2006-02-15 09:45:25.000,46,Iran,2006-02-15 09:44:00.000
-11,11,2,Lisa,Anderson,lisa.anderson@sakilacustomer.org,15,True,2006-02-14,2013-05-26 14:49:45.738,1,15,1542 Tarlac Parkway,,Kanagawa,440,1027,635297277345,2006-02-15 09:45:30.000,440,Sagamihara,50,2006-02-15 09:45:25.000,50,Japan,2006-02-15 09:44:00.000
-12,12,1,Nancy,Thomas,nancy.thomas@sakilacustomer.org,16,True,2006-02-14,2013-05-26 14:49:45.738,1,16,808 Bhopal Manor,,Haryana,582,10672,465887807014,2006-02-15 09:45:30.000,582,Yamuna Nagar,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-13,13,2,Karen,Jackson,karen.jackson@sakilacustomer.org,17,True,2006-02-14,2013-05-26 14:49:45.738,1,17,270 Amroha Parkway,,Osmaniye,384,29610,695479687538,2006-02-15 09:45:30.000,384,Osmaniye,97,2006-02-15 09:45:25.000,97,Turkey,2006-02-15 09:44:00.000
-14,14,2,Betty,White,betty.white@sakilacustomer.org,18,True,2006-02-14,2013-05-26 14:49:45.738,1,18,770 Bydgoszcz Avenue,,California,120,16266,517338314235,2006-02-15 09:45:30.000,120,Citrus Heights,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-15,15,1,Helen,Harris,helen.harris@sakilacustomer.org,19,True,2006-02-14,2013-05-26 14:49:45.738,1,19,419 Iligan Lane,,Madhya Pradesh,76,72878,990911107354,2006-02-15 09:45:30.000,76,Bhopal,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-16,16,2,Sandra,Martin,sandra.martin@sakilacustomer.org,20,True,2006-02-14,2013-05-26 14:49:45.738,0,20,360 Toulouse Parkway,,England,495,54308,949312333307,2006-02-15 09:45:30.000,495,Southend-on-Sea,102,2006-02-15 09:45:25.000,102,United Kingdom,2006-02-15 09:44:00.000
-17,17,1,Donna,Thompson,donna.thompson@sakilacustomer.org,21,True,2006-02-14,2013-05-26 14:49:45.738,1,21,270 Toulon Boulevard,,Kalmykia,156,81766,407752414682,2006-02-15 09:45:30.000,156,Elista,80,2006-02-15 09:45:25.000,80,Russian Federation,2006-02-15 09:44:00.000
-18,18,2,Carol,Garcia,carol.garcia@sakilacustomer.org,22,True,2006-02-14,2013-05-26 14:49:45.738,1,22,320 Brest Avenue,,Kaduna,252,43331,747791594069,2006-02-15 09:45:30.000,252,Kaduna,69,2006-02-15 09:45:25.000,69,Nigeria,2006-02-15 09:44:00.000
-19,19,1,Ruth,Martinez,ruth.martinez@sakilacustomer.org,23,True,2006-02-14,2013-05-26 14:49:45.738,1,23,1417 Lancaster Avenue,,Northern Cape,267,72192,272572357893,2006-02-15 09:45:30.000,267,Kimberley,85,2006-02-15 09:45:25.000,85,South Africa,2006-02-15 09:44:00.000
-20,20,2,Sharon,Robinson,sharon.robinson@sakilacustomer.org,24,True,2006-02-14,2013-05-26 14:49:45.738,1,24,1688 Okara Way,,Nothwest Border Prov,327,21954,144453869132,2006-02-15 09:45:30.000,327,Mardan,72,2006-02-15 09:45:25.000,72,Pakistan,2006-02-15 09:44:00.000
-21,21,1,Michelle,Clark,michelle.clark@sakilacustomer.org,25,True,2006-02-14,2013-05-26 14:49:45.738,1,25,262 A Corua (La Corua) Parkway,,Dhaka,525,34418,892775750063,2006-02-15 09:45:30.000,525,Tangail,12,2006-02-15 09:45:25.000,12,Bangladesh,2006-02-15 09:44:00.000
-22,22,1,Laura,Rodriguez,laura.rodriguez@sakilacustomer.org,26,True,2006-02-14,2013-05-26 14:49:45.738,1,26,28 Charlotte Amalie Street,,Rabat-Sal-Zammour-Z,443,37551,161968374323,2006-02-15 09:45:30.000,443,Sal,62,2006-02-15 09:45:25.000,62,Morocco,2006-02-15 09:44:00.000
-23,23,2,Sarah,Lewis,sarah.lewis@sakilacustomer.org,27,True,2006-02-14,2013-05-26 14:49:45.738,1,27,1780 Hino Boulevard,,Liepaja,303,7716,902731229323,2006-02-15 09:45:30.000,303,Liepaja,54,2006-02-15 09:45:25.000,54,Latvia,2006-02-15 09:44:00.000
-24,24,2,Kimberly,Lee,kimberly.lee@sakilacustomer.org,28,True,2006-02-14,2013-05-26 14:49:45.738,1,28,96 Tafuna Way,,Crdoba,128,99865,934730187245,2006-02-15 09:45:30.000,128,Crdoba,6,2006-02-15 09:45:25.000,6,Argentina,2006-02-15 09:44:00.000
-25,25,1,Deborah,Walker,deborah.walker@sakilacustomer.org,29,True,2006-02-14,2013-05-26 14:49:45.738,1,29,934 San Felipe de Puerto Plata Street,,Sind,472,99780,196495945706,2006-02-15 09:45:30.000,472,Shikarpur,72,2006-02-15 09:45:25.000,72,Pakistan,2006-02-15 09:44:00.000
-26,26,2,Jessica,Hall,jessica.hall@sakilacustomer.org,30,True,2006-02-14,2013-05-26 14:49:45.738,1,30,18 Duisburg Boulevard,,,121,58327,998009777982,2006-02-15 09:45:30.000,121,Citt del Vaticano,41,2006-02-15 09:45:25.000,41,Holy See (Vatican City State),2006-02-15 09:44:00.000
-27,27,2,Shirley,Allen,shirley.allen@sakilacustomer.org,31,True,2006-02-14,2013-05-26 14:49:45.738,1,31,217 Botshabelo Place,,Southern Mindanao,138,49521,665356572025,2006-02-15 09:45:30.000,138,Davao,75,2006-02-15 09:45:25.000,75,Philippines,2006-02-15 09:44:00.000
-28,28,1,Cynthia,Young,cynthia.young@sakilacustomer.org,32,True,2006-02-14,2013-05-26 14:49:45.738,1,32,1425 Shikarpur Manor,,Bihar,346,65599,678220867005,2006-02-15 09:45:30.000,346,Munger (Monghyr),44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-29,29,2,Angela,Hernandez,angela.hernandez@sakilacustomer.org,33,True,2006-02-14,2013-05-26 14:49:45.738,1,33,786 Aurora Avenue,,Yamaguchi,474,65750,18461860151,2006-02-15 09:45:30.000,474,Shimonoseki,50,2006-02-15 09:45:25.000,50,Japan,2006-02-15 09:44:00.000
-30,30,1,Melissa,King,melissa.king@sakilacustomer.org,34,True,2006-02-14,2013-05-26 14:49:45.738,1,34,1668 Anpolis Street,,Taipei,316,50199,525255540978,2006-02-15 09:45:30.000,316,Lungtan,92,2006-02-15 09:45:25.000,92,Taiwan,2006-02-15 09:44:00.000
-31,31,2,Brenda,Wright,brenda.wright@sakilacustomer.org,35,True,2006-02-14,2013-05-26 14:49:45.738,1,35,33 Gorontalo Way,,West Bengali,257,30348,745994947458,2006-02-15 09:45:30.000,257,Kamarhati,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-32,32,1,Amy,Lopez,amy.lopez@sakilacustomer.org,36,True,2006-02-14,2013-05-26 14:49:45.738,1,36,176 Mandaluyong Place,,Uttar Pradesh,239,65213,627705991774,2006-02-15 09:45:30.000,239,Jhansi,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-33,33,2,Anna,Hill,anna.hill@sakilacustomer.org,37,True,2006-02-14,2013-05-26 14:49:45.738,1,37,127 Purnea (Purnia) Manor,,Piemonte,17,79388,911872220378,2006-02-15 09:45:30.000,17,Alessandria,49,2006-02-15 09:45:25.000,49,Italy,2006-02-15 09:44:00.000
-34,34,2,Rebecca,Scott,rebecca.scott@sakilacustomer.org,38,True,2006-02-14,2013-05-26 14:49:45.738,1,38,61 Tama Street,,Okayama,284,94065,708403338270,2006-02-15 09:45:30.000,284,Kurashiki,50,2006-02-15 09:45:25.000,50,Japan,2006-02-15 09:44:00.000
-35,35,2,Virginia,Green,virginia.green@sakilacustomer.org,39,True,2006-02-14,2013-05-26 14:49:45.738,1,39,391 Callao Drive,,Midi-Pyrnes,544,34021,440512153169,2006-02-15 09:45:30.000,544,Toulouse,34,2006-02-15 09:45:25.000,34,France,2006-02-15 09:44:00.000
-36,36,2,Kathleen,Adams,kathleen.adams@sakilacustomer.org,40,True,2006-02-14,2013-05-26 14:49:45.738,1,40,334 Munger (Monghyr) Lane,,Markazi,31,38145,481183273622,2006-02-15 09:45:30.000,31,Arak,46,2006-02-15 09:45:25.000,46,Iran,2006-02-15 09:44:00.000
-37,37,1,Pamela,Baker,pamela.baker@sakilacustomer.org,41,True,2006-02-14,2013-05-26 14:49:45.738,1,41,1440 Fukuyama Loop,,Henan,362,47929,912257250465,2006-02-15 09:45:30.000,362,Nanyang,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-38,38,1,Martha,Gonzalez,martha.gonzalez@sakilacustomer.org,42,True,2006-02-14,2013-05-26 14:49:45.738,1,42,269 Cam Ranh Parkway,,Chisinau,115,34689,489783829737,2006-02-15 09:45:30.000,115,Chisinau,61,2006-02-15 09:45:25.000,61,Moldova,2006-02-15 09:44:00.000
-39,39,1,Debra,Nelson,debra.nelson@sakilacustomer.org,43,True,2006-02-14,2013-05-26 14:49:45.738,1,43,306 Antofagasta Place,,Esprito Santo,569,3989,378318851631,2006-02-15 09:45:30.000,569,Vila Velha,15,2006-02-15 09:45:25.000,15,Brazil,2006-02-15 09:44:00.000
-40,40,2,Amanda,Carter,amanda.carter@sakilacustomer.org,44,True,2006-02-14,2013-05-26 14:49:45.738,1,44,671 Graz Street,,Oriental,353,94399,680768868518,2006-02-15 09:45:30.000,353,Nador,62,2006-02-15 09:45:25.000,62,Morocco,2006-02-15 09:44:00.000
-41,41,1,Stephanie,Mitchell,stephanie.mitchell@sakilacustomer.org,45,True,2006-02-14,2013-05-26 14:49:45.738,1,45,42 Brindisi Place,,Yerevan,586,16744,42384721397,2006-02-15 09:45:30.000,586,Yerevan,7,2006-02-15 09:45:25.000,7,Armenia,2006-02-15 09:44:00.000
-42,42,2,Carolyn,Perez,carolyn.perez@sakilacustomer.org,46,True,2006-02-14,2013-05-26 14:49:45.738,1,46,1632 Bislig Avenue,,Nonthaburi,394,61117,471675840679,2006-02-15 09:45:30.000,394,Pak Kret,94,2006-02-15 09:45:25.000,94,Thailand,2006-02-15 09:44:00.000
-43,43,2,Christine,Roberts,christine.roberts@sakilacustomer.org,47,True,2006-02-14,2013-05-26 14:49:45.738,1,47,1447 Imus Way,,Tahiti,167,48942,539758313890,2006-02-15 09:45:30.000,167,Faaa,36,2006-02-15 09:45:25.000,36,French Polynesia,2006-02-15 09:44:00.000
-44,44,1,Marie,Turner,marie.turner@sakilacustomer.org,48,True,2006-02-14,2013-05-26 14:49:45.738,1,48,1998 Halifax Drive,,Lipetsk,308,76022,177727722820,2006-02-15 09:45:30.000,308,Lipetsk,80,2006-02-15 09:45:25.000,80,Russian Federation,2006-02-15 09:44:00.000
-45,45,1,Janet,Phillips,janet.phillips@sakilacustomer.org,49,True,2006-02-14,2013-05-26 14:49:45.738,1,49,1718 Valencia Street,,Antofagasta,27,37359,675292816413,2006-02-15 09:45:30.000,27,Antofagasta,22,2006-02-15 09:45:25.000,22,Chile,2006-02-15 09:44:00.000
-46,46,2,Catherine,Campbell,catherine.campbell@sakilacustomer.org,50,True,2006-02-14,2013-05-26 14:49:45.738,1,50,46 Pjatigorsk Lane,,Moscow (City),343,23616,262076994845,2006-02-15 09:45:30.000,343,Moscow,80,2006-02-15 09:45:25.000,80,Russian Federation,2006-02-15 09:44:00.000
-47,47,1,Frances,Parker,frances.parker@sakilacustomer.org,51,True,2006-02-14,2013-05-26 14:49:45.738,1,51,686 Garland Manor,,Cear,247,52535,69493378813,2006-02-15 09:45:30.000,247,Juazeiro do Norte,15,2006-02-15 09:45:25.000,15,Brazil,2006-02-15 09:44:00.000
-48,48,1,Ann,Evans,ann.evans@sakilacustomer.org,52,True,2006-02-14,2013-05-26 14:49:45.738,1,52,909 Garland Manor,,Tatarstan,367,69367,705800322606,2006-02-15 09:45:30.000,367,Niznekamsk,80,2006-02-15 09:45:25.000,80,Russian Federation,2006-02-15 09:44:00.000
-49,49,2,Joyce,Edwards,joyce.edwards@sakilacustomer.org,53,True,2006-02-14,2013-05-26 14:49:45.738,1,53,725 Isesaki Place,,Mekka,237,74428,876295323994,2006-02-15 09:45:30.000,237,Jedda,82,2006-02-15 09:45:25.000,82,Saudi Arabia,2006-02-15 09:44:00.000
-50,50,1,Diane,Collins,diane.collins@sakilacustomer.org,54,True,2006-02-14,2013-05-26 14:49:45.738,1,54,115 Hidalgo Parkway,,Khartum,379,80168,307703950263,2006-02-15 09:45:30.000,379,Omdurman,89,2006-02-15 09:45:25.000,89,Sudan,2006-02-15 09:44:00.000
-51,51,1,Alice,Stewart,alice.stewart@sakilacustomer.org,55,True,2006-02-14,2013-05-26 14:49:45.738,1,55,1135 Izumisano Parkway,,California,171,48150,171822533480,2006-02-15 09:45:30.000,171,Fontana,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-52,52,1,Julie,Sanchez,julie.sanchez@sakilacustomer.org,56,True,2006-02-14,2013-05-26 14:49:45.738,1,56,939 Probolinggo Loop,,Galicia,1,4166,680428310138,2006-02-15 09:45:30.000,1,A Corua (La Corua),87,2006-02-15 09:45:25.000,87,Spain,2006-02-15 09:44:00.000
-53,53,1,Heather,Morris,heather.morris@sakilacustomer.org,57,True,2006-02-14,2013-05-26 14:49:45.738,1,57,17 Kabul Boulevard,,Chiba,355,38594,697760867968,2006-02-15 09:45:30.000,355,Nagareyama,50,2006-02-15 09:45:25.000,50,Japan,2006-02-15 09:44:00.000
-54,54,1,Teresa,Rogers,teresa.rogers@sakilacustomer.org,58,True,2006-02-14,2013-05-26 14:49:45.738,1,58,1964 Allappuzha (Alleppey) Street,,Yamaguchi,227,48980,920811325222,2006-02-15 09:45:30.000,227,Iwakuni,50,2006-02-15 09:45:25.000,50,Japan,2006-02-15 09:44:00.000
-55,55,2,Doris,Reed,doris.reed@sakilacustomer.org,59,True,2006-02-14,2013-05-26 14:49:45.738,1,59,1697 Kowloon and New Kowloon Loop,,Moskova,49,57807,499352017190,2006-02-15 09:45:30.000,49,Balaiha,80,2006-02-15 09:45:25.000,80,Russian Federation,2006-02-15 09:44:00.000
-56,56,1,Gloria,Cook,gloria.cook@sakilacustomer.org,60,True,2006-02-14,2013-05-26 14:49:45.738,1,60,1668 Saint Louis Place,,Tahiti,397,39072,347487831378,2006-02-15 09:45:30.000,397,Papeete,36,2006-02-15 09:45:25.000,36,French Polynesia,2006-02-15 09:44:00.000
-57,57,2,Evelyn,Morgan,evelyn.morgan@sakilacustomer.org,61,True,2006-02-14,2013-05-26 14:49:45.738,1,61,943 Tokat Street,,Vaduz,560,45428,889318963672,2006-02-15 09:45:30.000,560,Vaduz,55,2006-02-15 09:45:25.000,55,Liechtenstein,2006-02-15 09:44:00.000
-58,58,1,Jean,Bell,jean.bell@sakilacustomer.org,62,True,2006-02-14,2013-05-26 14:49:45.738,1,62,1114 Liepaja Street,,Sarawak,282,69226,212869228936,2006-02-15 09:45:30.000,282,Kuching,59,2006-02-15 09:45:25.000,59,Malaysia,2006-02-15 09:44:00.000
-59,59,1,Cheryl,Murphy,cheryl.murphy@sakilacustomer.org,63,True,2006-02-14,2013-05-26 14:49:45.738,1,63,1213 Ranchi Parkway,,Karnataka,350,94352,800024380485,2006-02-15 09:45:30.000,350,Mysore,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-60,60,1,Mildred,Bailey,mildred.bailey@sakilacustomer.org,64,True,2006-02-14,2013-05-26 14:49:45.738,1,64,81 Hodeida Way,,Rajasthan,231,55561,250767749542,2006-02-15 09:45:30.000,231,Jaipur,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-61,61,2,Katherine,Rivera,katherine.rivera@sakilacustomer.org,65,True,2006-02-14,2013-05-26 14:49:45.738,1,65,915 Ponce Place,,Basel-Stadt,56,83980,1395251317,2006-02-15 09:45:30.000,56,Basel,91,2006-02-15 09:45:25.000,91,Switzerland,2006-02-15 09:44:00.000
-62,62,1,Joan,Cooper,joan.cooper@sakilacustomer.org,66,True,2006-02-14,2013-05-26 14:49:45.738,1,66,1717 Guadalajara Lane,,Missouri,441,85505,914090181665,2006-02-15 09:45:30.000,441,Saint Louis,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-63,63,1,Ashley,Richardson,ashley.richardson@sakilacustomer.org,67,True,2006-02-14,2013-05-26 14:49:45.738,1,67,1214 Hanoi Way,,Nebraska,306,67055,491001136577,2006-02-15 09:45:30.000,306,Lincoln,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-64,64,2,Judith,Cox,judith.cox@sakilacustomer.org,68,True,2006-02-14,2013-05-26 14:49:45.738,0,68,1966 Amroha Avenue,,Sichuan,139,70385,333489324603,2006-02-15 09:45:30.000,139,Daxian,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-65,65,2,Rose,Howard,rose.howard@sakilacustomer.org,69,True,2006-02-14,2013-05-26 14:49:45.738,1,69,698 Otsu Street,,Cayenne,105,71110,409983924481,2006-02-15 09:45:30.000,105,Cayenne,35,2006-02-15 09:45:25.000,35,French Guiana,2006-02-15 09:44:00.000
-66,66,2,Janice,Ward,janice.ward@sakilacustomer.org,70,True,2006-02-14,2013-05-26 14:49:45.738,1,70,1150 Kimchon Manor,,Skne ln,321,96109,663449333709,2006-02-15 09:45:30.000,321,Malm,90,2006-02-15 09:45:25.000,90,Sweden,2006-02-15 09:44:00.000
-67,67,1,Kelly,Torres,kelly.torres@sakilacustomer.org,71,True,2006-02-14,2013-05-26 14:49:45.738,1,71,1586 Guaruj Place,,Hunan,579,5135,947233365992,2006-02-15 09:45:30.000,579,Xiangtan,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-68,68,1,Nicole,Peterson,nicole.peterson@sakilacustomer.org,72,True,2006-02-14,2013-05-26 14:49:45.738,1,72,57 Arlington Manor,,Madhya Pradesh,475,48960,990214419142,2006-02-15 09:45:30.000,475,Shivapuri,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-69,69,2,Judy,Gray,judy.gray@sakilacustomer.org,73,True,2006-02-14,2013-05-26 14:49:45.738,1,73,1031 Daugavpils Parkway,,Bchar,63,59025,107137400143,2006-02-15 09:45:30.000,63,Bchar,2,2006-02-15 09:45:25.000,2,Algeria,2006-02-15 09:44:00.000
-70,70,2,Christina,Ramirez,christina.ramirez@sakilacustomer.org,74,True,2006-02-14,2013-05-26 14:49:45.738,1,74,1124 Buenaventura Drive,,Mekka,13,6856,407733804223,2006-02-15 09:45:30.000,13,al-Hawiya,82,2006-02-15 09:45:25.000,82,Saudi Arabia,2006-02-15 09:44:00.000
-71,71,1,Kathy,James,kathy.james@sakilacustomer.org,75,True,2006-02-14,2013-05-26 14:49:45.738,1,75,492 Cam Ranh Street,,Eastern Visayas,61,50805,565018274456,2006-02-15 09:45:30.000,61,Baybay,75,2006-02-15 09:45:25.000,75,Philippines,2006-02-15 09:44:00.000
-72,72,2,Theresa,Watson,theresa.watson@sakilacustomer.org,76,True,2006-02-14,2013-05-26 14:49:45.738,1,76,89 Allappuzha (Alleppey) Manor,,National Capital Reg,517,75444,255800440636,2006-02-15 09:45:30.000,517,Taguig,75,2006-02-15 09:45:25.000,75,Philippines,2006-02-15 09:44:00.000
-73,73,2,Beverly,Brooks,beverly.brooks@sakilacustomer.org,77,True,2006-02-14,2013-05-26 14:49:45.738,1,77,1947 Poos de Caldas Boulevard,,Chiayi,114,60951,427454485876,2006-02-15 09:45:30.000,114,Chiayi,92,2006-02-15 09:45:25.000,92,Taiwan,2006-02-15 09:44:00.000
-74,74,1,Denise,Kelly,denise.kelly@sakilacustomer.org,78,True,2006-02-14,2013-05-26 14:49:45.738,1,78,1206 Dos Quebradas Place,,So Paulo,431,20207,241832790687,2006-02-15 09:45:30.000,431,Rio Claro,15,2006-02-15 09:45:25.000,15,Brazil,2006-02-15 09:44:00.000
-75,75,2,Tammy,Sanders,tammy.sanders@sakilacustomer.org,79,True,2006-02-14,2013-05-26 14:49:45.738,1,79,1551 Rampur Lane,,Changhwa,108,72394,251164340471,2006-02-15 09:45:30.000,108,Changhwa,92,2006-02-15 09:45:25.000,92,Taiwan,2006-02-15 09:44:00.000
-76,76,2,Irene,Price,irene.price@sakilacustomer.org,80,True,2006-02-14,2013-05-26 14:49:45.738,1,80,602 Paarl Street,,Pavlodar,402,98889,896314772871,2006-02-15 09:45:30.000,402,Pavlodar,51,2006-02-15 09:45:25.000,51,Kazakstan,2006-02-15 09:44:00.000
-77,77,2,Jane,Bennett,jane.bennett@sakilacustomer.org,81,True,2006-02-14,2013-05-26 14:49:45.738,1,81,1692 Ede Loop,,So Paulo,30,9223,918711376618,2006-02-15 09:45:30.000,30,Araatuba,15,2006-02-15 09:45:25.000,15,Brazil,2006-02-15 09:44:00.000
-78,78,1,Lori,Wood,lori.wood@sakilacustomer.org,82,True,2006-02-14,2013-05-26 14:49:45.738,1,82,936 Salzburg Lane,,Uttar Pradesh,425,96709,875756771675,2006-02-15 09:45:30.000,425,Rae Bareli,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-79,79,1,Rachel,Barnes,rachel.barnes@sakilacustomer.org,83,True,2006-02-14,2013-05-26 14:49:45.738,1,83,586 Tete Way,,Kanagawa,256,1079,18581624103,2006-02-15 09:45:30.000,256,Kamakura,50,2006-02-15 09:45:25.000,50,Japan,2006-02-15 09:44:00.000
-80,80,1,Marilyn,Ross,marilyn.ross@sakilacustomer.org,84,True,2006-02-14,2013-05-26 14:49:45.738,1,84,1888 Kabul Drive,,Oyo & Osun,217,20936,701457319790,2006-02-15 09:45:30.000,217,Ife,69,2006-02-15 09:45:25.000,69,Nigeria,2006-02-15 09:44:00.000
-81,81,1,Andrea,Henderson,andrea.henderson@sakilacustomer.org,85,True,2006-02-14,2013-05-26 14:49:45.738,1,85,320 Baiyin Parkway,,Mahajanga,319,37307,223664661973,2006-02-15 09:45:30.000,319,Mahajanga,57,2006-02-15 09:45:25.000,57,Madagascar,2006-02-15 09:44:00.000
-82,82,1,Kathryn,Coleman,kathryn.coleman@sakilacustomer.org,86,True,2006-02-14,2013-05-26 14:49:45.738,1,86,927 Baha Blanca Parkway,,Krim,479,9495,821972242086,2006-02-15 09:45:30.000,479,Simferopol,100,2006-02-15 09:45:25.000,100,Ukraine,2006-02-15 09:44:00.000
-83,83,1,Louise,Jenkins,louise.jenkins@sakilacustomer.org,87,True,2006-02-14,2013-05-26 14:49:45.738,1,87,929 Tallahassee Loop,,Gauteng,497,74671,800716535041,2006-02-15 09:45:30.000,497,Springs,85,2006-02-15 09:45:25.000,85,South Africa,2006-02-15 09:44:00.000
-84,84,2,Sara,Perry,sara.perry@sakilacustomer.org,88,True,2006-02-14,2013-05-26 14:49:45.738,1,88,125 Citt del Vaticano Boulevard,,Puebla,40,67912,48417642933,2006-02-15 09:45:30.000,40,Atlixco,60,2006-02-15 09:45:25.000,60,Mexico,2006-02-15 09:44:00.000
-85,85,2,Anne,Powell,anne.powell@sakilacustomer.org,89,True,2006-02-14,2013-05-26 14:49:45.738,1,89,1557 Ktahya Boulevard,,England,88,88002,720998247660,2006-02-15 09:45:30.000,88,Bradford,102,2006-02-15 09:45:25.000,102,United Kingdom,2006-02-15 09:44:00.000
-86,86,2,Jacqueline,Long,jacqueline.long@sakilacustomer.org,90,True,2006-02-14,2013-05-26 14:49:45.738,1,90,870 Ashqelon Loop,,Songkhla,489,84931,135117278909,2006-02-15 09:45:30.000,489,Songkhla,94,2006-02-15 09:45:25.000,94,Thailand,2006-02-15 09:44:00.000
-87,87,1,Wanda,Patterson,wanda.patterson@sakilacustomer.org,91,True,2006-02-14,2013-05-26 14:49:45.738,1,91,1740 Portoviejo Avenue,,Sucre,480,29932,198123170793,2006-02-15 09:45:30.000,480,Sincelejo,24,2006-02-15 09:45:25.000,24,Colombia,2006-02-15 09:44:00.000
-88,88,2,Bonnie,Hughes,bonnie.hughes@sakilacustomer.org,92,True,2006-02-14,2013-05-26 14:49:45.738,1,92,1942 Ciparay Parkway,,Cheju,113,82624,978987363654,2006-02-15 09:45:30.000,113,Cheju,86,2006-02-15 09:45:25.000,86,South Korea,2006-02-15 09:44:00.000
-89,89,1,Julia,Flores,julia.flores@sakilacustomer.org,93,True,2006-02-14,2013-05-26 14:49:45.738,1,93,1926 El Alto Avenue,,Buenos Aires,289,75543,846225459260,2006-02-15 09:45:30.000,289,La Plata,6,2006-02-15 09:45:25.000,6,Argentina,2006-02-15 09:44:00.000
-90,90,2,Ruby,Washington,ruby.washington@sakilacustomer.org,94,True,2006-02-14,2013-05-26 14:49:45.738,1,94,1952 Chatsworth Drive,,Guangdong,332,25958,991562402283,2006-02-15 09:45:30.000,332,Meixian,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-91,91,2,Lois,Butler,lois.butler@sakilacustomer.org,95,True,2006-02-14,2013-05-26 14:49:45.738,1,95,1370 Le Mans Avenue,,Brunei and Muara,53,52163,345679835036,2006-02-15 09:45:30.000,53,Bandar Seri Begawan,16,2006-02-15 09:45:25.000,16,Brunei,2006-02-15 09:44:00.000
-92,92,2,Tina,Simmons,tina.simmons@sakilacustomer.org,96,True,2006-02-14,2013-05-26 14:49:45.738,1,96,984 Effon-Alaiye Avenue,,Gois,183,17119,132986892228,2006-02-15 09:45:30.000,183,Goinia,15,2006-02-15 09:45:25.000,15,Brazil,2006-02-15 09:44:00.000
-93,93,1,Phyllis,Foster,phyllis.foster@sakilacustomer.org,97,True,2006-02-14,2013-05-26 14:49:45.738,1,97,832 Nakhon Sawan Manor,,Inner Mongolia,592,49021,275595571388,2006-02-15 09:45:30.000,592,Zalantun,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-94,94,1,Norma,Gonzales,norma.gonzales@sakilacustomer.org,98,True,2006-02-14,2013-05-26 14:49:45.738,1,98,152 Kitwe Parkway,,Caraga,82,53182,835433605312,2006-02-15 09:45:30.000,82,Bislig,75,2006-02-15 09:45:25.000,75,Philippines,2006-02-15 09:44:00.000
-95,95,2,Paula,Bryant,paula.bryant@sakilacustomer.org,99,True,2006-02-14,2013-05-26 14:49:45.738,1,99,1697 Tanauan Lane,,Punjab,399,22870,4764773857,2006-02-15 09:45:30.000,399,Pathankot,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-96,96,1,Diana,Alexander,diana.alexander@sakilacustomer.org,100,True,2006-02-14,2013-05-26 14:49:45.738,1,100,1308 Arecibo Way,,Georgia,41,30695,6171054059,2006-02-15 09:45:30.000,41,Augusta-Richmond County,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-97,97,2,Annie,Russell,annie.russell@sakilacustomer.org,101,True,2006-02-14,2013-05-26 14:49:45.738,1,101,1599 Plock Drive,,Tete,534,71986,817248913162,2006-02-15 09:45:30.000,534,Tete,63,2006-02-15 09:45:25.000,63,Mozambique,2006-02-15 09:44:00.000
-98,98,1,Lillian,Griffin,lillian.griffin@sakilacustomer.org,102,True,2006-02-14,2013-05-26 14:49:45.738,1,102,669 Firozabad Loop,,Abu Dhabi,12,92265,412903167998,2006-02-15 09:45:30.000,12,al-Ayn,101,2006-02-15 09:45:25.000,101,United Arab Emirates,2006-02-15 09:44:00.000
-99,99,2,Emily,Diaz,emily.diaz@sakilacustomer.org,103,True,2006-02-14,2013-05-26 14:49:45.738,1,103,588 Vila Velha Manor,,Kyongsangbuk,268,51540,333339908719,2006-02-15 09:45:30.000,268,Kimchon,86,2006-02-15 09:45:25.000,86,South Korea,2006-02-15 09:44:00.000
-100,100,1,Robin,Hayes,robin.hayes@sakilacustomer.org,104,True,2006-02-14,2013-05-26 14:49:45.738,1,104,1913 Kamakura Place,,Lipetsk,238,97287,942570536750,2006-02-15 09:45:30.000,238,Jelets,80,2006-02-15 09:45:25.000,80,Russian Federation,2006-02-15 09:44:00.000
-101,101,1,Peggy,Myers,peggy.myers@sakilacustomer.org,105,True,2006-02-14,2013-05-26 14:49:45.738,1,105,733 Mandaluyong Place,,Asir,2,77459,196568435814,2006-02-15 09:45:30.000,2,Abha,82,2006-02-15 09:45:25.000,82,Saudi Arabia,2006-02-15 09:44:00.000
-102,102,1,Crystal,Ford,crystal.ford@sakilacustomer.org,106,True,2006-02-14,2013-05-26 14:49:45.738,1,106,659 Vaduz Drive,,Ha Darom,34,49708,709935135487,2006-02-15 09:45:30.000,34,Ashdod,48,2006-02-15 09:45:25.000,48,Israel,2006-02-15 09:44:00.000
-103,103,1,Gladys,Hamilton,gladys.hamilton@sakilacustomer.org,107,True,2006-02-14,2013-05-26 14:49:45.738,1,107,1177 Jelets Way,,Kwara & Kogi,220,3305,484292626944,2006-02-15 09:45:30.000,220,Ilorin,69,2006-02-15 09:45:25.000,69,Nigeria,2006-02-15 09:44:00.000
-104,104,1,Rita,Graham,rita.graham@sakilacustomer.org,108,True,2006-02-14,2013-05-26 14:49:45.738,1,108,1386 Yangor Avenue,,Provence-Alpes-Cte,543,80720,449216226468,2006-02-15 09:45:30.000,543,Toulon,34,2006-02-15 09:45:25.000,34,France,2006-02-15 09:44:00.000
-105,105,1,Dawn,Sullivan,dawn.sullivan@sakilacustomer.org,109,True,2006-02-14,2013-05-26 14:49:45.738,1,109,454 Nakhon Sawan Boulevard,,Funafuti,173,76383,963887147572,2006-02-15 09:45:30.000,173,Funafuti,99,2006-02-15 09:45:25.000,99,Tuvalu,2006-02-15 09:44:00.000
-106,106,1,Connie,Wallace,connie.wallace@sakilacustomer.org,110,True,2006-02-14,2013-05-26 14:49:45.738,1,110,1867 San Juan Bautista Tuxtepec Avenue,,Ivanovo,225,78311,547003310357,2006-02-15 09:45:30.000,225,Ivanovo,80,2006-02-15 09:45:25.000,80,Russian Federation,2006-02-15 09:44:00.000
-107,107,1,Florence,Woods,florence.woods@sakilacustomer.org,111,True,2006-02-14,2013-05-26 14:49:45.738,1,111,1532 Dzerzinsk Way,,Buenos Aires,334,9599,330838016880,2006-02-15 09:45:30.000,334,Merlo,6,2006-02-15 09:45:25.000,6,Argentina,2006-02-15 09:44:00.000
-108,108,1,Tracy,Cole,tracy.cole@sakilacustomer.org,112,True,2006-02-14,2013-05-26 14:49:45.738,1,112,1002 Ahmadnagar Manor,,Mxico,213,93026,371490777743,2006-02-15 09:45:30.000,213,Huixquilucan,60,2006-02-15 09:45:25.000,60,Mexico,2006-02-15 09:44:00.000
-109,109,2,Edna,West,edna.west@sakilacustomer.org,113,True,2006-02-14,2013-05-26 14:49:45.738,1,113,682 Junan Way,,North West,273,30418,622255216127,2006-02-15 09:45:30.000,273,Klerksdorp,85,2006-02-15 09:45:25.000,85,South Africa,2006-02-15 09:44:00.000
-110,110,2,Tiffany,Jordan,tiffany.jordan@sakilacustomer.org,114,True,2006-02-14,2013-05-26 14:49:45.738,1,114,804 Elista Drive,,Hubei,159,61069,379804592943,2006-02-15 09:45:30.000,159,Enshi,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-111,111,1,Carmen,Owens,carmen.owens@sakilacustomer.org,115,True,2006-02-14,2013-05-26 14:49:45.738,1,115,1378 Alvorada Avenue,,Distrito Federal,102,75834,272234298332,2006-02-15 09:45:30.000,102,Caracas,104,2006-02-15 09:45:25.000,104,Venezuela,2006-02-15 09:44:00.000
-112,112,2,Rosa,Reynolds,rosa.reynolds@sakilacustomer.org,116,True,2006-02-14,2013-05-26 14:49:45.738,1,116,793 Cam Ranh Avenue,,California,292,87057,824370924746,2006-02-15 09:45:30.000,292,Lancaster,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-113,113,2,Cindy,Fisher,cindy.fisher@sakilacustomer.org,117,True,2006-02-14,2013-05-26 14:49:45.738,1,117,1079 Tel Aviv-Jaffa Boulevard,,Sucre,132,10885,358178933857,2006-02-15 09:45:30.000,132,Cuman,104,2006-02-15 09:45:25.000,104,Venezuela,2006-02-15 09:44:00.000
-114,114,2,Grace,Ellis,grace.ellis@sakilacustomer.org,118,True,2006-02-14,2013-05-26 14:49:45.738,1,118,442 Rae Bareli Place,,Nordrhein-Westfalen,148,24321,886636413768,2006-02-15 09:45:30.000,148,Duisburg,38,2006-02-15 09:45:25.000,38,Germany,2006-02-15 09:44:00.000
-115,115,1,Wendy,Harrison,wendy.harrison@sakilacustomer.org,119,True,2006-02-14,2013-05-26 14:49:45.738,1,119,1107 Nakhon Sawan Avenue,,Mxico,365,75149,867546627903,2006-02-15 09:45:30.000,365,Nezahualcyotl,60,2006-02-15 09:45:25.000,60,Mexico,2006-02-15 09:44:00.000
-116,116,1,Victoria,Gibson,victoria.gibson@sakilacustomer.org,120,True,2006-02-14,2013-05-26 14:49:45.738,1,120,544 Malm Parkway,,Central Java,403,63502,386759646229,2006-02-15 09:45:30.000,403,Pemalang,45,2006-02-15 09:45:25.000,45,Indonesia,2006-02-15 09:44:00.000
-117,117,1,Edith,Mcdonald,edith.mcdonald@sakilacustomer.org,121,True,2006-02-14,2013-05-26 14:49:45.738,1,121,1967 Sincelejo Place,,Gujarat,176,73644,577812616052,2006-02-15 09:45:30.000,176,Gandhinagar,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-118,118,1,Kim,Cruz,kim.cruz@sakilacustomer.org,122,True,2006-02-14,2013-05-26 14:49:45.738,1,122,333 Goinia Way,,Texas,185,78625,909029256431,2006-02-15 09:45:30.000,185,Grand Prairie,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-119,119,1,Sherry,Marshall,sherry.marshall@sakilacustomer.org,123,True,2006-02-14,2013-05-26 14:49:45.738,1,123,1987 Coacalco de Berriozbal Loop,,al-Qalyubiya,476,96065,787654415858,2006-02-15 09:45:30.000,476,Shubra al-Khayma,29,2006-02-15 09:45:25.000,29,Egypt,2006-02-15 09:44:00.000
-120,120,2,Sylvia,Ortiz,sylvia.ortiz@sakilacustomer.org,124,True,2006-02-14,2013-05-26 14:49:45.738,1,124,241 Mosul Lane,,Risaralda,147,76157,765345144779,2006-02-15 09:45:30.000,147,Dos Quebradas,24,2006-02-15 09:45:25.000,24,Colombia,2006-02-15 09:44:00.000
-121,121,1,Josephine,Gomez,josephine.gomez@sakilacustomer.org,125,True,2006-02-14,2013-05-26 14:49:45.738,1,125,211 Chiayi Drive,,Uttar Pradesh,164,58186,665993880048,2006-02-15 09:45:30.000,164,Etawah,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-122,122,1,Thelma,Murray,thelma.murray@sakilacustomer.org,126,True,2006-02-14,2013-05-26 14:49:45.738,1,126,1175 Tanauan Way,,Lima,305,64615,937222955822,2006-02-15 09:45:30.000,305,Lima,74,2006-02-15 09:45:25.000,74,Peru,2006-02-15 09:44:00.000
-123,123,2,Shannon,Freeman,shannon.freeman@sakilacustomer.org,127,True,2006-02-14,2013-05-26 14:49:45.738,1,127,117 Boa Vista Way,,Uttar Pradesh,566,6804,677976133614,2006-02-15 09:45:30.000,566,Varanasi (Benares),44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-124,124,1,Sheila,Wells,sheila.wells@sakilacustomer.org,128,True,2006-02-14,2013-05-26 14:49:45.738,0,128,848 Tafuna Manor,,Ktahya,281,45142,614935229095,2006-02-15 09:45:30.000,281,Ktahya,97,2006-02-15 09:45:25.000,97,Turkey,2006-02-15 09:44:00.000
-125,125,1,Ethel,Webb,ethel.webb@sakilacustomer.org,129,True,2006-02-14,2013-05-26 14:49:45.738,1,129,569 Baicheng Lane,,Gauteng,85,60304,490211944645,2006-02-15 09:45:30.000,85,Boksburg,85,2006-02-15 09:45:25.000,85,South Africa,2006-02-15 09:44:00.000
-126,126,1,Ellen,Simpson,ellen.simpson@sakilacustomer.org,130,True,2006-02-14,2013-05-26 14:49:45.738,1,130,1666 Qomsheh Drive,,So Paulo,410,66255,582835362905,2006-02-15 09:45:30.000,410,Po,15,2006-02-15 09:45:25.000,15,Brazil,2006-02-15 09:44:00.000
-127,127,2,Elaine,Stevens,elaine.stevens@sakilacustomer.org,131,True,2006-02-14,2013-05-26 14:49:45.738,1,131,801 Hagonoy Drive,,Smolensk,484,8439,237426099212,2006-02-15 09:45:30.000,484,Smolensk,80,2006-02-15 09:45:25.000,80,Russian Federation,2006-02-15 09:44:00.000
-128,128,1,Marjorie,Tucker,marjorie.tucker@sakilacustomer.org,132,True,2006-02-14,2013-05-26 14:49:45.738,1,132,1050 Garden Grove Avenue,,Slaskie,236,4999,973047364353,2006-02-15 09:45:30.000,236,Jastrzebie-Zdrj,76,2006-02-15 09:45:25.000,76,Poland,2006-02-15 09:44:00.000
-129,129,1,Carrie,Porter,carrie.porter@sakilacustomer.org,133,True,2006-02-14,2013-05-26 14:49:45.738,1,133,1854 Tieli Street,,Shandong,302,15819,509492324775,2006-02-15 09:45:30.000,302,Liaocheng,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-130,130,1,Charlotte,Hunter,charlotte.hunter@sakilacustomer.org,134,True,2006-02-14,2013-05-26 14:49:45.738,1,134,758 Junan Lane,,Gois,190,82639,935448624185,2006-02-15 09:45:30.000,190,guas Lindas de Gois,15,2006-02-15 09:45:25.000,15,Brazil,2006-02-15 09:44:00.000
-131,131,2,Monica,Hicks,monica.hicks@sakilacustomer.org,135,True,2006-02-14,2013-05-26 14:49:45.738,1,135,1752 So Leopoldo Parkway,,Taka-Karpatia,345,14014,252265130067,2006-02-15 09:45:30.000,345,Mukateve,100,2006-02-15 09:45:25.000,100,Ukraine,2006-02-15 09:44:00.000
-132,132,2,Esther,Crawford,esther.crawford@sakilacustomer.org,136,True,2006-02-14,2013-05-26 14:49:45.738,1,136,898 Belm Manor,,Free State,87,49757,707169393853,2006-02-15 09:45:30.000,87,Botshabelo,85,2006-02-15 09:45:25.000,85,South Africa,2006-02-15 09:44:00.000
-133,133,1,Pauline,Henry,pauline.henry@sakilacustomer.org,137,True,2006-02-14,2013-05-26 14:49:45.738,1,137,261 Saint Louis Way,,Coahuila de Zaragoza,541,83401,321944036800,2006-02-15 09:45:30.000,541,Torren,60,2006-02-15 09:45:25.000,60,Mexico,2006-02-15 09:44:00.000
-134,134,1,Emma,Boyd,emma.boyd@sakilacustomer.org,138,True,2006-02-14,2013-05-26 14:49:45.738,1,138,765 Southampton Drive,,al-Qalyubiya,421,4285,23712411567,2006-02-15 09:45:30.000,421,Qalyub,29,2006-02-15 09:45:25.000,29,Egypt,2006-02-15 09:44:00.000
-135,135,2,Juanita,Mason,juanita.mason@sakilacustomer.org,139,True,2006-02-14,2013-05-26 14:49:45.738,1,139,943 Johannesburg Avenue,,Maharashtra,417,5892,90921003005,2006-02-15 09:45:30.000,417,Pune,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-136,136,2,Anita,Morales,anita.morales@sakilacustomer.org,140,True,2006-02-14,2013-05-26 14:49:45.738,1,140,788 Atinsk Street,,Karnataka,211,81691,146497509724,2006-02-15 09:45:30.000,211,Hubli-Dharwad,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-137,137,2,Rhonda,Kennedy,rhonda.kennedy@sakilacustomer.org,141,True,2006-02-14,2013-05-26 14:49:45.738,1,141,1749 Daxian Place,,Gelderland,29,11044,963369996279,2006-02-15 09:45:30.000,29,Apeldoorn,67,2006-02-15 09:45:25.000,67,Netherlands,2006-02-15 09:44:00.000
-138,138,1,Hazel,Warren,hazel.warren@sakilacustomer.org,142,True,2006-02-14,2013-05-26 14:49:45.738,1,142,1587 Sullana Lane,,Inner Mongolia,207,85769,468060467018,2006-02-15 09:45:30.000,207,Hohhot,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-139,139,1,Amber,Dixon,amber.dixon@sakilacustomer.org,143,True,2006-02-14,2013-05-26 14:49:45.738,1,143,1029 Dzerzinsk Manor,,Ynlin,542,57519,33173584456,2006-02-15 09:45:30.000,542,Touliu,92,2006-02-15 09:45:25.000,92,Taiwan,2006-02-15 09:44:00.000
-140,140,1,Eva,Ramos,eva.ramos@sakilacustomer.org,144,True,2006-02-14,2013-05-26 14:49:45.738,1,144,1666 Beni-Mellal Place,,Tennessee,123,13377,9099941466,2006-02-15 09:45:30.000,123,Clarksville,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-141,141,1,Debbie,Reyes,debbie.reyes@sakilacustomer.org,145,True,2006-02-14,2013-05-26 14:49:45.738,1,145,928 Jaffna Loop,,Hiroshima,172,93762,581852137991,2006-02-15 09:45:30.000,172,Fukuyama,50,2006-02-15 09:45:25.000,50,Japan,2006-02-15 09:44:00.000
-142,142,1,April,Burns,april.burns@sakilacustomer.org,146,True,2006-02-14,2013-05-26 14:49:45.738,1,146,483 Ljubertsy Parkway,,Scotland,149,60562,581174211853,2006-02-15 09:45:30.000,149,Dundee,102,2006-02-15 09:45:25.000,102,United Kingdom,2006-02-15 09:44:00.000
-143,143,1,Leslie,Gordon,leslie.gordon@sakilacustomer.org,147,True,2006-02-14,2013-05-26 14:49:45.738,1,147,374 Bat Yam Boulevard,,Kilis,266,97700,923261616249,2006-02-15 09:45:30.000,266,Kilis,97,2006-02-15 09:45:25.000,97,Turkey,2006-02-15 09:44:00.000
-144,144,1,Clara,Shaw,clara.shaw@sakilacustomer.org,148,True,2006-02-14,2013-05-26 14:49:45.738,1,148,1027 Songkhla Manor,,Minsk,340,30861,563660187896,2006-02-15 09:45:30.000,340,Molodetno,13,2006-02-15 09:45:25.000,13,Belarus,2006-02-15 09:44:00.000
-145,145,1,Lucille,Holmes,lucille.holmes@sakilacustomer.org,149,True,2006-02-14,2013-05-26 14:49:45.738,1,149,999 Sanaa Loop,,Gauteng,491,3439,918032330119,2006-02-15 09:45:30.000,491,Soshanguve,85,2006-02-15 09:45:25.000,85,South Africa,2006-02-15 09:44:00.000
-146,146,1,Jamie,Rice,jamie.rice@sakilacustomer.org,150,True,2006-02-14,2013-05-26 14:49:45.738,1,150,879 Newcastle Way,,Michigan,499,90732,206841104594,2006-02-15 09:45:30.000,499,Sterling Heights,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-147,147,2,Joanne,Robertson,joanne.robertson@sakilacustomer.org,151,True,2006-02-14,2013-05-26 14:49:45.738,1,151,1337 Lincoln Parkway,,Saitama,555,99457,597815221267,2006-02-15 09:45:30.000,555,Urawa,50,2006-02-15 09:45:25.000,50,Japan,2006-02-15 09:44:00.000
-148,148,1,Eleanor,Hunt,eleanor.hunt@sakilacustomer.org,152,True,2006-02-14,2013-05-26 14:49:45.738,1,152,1952 Pune Lane,,Saint-Denis,442,92150,354615066969,2006-02-15 09:45:30.000,442,Saint-Denis,79,2006-02-15 09:45:25.000,79,Runion,2006-02-15 09:44:00.000
-149,149,1,Valerie,Black,valerie.black@sakilacustomer.org,153,True,2006-02-14,2013-05-26 14:49:45.738,1,153,782 Mosul Street,,Massachusetts,94,25545,885899703621,2006-02-15 09:45:30.000,94,Brockton,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-150,150,2,Danielle,Daniels,danielle.daniels@sakilacustomer.org,154,True,2006-02-14,2013-05-26 14:49:45.738,1,154,781 Shimonoseki Drive,,Michoacn de Ocampo,202,95444,632316273199,2006-02-15 09:45:30.000,202,Hidalgo,60,2006-02-15 09:45:25.000,60,Mexico,2006-02-15 09:44:00.000
-151,151,2,Megan,Palmer,megan.palmer@sakilacustomer.org,155,True,2006-02-14,2013-05-26 14:49:45.738,1,155,1560 Jelets Boulevard,,Shandong,291,77777,189446090264,2006-02-15 09:45:30.000,291,Laiwu,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-152,152,1,Alicia,Mills,alicia.mills@sakilacustomer.org,156,True,2006-02-14,2013-05-26 14:49:45.738,1,156,1963 Moscow Place,,Assam,354,64863,761379480249,2006-02-15 09:45:30.000,354,Nagaon,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-153,153,2,Suzanne,Nichols,suzanne.nichols@sakilacustomer.org,157,True,2006-02-14,2013-05-26 14:49:45.738,1,157,456 Escobar Way,,Jakarta Raya,232,36061,719202533520,2006-02-15 09:45:30.000,232,Jakarta,45,2006-02-15 09:45:25.000,45,Indonesia,2006-02-15 09:44:00.000
-154,154,2,Michele,Grant,michele.grant@sakilacustomer.org,158,True,2006-02-14,2013-05-26 14:49:45.738,1,158,798 Cianjur Avenue,,Shanxi,590,76990,499408708580,2006-02-15 09:45:30.000,590,Yuncheng,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-155,155,1,Gail,Knight,gail.knight@sakilacustomer.org,159,True,2006-02-14,2013-05-26 14:49:45.738,1,159,185 Novi Sad Place,,Bern,72,41778,904253967161,2006-02-15 09:45:30.000,72,Bern,91,2006-02-15 09:45:25.000,91,Switzerland,2006-02-15 09:44:00.000
-156,156,1,Bertha,Ferguson,bertha.ferguson@sakilacustomer.org,160,True,2006-02-14,2013-05-26 14:49:45.738,1,160,1367 Yantai Manor,,Ondo & Ekiti,381,21294,889538496300,2006-02-15 09:45:30.000,381,Ondo,69,2006-02-15 09:45:25.000,69,Nigeria,2006-02-15 09:44:00.000
-157,157,2,Darlene,Rose,darlene.rose@sakilacustomer.org,161,True,2006-02-14,2013-05-26 14:49:45.738,1,161,1386 Nakhon Sawan Boulevard,,Pyongyang-si,420,53502,368899174225,2006-02-15 09:45:30.000,420,Pyongyang,70,2006-02-15 09:45:25.000,70,North Korea,2006-02-15 09:44:00.000
-158,158,1,Veronica,Stone,veronica.stone@sakilacustomer.org,162,True,2006-02-14,2013-05-26 14:49:45.738,1,162,369 Papeete Way,,North Carolina,187,66639,170117068815,2006-02-15 09:45:30.000,187,Greensboro,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-159,159,1,Jill,Hawkins,jill.hawkins@sakilacustomer.org,163,True,2006-02-14,2013-05-26 14:49:45.738,1,163,1440 Compton Place,,North Austria,307,81037,931059836497,2006-02-15 09:45:30.000,307,Linz,9,2006-02-15 09:45:25.000,9,Austria,2006-02-15 09:44:00.000
-160,160,2,Erin,Dunn,erin.dunn@sakilacustomer.org,164,True,2006-02-14,2013-05-26 14:49:45.738,1,164,1623 Baha Blanca Manor,,Moskova,310,81511,149981248346,2006-02-15 09:45:30.000,310,Ljubertsy,80,2006-02-15 09:45:25.000,80,Russian Federation,2006-02-15 09:44:00.000
-161,161,1,Geraldine,Perkins,geraldine.perkins@sakilacustomer.org,165,True,2006-02-14,2013-05-26 14:49:45.738,1,165,97 Shimoga Avenue,,Tel Aviv,533,44660,177167004331,2006-02-15 09:45:30.000,533,Tel Aviv-Jaffa,48,2006-02-15 09:45:25.000,48,Israel,2006-02-15 09:44:00.000
-162,162,2,Lauren,Hudson,lauren.hudson@sakilacustomer.org,166,True,2006-02-14,2013-05-26 14:49:45.738,1,166,1740 Le Mans Loop,,Pays de la Loire,297,22853,168476538960,2006-02-15 09:45:30.000,297,Le Mans,34,2006-02-15 09:45:25.000,34,France,2006-02-15 09:44:00.000
-163,163,1,Cathy,Spencer,cathy.spencer@sakilacustomer.org,167,True,2006-02-14,2013-05-26 14:49:45.738,1,167,1287 Xiangfan Boulevard,,Gifu,253,57844,819416131190,2006-02-15 09:45:30.000,253,Kakamigahara,50,2006-02-15 09:45:25.000,50,Japan,2006-02-15 09:44:00.000
-164,164,2,Joann,Gardner,joann.gardner@sakilacustomer.org,168,True,2006-02-14,2013-05-26 14:49:45.738,1,168,842 Salzburg Lane,,Adana,529,3313,697151428760,2006-02-15 09:45:30.000,529,Tarsus,97,2006-02-15 09:45:25.000,97,Turkey,2006-02-15 09:44:00.000
-165,165,2,Lorraine,Stephens,lorraine.stephens@sakilacustomer.org,169,True,2006-02-14,2013-05-26 14:49:45.738,1,169,154 Tallahassee Loop,,Xinxiang,199,62250,935508855935,2006-02-15 09:45:30.000,199,Hami,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-166,166,1,Lynn,Payne,lynn.payne@sakilacustomer.org,170,True,2006-02-14,2013-05-26 14:49:45.738,1,170,710 San Felipe del Progreso Avenue,,Lilongwe,304,76901,843801144113,2006-02-15 09:45:30.000,304,Lilongwe,58,2006-02-15 09:45:25.000,58,Malawi,2006-02-15 09:44:00.000
-167,167,2,Sally,Pierce,sally.pierce@sakilacustomer.org,171,True,2006-02-14,2013-05-26 14:49:45.738,1,171,1540 Wroclaw Drive,,Maharashtra,107,62686,182363341674,2006-02-15 09:45:30.000,107,Chandrapur,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-168,168,1,Regina,Berry,regina.berry@sakilacustomer.org,172,True,2006-02-14,2013-05-26 14:49:45.738,1,172,475 Atinsk Way,,Gansu,240,59571,201705577290,2006-02-15 09:45:30.000,240,Jinchang,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-169,169,2,Erica,Matthews,erica.matthews@sakilacustomer.org,173,True,2006-02-14,2013-05-26 14:49:45.738,0,173,1294 Firozabad Drive,,Jiangxi,407,70618,161801569569,2006-02-15 09:45:30.000,407,Pingxiang,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-170,170,1,Beatrice,Arnold,beatrice.arnold@sakilacustomer.org,174,True,2006-02-14,2013-05-26 14:49:45.738,1,174,1877 Ezhou Lane,,Rajasthan,550,63337,264541743403,2006-02-15 09:45:30.000,550,Udaipur,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-171,171,2,Dolores,Wagner,dolores.wagner@sakilacustomer.org,175,True,2006-02-14,2013-05-26 14:49:45.738,1,175,316 Uruapan Street,,Perak,223,58194,275788967899,2006-02-15 09:45:30.000,223,Ipoh,59,2006-02-15 09:45:25.000,59,Malaysia,2006-02-15 09:44:00.000
-172,172,1,Bernice,Willis,bernice.willis@sakilacustomer.org,176,True,2006-02-14,2013-05-26 14:49:45.738,1,176,29 Pyongyang Loop,,Batman,58,47753,734780743462,2006-02-15 09:45:30.000,58,Batman,97,2006-02-15 09:45:25.000,97,Turkey,2006-02-15 09:44:00.000
-173,173,1,Audrey,Ray,audrey.ray@sakilacustomer.org,177,True,2006-02-14,2013-05-26 14:49:45.738,1,177,1010 Klerksdorp Way,,Steiermark,186,6802,493008546874,2006-02-15 09:45:30.000,186,Graz,9,2006-02-15 09:45:25.000,9,Austria,2006-02-15 09:44:00.000
-174,174,2,Yvonne,Watkins,yvonne.watkins@sakilacustomer.org,178,True,2006-02-14,2013-05-26 14:49:45.738,1,178,1848 Salala Boulevard,,Miranda,373,25220,48265851133,2006-02-15 09:45:30.000,373,Ocumare del Tuy,104,2006-02-15 09:45:25.000,104,Venezuela,2006-02-15 09:44:00.000
-175,175,1,Annette,Olson,annette.olson@sakilacustomer.org,179,True,2006-02-14,2013-05-26 14:49:45.738,1,179,431 Xiangtan Avenue,,Kerala,18,4854,230250973122,2006-02-15 09:45:30.000,18,Allappuzha (Alleppey),44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-176,176,1,June,Carroll,june.carroll@sakilacustomer.org,180,True,2006-02-14,2013-05-26 14:49:45.738,1,180,757 Rustenburg Avenue,,Skikda,483,89668,506134035434,2006-02-15 09:45:30.000,483,Skikda,2,2006-02-15 09:45:25.000,2,Algeria,2006-02-15 09:44:00.000
-177,177,2,Samantha,Duncan,samantha.duncan@sakilacustomer.org,181,True,2006-02-14,2013-05-26 14:49:45.738,1,181,146 Johannesburg Way,,Tamaulipas,330,54132,953689007081,2006-02-15 09:45:30.000,330,Matamoros,60,2006-02-15 09:45:25.000,60,Mexico,2006-02-15 09:44:00.000
-178,178,2,Marion,Snyder,marion.snyder@sakilacustomer.org,182,True,2006-02-14,2013-05-26 14:49:45.738,1,182,1891 Rizhao Boulevard,,So Paulo,456,47288,391065549876,2006-02-15 09:45:30.000,456,Santa Brbara dOeste,15,2006-02-15 09:45:25.000,15,Brazil,2006-02-15 09:44:00.000
-179,179,1,Dana,Hart,dana.hart@sakilacustomer.org,183,True,2006-02-14,2013-05-26 14:49:45.738,1,183,1089 Iwatsuki Avenue,,Kirov,270,35109,866092335135,2006-02-15 09:45:30.000,270,Kirovo-Tepetsk,80,2006-02-15 09:45:25.000,80,Russian Federation,2006-02-15 09:44:00.000
-180,180,2,Stacy,Cunningham,stacy.cunningham@sakilacustomer.org,184,True,2006-02-14,2013-05-26 14:49:45.738,1,184,1410 Benin City Parkway,,Risaralda,405,29747,104150372603,2006-02-15 09:45:30.000,405,Pereira,24,2006-02-15 09:45:25.000,24,Colombia,2006-02-15 09:44:00.000
-181,181,2,Ana,Bradley,ana.bradley@sakilacustomer.org,185,True,2006-02-14,2013-05-26 14:49:45.738,1,185,682 Garden Grove Place,,Tennessee,333,67497,72136330362,2006-02-15 09:45:30.000,333,Memphis,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-182,182,1,Renee,Lane,renee.lane@sakilacustomer.org,186,True,2006-02-14,2013-05-26 14:49:45.738,1,186,533 al-Ayn Boulevard,,California,126,8862,662227486184,2006-02-15 09:45:30.000,126,Compton,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-183,183,2,Ida,Andrews,ida.andrews@sakilacustomer.org,187,True,2006-02-14,2013-05-26 14:49:45.738,1,187,1839 Szkesfehrvr Parkway,,Gois,317,55709,947468818183,2006-02-15 09:45:30.000,317,Luzinia,15,2006-02-15 09:45:25.000,15,Brazil,2006-02-15 09:44:00.000
-184,184,1,Vivian,Ruiz,vivian.ruiz@sakilacustomer.org,188,True,2006-02-14,2013-05-26 14:49:45.738,1,188,741 Ambattur Manor,,Noord-Brabant,438,43310,302590383819,2006-02-15 09:45:30.000,438,s-Hertogenbosch,67,2006-02-15 09:45:25.000,67,Netherlands,2006-02-15 09:44:00.000
-185,185,1,Roberta,Harper,roberta.harper@sakilacustomer.org,189,True,2006-02-14,2013-05-26 14:49:45.738,1,189,927 Barcelona Street,,Chaharmahal va Bakht,467,65121,951486492670,2006-02-15 09:45:30.000,467,Shahr-e Kord,46,2006-02-15 09:45:25.000,46,Iran,2006-02-15 09:44:00.000
-186,186,2,Holly,Fox,holly.fox@sakilacustomer.org,190,True,2006-02-14,2013-05-26 14:49:45.738,1,190,435 0 Way,,West Bengali,195,74750,760171523969,2006-02-15 09:45:30.000,195,Haldia,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-187,187,2,Brittany,Riley,brittany.riley@sakilacustomer.org,191,True,2006-02-14,2013-05-26 14:49:45.738,1,191,140 Chiayi Parkway,,Sumy,506,38982,855863906434,2006-02-15 09:45:30.000,506,Sumy,100,2006-02-15 09:45:25.000,100,Ukraine,2006-02-15 09:44:00.000
-188,188,1,Melanie,Armstrong,melanie.armstrong@sakilacustomer.org,192,True,2006-02-14,2013-05-26 14:49:45.738,1,192,1166 Changhwa Street,,Caraga,62,58852,650752094490,2006-02-15 09:45:30.000,62,Bayugan,75,2006-02-15 09:45:25.000,75,Philippines,2006-02-15 09:44:00.000
-189,189,1,Loretta,Carpenter,loretta.carpenter@sakilacustomer.org,193,True,2006-02-14,2013-05-26 14:49:45.738,1,193,891 Novi Sad Manor,,Ontario,383,5379,247646995453,2006-02-15 09:45:30.000,383,Oshawa,20,2006-02-15 09:45:25.000,20,Canada,2006-02-15 09:44:00.000
-190,190,2,Yolanda,Weaver,yolanda.weaver@sakilacustomer.org,194,True,2006-02-14,2013-05-26 14:49:45.738,1,194,605 Rio Claro Parkway,,Tabora,513,49348,352469351088,2006-02-15 09:45:30.000,513,Tabora,93,2006-02-15 09:45:25.000,93,Tanzania,2006-02-15 09:44:00.000
-191,191,1,Jeanette,Greene,jeanette.greene@sakilacustomer.org,195,True,2006-02-14,2013-05-26 14:49:45.738,1,195,1077 San Felipe de Puerto Plata Place,,Rostov-na-Donu,369,65387,812824036424,2006-02-15 09:45:30.000,369,Novoterkassk,80,2006-02-15 09:45:25.000,80,Russian Federation,2006-02-15 09:44:00.000
-192,192,1,Laurie,Lawrence,laurie.lawrence@sakilacustomer.org,196,True,2006-02-14,2013-05-26 14:49:45.738,1,196,9 San Miguel de Tucumn Manor,,Uttar Pradesh,169,90845,956188728558,2006-02-15 09:45:30.000,169,Firozabad,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-193,193,2,Katie,Elliott,katie.elliott@sakilacustomer.org,197,True,2006-02-14,2013-05-26 14:49:45.738,1,197,447 Surakarta Loop,,Nyanza,271,10428,940830176580,2006-02-15 09:45:30.000,271,Kisumu,52,2006-02-15 09:45:25.000,52,Kenya,2006-02-15 09:44:00.000
-194,194,2,Kristen,Chavez,kristen.chavez@sakilacustomer.org,198,True,2006-02-14,2013-05-26 14:49:45.738,1,198,345 Oshawa Boulevard,,Tokyo-to,204,32114,104491201771,2006-02-15 09:45:30.000,204,Hino,50,2006-02-15 09:45:25.000,50,Japan,2006-02-15 09:44:00.000
-195,195,1,Vanessa,Sims,vanessa.sims@sakilacustomer.org,199,True,2006-02-14,2013-05-26 14:49:45.738,1,199,1792 Valle de la Pascua Place,,Nordrhein-Westfalen,477,15540,419419591240,2006-02-15 09:45:30.000,477,Siegen,38,2006-02-15 09:45:25.000,38,Germany,2006-02-15 09:44:00.000
-196,196,1,Alma,Austin,alma.austin@sakilacustomer.org,200,True,2006-02-14,2013-05-26 14:49:45.738,1,200,1074 Binzhou Manor,,Baden-Wrttemberg,325,36490,331132568928,2006-02-15 09:45:30.000,325,Mannheim,38,2006-02-15 09:45:25.000,38,Germany,2006-02-15 09:44:00.000
-197,197,2,Sue,Peters,sue.peters@sakilacustomer.org,201,True,2006-02-14,2013-05-26 14:49:45.738,1,201,817 Bradford Loop,,Jiangsu,109,89459,264286442804,2006-02-15 09:45:30.000,109,Changzhou,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-198,198,2,Elsie,Kelley,elsie.kelley@sakilacustomer.org,202,True,2006-02-14,2013-05-26 14:49:45.738,1,202,955 Bamenda Way,,Ondo & Ekiti,218,1545,768481779568,2006-02-15 09:45:30.000,218,Ikerre,69,2006-02-15 09:45:25.000,69,Nigeria,2006-02-15 09:44:00.000
-199,199,2,Beth,Franklin,beth.franklin@sakilacustomer.org,203,True,2006-02-14,2013-05-26 14:49:45.738,1,203,1149 A Corua (La Corua) Boulevard,,Haiphong,194,95824,470884141195,2006-02-15 09:45:30.000,194,Haiphong,105,2006-02-15 09:45:25.000,105,Vietnam,2006-02-15 09:44:00.000
-200,200,2,Jeanne,Lawson,jeanne.lawson@sakilacustomer.org,204,True,2006-02-14,2013-05-26 14:49:45.738,1,204,387 Mwene-Ditu Drive,,Ahal,35,8073,764477681869,2006-02-15 09:45:30.000,35,Ashgabat,98,2006-02-15 09:45:25.000,98,Turkmenistan,2006-02-15 09:44:00.000
-201,201,1,Vicki,Fields,vicki.fields@sakilacustomer.org,205,True,2006-02-14,2013-05-26 14:49:45.738,1,205,68 Molodetno Manor,,Nordrhein-Westfalen,575,4662,146640639760,2006-02-15 09:45:30.000,575,Witten,38,2006-02-15 09:45:25.000,38,Germany,2006-02-15 09:44:00.000
-202,202,2,Carla,Gutierrez,carla.gutierrez@sakilacustomer.org,206,True,2006-02-14,2013-05-26 14:49:45.738,1,206,642 Nador Drive,,Maharashtra,77,3924,369050085652,2006-02-15 09:45:30.000,77,Bhusawal,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-203,203,1,Tara,Ryan,tara.ryan@sakilacustomer.org,207,True,2006-02-14,2013-05-26 14:49:45.738,1,207,1688 Nador Lane,,Sulawesi Utara,184,61613,652218196731,2006-02-15 09:45:30.000,184,Gorontalo,45,2006-02-15 09:45:25.000,45,Indonesia,2006-02-15 09:44:00.000
-204,204,1,Rosemary,Schmidt,rosemary.schmidt@sakilacustomer.org,208,True,2006-02-14,2013-05-26 14:49:45.738,1,208,1215 Pyongyang Parkway,,Usak,557,25238,646237101779,2006-02-15 09:45:30.000,557,Usak,97,2006-02-15 09:45:25.000,97,Turkey,2006-02-15 09:44:00.000
-205,205,2,Eileen,Carr,eileen.carr@sakilacustomer.org,209,True,2006-02-14,2013-05-26 14:49:45.738,1,209,1679 Antofagasta Street,,Alto Paran,122,86599,905903574913,2006-02-15 09:45:30.000,122,Ciudad del Este,73,2006-02-15 09:45:25.000,73,Paraguay,2006-02-15 09:44:00.000
-206,206,1,Terri,Vasquez,terri.vasquez@sakilacustomer.org,210,True,2006-02-14,2013-05-26 14:49:45.738,1,210,1304 s-Hertogenbosch Way,,Santa Catarina,83,10925,90336226227,2006-02-15 09:45:30.000,83,Blumenau,15,2006-02-15 09:45:25.000,15,Brazil,2006-02-15 09:44:00.000
-207,207,1,Gertrude,Castillo,gertrude.castillo@sakilacustomer.org,211,True,2006-02-14,2013-05-26 14:49:45.738,1,211,850 Salala Loop,,Kitaa,371,10800,403404780639,2006-02-15 09:45:30.000,371,Nuuk,40,2006-02-15 09:45:25.000,40,Greenland,2006-02-15 09:44:00.000
-208,208,1,Lucy,Wheeler,lucy.wheeler@sakilacustomer.org,212,True,2006-02-14,2013-05-26 14:49:45.738,1,212,624 Oshawa Boulevard,,West Bengali,51,89959,49677664184,2006-02-15 09:45:30.000,51,Balurghat,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-209,209,2,Tonya,Chapman,tonya.chapman@sakilacustomer.org,213,True,2006-02-14,2013-05-26 14:49:45.738,1,213,43 Dadu Avenue,,Rajasthan,74,4855,95666951770,2006-02-15 09:45:30.000,74,Bhilwara,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-210,210,2,Ella,Oliver,ella.oliver@sakilacustomer.org,214,True,2006-02-14,2013-05-26 14:49:45.738,1,214,751 Lima Loop,,Aden,7,99405,756460337785,2006-02-15 09:45:30.000,7,Aden,107,2006-02-15 09:45:25.000,107,Yemen,2006-02-15 09:44:00.000
-211,211,1,Stacey,Montgomery,stacey.montgomery@sakilacustomer.org,215,True,2006-02-14,2013-05-26 14:49:45.738,1,215,1333 Haldia Street,,Jilin,174,82161,408304391718,2006-02-15 09:45:30.000,174,Fuyu,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-212,212,2,Wilma,Richards,wilma.richards@sakilacustomer.org,216,True,2006-02-14,2013-05-26 14:49:45.738,1,216,660 Jedda Boulevard,,Washington,65,25053,168758068397,2006-02-15 09:45:30.000,65,Bellevue,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-213,213,1,Gina,Williamson,gina.williamson@sakilacustomer.org,217,True,2006-02-14,2013-05-26 14:49:45.738,1,217,1001 Miyakonojo Lane,,Taizz,518,67924,584316724815,2006-02-15 09:45:30.000,518,Taizz,107,2006-02-15 09:45:25.000,107,Yemen,2006-02-15 09:44:00.000
-214,214,1,Kristin,Johnston,kristin.johnston@sakilacustomer.org,218,True,2006-02-14,2013-05-26 14:49:45.738,1,218,226 Brest Manor,,California,508,2299,785881412500,2006-02-15 09:45:30.000,508,Sunnyvale,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-215,215,2,Jessie,Banks,jessie.banks@sakilacustomer.org,219,True,2006-02-14,2013-05-26 14:49:45.738,1,219,1229 Valencia Parkway,,Haskovo,498,99124,352679173732,2006-02-15 09:45:30.000,498,Stara Zagora,17,2006-02-15 09:45:25.000,17,Bulgaria,2006-02-15 09:44:00.000
-216,216,1,Natalie,Meyer,natalie.meyer@sakilacustomer.org,220,True,2006-02-14,2013-05-26 14:49:45.738,1,220,1201 Qomsheh Manor,,Gois,28,21464,873492228462,2006-02-15 09:45:30.000,28,Aparecida de Goinia,15,2006-02-15 09:45:25.000,15,Brazil,2006-02-15 09:44:00.000
-217,217,2,Agnes,Bishop,agnes.bishop@sakilacustomer.org,221,True,2006-02-14,2013-05-26 14:49:45.738,1,221,866 Shivapuri Manor,,Uttar Pradesh,448,22474,778502731092,2006-02-15 09:45:30.000,448,Sambhal,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-218,218,1,Vera,Mccoy,vera.mccoy@sakilacustomer.org,222,True,2006-02-14,2013-05-26 14:49:45.738,1,222,1168 Najafabad Parkway,,Kabol,251,40301,886649065861,2006-02-15 09:45:30.000,251,Kabul,1,2006-02-15 09:45:25.000,1,Afghanistan,2006-02-15 09:44:00.000
-219,219,2,Willie,Howell,willie.howell@sakilacustomer.org,223,True,2006-02-14,2013-05-26 14:49:45.738,1,223,1244 Allappuzha (Alleppey) Place,,Buenos Aires,567,20657,991802825778,2006-02-15 09:45:30.000,567,Vicente Lpez,6,2006-02-15 09:45:25.000,6,Argentina,2006-02-15 09:44:00.000
-220,220,2,Charlene,Alvarez,charlene.alvarez@sakilacustomer.org,224,True,2006-02-14,2013-05-26 14:49:45.738,1,224,1842 Luzinia Boulevard,,Zanzibar West,593,94420,706878974831,2006-02-15 09:45:30.000,593,Zanzibar,93,2006-02-15 09:45:25.000,93,Tanzania,2006-02-15 09:44:00.000
-221,221,1,Bessie,Morrison,bessie.morrison@sakilacustomer.org,225,True,2006-02-14,2013-05-26 14:49:45.738,1,225,1926 Gingoog Street,,Sisilia,511,22824,469738825391,2006-02-15 09:45:30.000,511,Syrakusa,49,2006-02-15 09:45:25.000,49,Italy,2006-02-15 09:44:00.000
-222,222,2,Delores,Hansen,delores.hansen@sakilacustomer.org,226,True,2006-02-14,2013-05-26 14:49:45.738,1,226,810 Palghat (Palakkad) Boulevard,,Jaroslavl,235,73431,516331171356,2006-02-15 09:45:30.000,235,Jaroslavl,80,2006-02-15 09:45:25.000,80,Russian Federation,2006-02-15 09:44:00.000
-223,223,1,Melinda,Fernandez,melinda.fernandez@sakilacustomer.org,227,True,2006-02-14,2013-05-26 14:49:45.738,1,227,1820 Maring Parkway,,Punjab,324,88307,99760893676,2006-02-15 09:45:30.000,324,Mandi Bahauddin,72,2006-02-15 09:45:25.000,72,Pakistan,2006-02-15 09:44:00.000
-224,224,2,Pearl,Garza,pearl.garza@sakilacustomer.org,228,True,2006-02-14,2013-05-26 14:49:45.738,1,228,60 Poos de Caldas Street,,Rajasthan,243,82338,963063788669,2006-02-15 09:45:30.000,243,Jodhpur,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-225,225,1,Arlene,Harvey,arlene.harvey@sakilacustomer.org,229,True,2006-02-14,2013-05-26 14:49:45.738,1,229,1014 Loja Manor,,Tamil Nadu,22,66851,460795526514,2006-02-15 09:45:30.000,22,Ambattur,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-226,226,2,Maureen,Little,maureen.little@sakilacustomer.org,230,True,2006-02-14,2013-05-26 14:49:45.738,1,230,201 Effon-Alaiye Way,,Asuncin,37,64344,684192903087,2006-02-15 09:45:30.000,37,Asuncin,73,2006-02-15 09:45:25.000,73,Paraguay,2006-02-15 09:44:00.000
-227,227,1,Colleen,Burton,colleen.burton@sakilacustomer.org,231,True,2006-02-14,2013-05-26 14:49:45.738,1,231,430 Alessandria Loop,,Saarland,439,47446,669828224459,2006-02-15 09:45:30.000,439,Saarbrcken,38,2006-02-15 09:45:25.000,38,Germany,2006-02-15 09:44:00.000
-228,228,2,Allison,Stanley,allison.stanley@sakilacustomer.org,232,True,2006-02-14,2013-05-26 14:49:45.738,1,232,754 Valencia Place,,Phnom Penh,406,87911,594319417514,2006-02-15 09:45:30.000,406,Phnom Penh,18,2006-02-15 09:45:25.000,18,Cambodia,2006-02-15 09:44:00.000
-229,229,1,Tamara,Nguyen,tamara.nguyen@sakilacustomer.org,233,True,2006-02-14,2013-05-26 14:49:45.738,1,233,356 Olomouc Manor,,Gois,26,93323,22326410776,2006-02-15 09:45:30.000,26,Anpolis,15,2006-02-15 09:45:25.000,15,Brazil,2006-02-15 09:44:00.000
-230,230,2,Joy,George,joy.george@sakilacustomer.org,234,True,2006-02-14,2013-05-26 14:49:45.738,1,234,1256 Bislig Boulevard,,Botosani,86,50598,479007229460,2006-02-15 09:45:30.000,86,Botosani,78,2006-02-15 09:45:25.000,78,Romania,2006-02-15 09:44:00.000
-231,231,1,Georgia,Jacobs,georgia.jacobs@sakilacustomer.org,235,True,2006-02-14,2013-05-26 14:49:45.738,1,235,954 Kimchon Place,,West Bengali,559,42420,541327526474,2006-02-15 09:45:30.000,559,Uttarpara-Kotrung,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-232,232,2,Constance,Reid,constance.reid@sakilacustomer.org,236,True,2006-02-14,2013-05-26 14:49:45.738,1,236,885 Yingkou Manor,,Kaduna,596,31390,588964509072,2006-02-15 09:45:30.000,596,Zaria,69,2006-02-15 09:45:25.000,69,Nigeria,2006-02-15 09:44:00.000
-233,233,2,Lillie,Kim,lillie.kim@sakilacustomer.org,237,True,2006-02-14,2013-05-26 14:49:45.738,1,237,1736 Cavite Place,,Qina,216,98775,431770603551,2006-02-15 09:45:30.000,216,Idfu,29,2006-02-15 09:45:25.000,29,Egypt,2006-02-15 09:44:00.000
-234,234,1,Claudia,Fuller,claudia.fuller@sakilacustomer.org,238,True,2006-02-14,2013-05-26 14:49:45.738,1,238,346 Skikda Parkway,,Hawalli,233,90628,630424482919,2006-02-15 09:45:30.000,233,Jalib al-Shuyukh,53,2006-02-15 09:45:25.000,53,Kuwait,2006-02-15 09:44:00.000
-235,235,1,Jackie,Lynch,jackie.lynch@sakilacustomer.org,239,True,2006-02-14,2013-05-26 14:49:45.738,1,239,98 Stara Zagora Boulevard,,Valle,96,76448,610173756082,2006-02-15 09:45:30.000,96,Buenaventura,24,2006-02-15 09:45:25.000,24,Colombia,2006-02-15 09:44:00.000
-236,236,1,Marcia,Dean,marcia.dean@sakilacustomer.org,240,True,2006-02-14,2013-05-26 14:49:45.738,1,240,1479 Rustenburg Boulevard,,Southern Tagalog,527,18727,727785483194,2006-02-15 09:45:30.000,527,Tanza,75,2006-02-15 09:45:25.000,75,Philippines,2006-02-15 09:44:00.000
-237,237,1,Tanya,Gilbert,tanya.gilbert@sakilacustomer.org,241,True,2006-02-14,2013-05-26 14:49:45.738,1,241,647 A Corua (La Corua) Street,,Chollanam,357,36971,792557457753,2006-02-15 09:45:30.000,357,Naju,86,2006-02-15 09:45:25.000,86,South Korea,2006-02-15 09:44:00.000
-238,238,1,Nellie,Garrett,nellie.garrett@sakilacustomer.org,242,True,2006-02-14,2013-05-26 14:49:45.738,1,242,1964 Gijn Manor,,Karnataka,473,14408,918119601885,2006-02-15 09:45:30.000,473,Shimoga,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-239,239,2,Minnie,Romero,minnie.romero@sakilacustomer.org,243,True,2006-02-14,2013-05-26 14:49:45.738,1,243,47 Syktyvkar Lane,,West Java,118,22236,63937119031,2006-02-15 09:45:30.000,118,Ciomas,45,2006-02-15 09:45:25.000,45,Indonesia,2006-02-15 09:44:00.000
-240,240,1,Marlene,Welch,marlene.welch@sakilacustomer.org,244,True,2006-02-14,2013-05-26 14:49:45.738,1,244,1148 Saarbrcken Parkway,,Fukushima,226,1921,137773001988,2006-02-15 09:45:30.000,226,Iwaki,50,2006-02-15 09:45:25.000,50,Japan,2006-02-15 09:44:00.000
-241,241,2,Heidi,Larson,heidi.larson@sakilacustomer.org,245,True,2006-02-14,2013-05-26 14:49:45.738,0,245,1103 Bilbays Parkway,,Hubei,578,87660,279979529227,2006-02-15 09:45:30.000,578,Xiangfan,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-242,242,1,Glenda,Frazier,glenda.frazier@sakilacustomer.org,246,True,2006-02-14,2013-05-26 14:49:45.738,1,246,1246 Boksburg Parkway,,Hebei,422,28349,890283544295,2006-02-15 09:45:30.000,422,Qinhuangdao,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-243,243,1,Lydia,Burke,lydia.burke@sakilacustomer.org,247,True,2006-02-14,2013-05-26 14:49:45.738,1,247,1483 Pathankot Street,,Tucumn,454,37288,686015532180,2006-02-15 09:45:30.000,454,San Miguel de Tucumn,6,2006-02-15 09:45:25.000,6,Argentina,2006-02-15 09:44:00.000
-244,244,2,Viola,Hanson,viola.hanson@sakilacustomer.org,248,True,2006-02-14,2013-05-26 14:49:45.738,1,248,582 Papeete Loop,,Central Visayas,294,27722,569868543137,2006-02-15 09:45:30.000,294,Lapu-Lapu,75,2006-02-15 09:45:25.000,75,Philippines,2006-02-15 09:44:00.000
-245,245,1,Courtney,Day,courtney.day@sakilacustomer.org,249,True,2006-02-14,2013-05-26 14:49:45.738,1,249,300 Junan Street,,Kyonggi,553,81314,890289150158,2006-02-15 09:45:30.000,553,Uijongbu,86,2006-02-15 09:45:25.000,86,South Korea,2006-02-15 09:44:00.000
-246,246,1,Marian,Mendoza,marian.mendoza@sakilacustomer.org,250,True,2006-02-14,2013-05-26 14:49:45.738,1,250,829 Grand Prairie Way,,Paran,328,6461,741070712873,2006-02-15 09:45:30.000,328,Maring,15,2006-02-15 09:45:25.000,15,Brazil,2006-02-15 09:44:00.000
-247,247,1,Stella,Moreno,stella.moreno@sakilacustomer.org,251,True,2006-02-14,2013-05-26 14:49:45.738,1,251,1473 Changhwa Parkway,,Mxico,124,75933,266798132374,2006-02-15 09:45:30.000,124,Coacalco de Berriozbal,60,2006-02-15 09:45:25.000,60,Mexico,2006-02-15 09:44:00.000
-248,248,1,Caroline,Bowman,caroline.bowman@sakilacustomer.org,252,True,2006-02-14,2013-05-26 14:49:45.738,1,252,1309 Weifang Street,,Florida,520,57338,435785045362,2006-02-15 09:45:30.000,520,Tallahassee,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-249,249,2,Dora,Medina,dora.medina@sakilacustomer.org,253,True,2006-02-14,2013-05-26 14:49:45.738,1,253,1760 Oshawa Manor,,Tianjin,535,38140,56257502250,2006-02-15 09:45:30.000,535,Tianjin,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-250,250,2,Jo,Fowler,jo.fowler@sakilacustomer.org,254,True,2006-02-14,2013-05-26 14:49:45.738,1,254,786 Stara Zagora Way,,Oyo & Osun,390,98332,716256596301,2006-02-15 09:45:30.000,390,Oyo,69,2006-02-15 09:45:25.000,69,Nigeria,2006-02-15 09:44:00.000
-251,251,2,Vickie,Brewer,vickie.brewer@sakilacustomer.org,255,True,2006-02-14,2013-05-26 14:49:45.738,1,255,1966 Tonghae Street,,Anhalt Sachsen,198,36481,567359279425,2006-02-15 09:45:30.000,198,Halle/Saale,38,2006-02-15 09:45:25.000,38,Germany,2006-02-15 09:44:00.000
-252,252,2,Mattie,Hoffman,mattie.hoffman@sakilacustomer.org,256,True,2006-02-14,2013-05-26 14:49:45.738,1,256,1497 Yuzhou Drive,,England,312,3433,246810237916,2006-02-15 09:45:30.000,312,London,102,2006-02-15 09:45:25.000,102,United Kingdom,2006-02-15 09:44:00.000
-253,253,1,Terry,Carlson,terry.carlson@sakilacustomer.org,258,True,2006-02-14,2013-05-26 14:49:45.738,1,258,752 Ondo Loop,,Miyazaki,338,32474,134673576619,2006-02-15 09:45:30.000,338,Miyakonojo,50,2006-02-15 09:45:25.000,50,Japan,2006-02-15 09:44:00.000
-254,254,2,Maxine,Silva,maxine.silva@sakilacustomer.org,259,True,2006-02-14,2013-05-26 14:49:45.738,1,259,1338 Zalantun Lane,,Minas Gerais,413,45403,840522972766,2006-02-15 09:45:30.000,413,Poos de Caldas,15,2006-02-15 09:45:25.000,15,Brazil,2006-02-15 09:44:00.000
-255,255,2,Irma,Pearson,irma.pearson@sakilacustomer.org,260,True,2006-02-14,2013-05-26 14:49:45.738,1,260,127 Iwakuni Boulevard,,Central Luzon,192,20777,987442542471,2006-02-15 09:45:30.000,192,Hagonoy,75,2006-02-15 09:45:25.000,75,Philippines,2006-02-15 09:44:00.000
-256,256,2,Mabel,Holland,mabel.holland@sakilacustomer.org,261,True,2006-02-14,2013-05-26 14:49:45.738,1,261,51 Laredo Avenue,,Sagaing,342,68146,884536620568,2006-02-15 09:45:30.000,342,Monywa,64,2006-02-15 09:45:25.000,64,Myanmar,2006-02-15 09:44:00.000
-257,257,2,Marsha,Douglas,marsha.douglas@sakilacustomer.org,262,True,2006-02-14,2013-05-26 14:49:45.738,1,262,771 Yaound Manor,,Sofala,64,86768,245477603573,2006-02-15 09:45:30.000,64,Beira,63,2006-02-15 09:45:25.000,63,Mozambique,2006-02-15 09:44:00.000
-258,258,1,Myrtle,Fleming,myrtle.fleming@sakilacustomer.org,263,True,2006-02-14,2013-05-26 14:49:45.738,1,263,532 Toulon Street,,Santiago,460,69517,46871694740,2006-02-15 09:45:30.000,460,Santiago de los Caballeros,27,2006-02-15 09:45:25.000,27,Dominican Republic,2006-02-15 09:44:00.000
-259,259,2,Lena,Jensen,lena.jensen@sakilacustomer.org,264,True,2006-02-14,2013-05-26 14:49:45.738,1,264,1027 Banjul Place,,West Bengali,197,50390,538241037443,2006-02-15 09:45:30.000,197,Halisahar,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-260,260,1,Christy,Vargas,christy.vargas@sakilacustomer.org,265,True,2006-02-14,2013-05-26 14:49:45.738,1,265,1158 Mandi Bahauddin Parkway,,Shanxi,136,98484,276555730211,2006-02-15 09:45:30.000,136,Datong,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-261,261,1,Deanna,Byrd,deanna.byrd@sakilacustomer.org,266,True,2006-02-14,2013-05-26 14:49:45.738,1,266,862 Xintai Lane,,Cagayan Valley,548,30065,265153400632,2006-02-15 09:45:30.000,548,Tuguegarao,75,2006-02-15 09:45:25.000,75,Philippines,2006-02-15 09:44:00.000
-262,262,2,Patsy,Davidson,patsy.davidson@sakilacustomer.org,267,True,2006-02-14,2013-05-26 14:49:45.738,1,267,816 Cayenne Parkway,,Manab,414,93629,282874611748,2006-02-15 09:45:30.000,414,Portoviejo,28,2006-02-15 09:45:25.000,28,Ecuador,2006-02-15 09:44:00.000
-263,263,1,Hilda,Hopkins,hilda.hopkins@sakilacustomer.org,268,True,2006-02-14,2013-05-26 14:49:45.738,1,268,1831 Nam Dinh Loop,,National Capital Reg,323,51990,322888976727,2006-02-15 09:45:30.000,323,Mandaluyong,75,2006-02-15 09:45:25.000,75,Philippines,2006-02-15 09:44:00.000
-264,264,1,Gwendolyn,May,gwendolyn.may@sakilacustomer.org,269,True,2006-02-14,2013-05-26 14:49:45.738,1,269,446 Kirovo-Tepetsk Lane,,Osaka,203,19428,303967439816,2006-02-15 09:45:30.000,203,Higashiosaka,50,2006-02-15 09:45:25.000,50,Japan,2006-02-15 09:44:00.000
-265,265,2,Jennie,Terry,jennie.terry@sakilacustomer.org,270,True,2006-02-14,2013-05-26 14:49:45.738,1,270,682 Halisahar Place,,Severn Morava,378,20536,475553436330,2006-02-15 09:45:30.000,378,Olomouc,26,2006-02-15 09:45:25.000,26,Czech Republic,2006-02-15 09:44:00.000
-266,266,2,Nora,Herrera,nora.herrera@sakilacustomer.org,271,True,2006-02-14,2013-05-26 14:49:45.738,1,271,1587 Loja Manor,,Salzburg,447,5410,621625204422,2006-02-15 09:45:30.000,447,Salzburg,9,2006-02-15 09:45:25.000,9,Austria,2006-02-15 09:44:00.000
-267,267,1,Margie,Wade,margie.wade@sakilacustomer.org,272,True,2006-02-14,2013-05-26 14:49:45.738,1,272,1762 Paarl Parkway,,Hunan,298,53928,192459639410,2006-02-15 09:45:30.000,298,Lengshuijiang,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-268,268,1,Nina,Soto,nina.soto@sakilacustomer.org,273,True,2006-02-14,2013-05-26 14:49:45.738,1,273,1519 Ilorin Place,,Kerala,395,49298,357445645426,2006-02-15 09:45:30.000,395,Palghat (Palakkad),44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-269,269,1,Cassandra,Walters,cassandra.walters@sakilacustomer.org,274,True,2006-02-14,2013-05-26 14:49:45.738,1,274,920 Kumbakonam Loop,,California,446,75090,685010736240,2006-02-15 09:45:30.000,446,Salinas,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-270,270,1,Leah,Curtis,leah.curtis@sakilacustomer.org,275,True,2006-02-14,2013-05-26 14:49:45.738,1,275,906 Goinia Way,,Wielkopolskie,255,83565,701767622697,2006-02-15 09:45:30.000,255,Kalisz,76,2006-02-15 09:45:25.000,76,Poland,2006-02-15 09:44:00.000
-271,271,1,Penny,Neal,penny.neal@sakilacustomer.org,276,True,2006-02-14,2013-05-26 14:49:45.738,0,276,1675 Xiangfan Manor,,Tamil Nadu,283,11763,271149517630,2006-02-15 09:45:30.000,283,Kumbakonam,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-272,272,1,Kay,Caldwell,kay.caldwell@sakilacustomer.org,277,True,2006-02-14,2013-05-26 14:49:45.738,1,277,85 San Felipe de Puerto Plata Drive,,Shandong,584,46063,170739645687,2006-02-15 09:45:30.000,584,Yantai,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-273,273,2,Priscilla,Lowe,priscilla.lowe@sakilacustomer.org,278,True,2006-02-14,2013-05-26 14:49:45.738,1,278,144 South Hill Loop,,Guanajuato,445,2012,45387294817,2006-02-15 09:45:30.000,445,Salamanca,60,2006-02-15 09:45:25.000,60,Mexico,2006-02-15 09:44:00.000
-274,274,1,Naomi,Jennings,naomi.jennings@sakilacustomer.org,279,True,2006-02-14,2013-05-26 14:49:45.738,1,279,1884 Shikarpur Avenue,,Haryana,263,85548,959949395183,2006-02-15 09:45:30.000,263,Karnal,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-275,275,2,Carole,Barnett,carole.barnett@sakilacustomer.org,280,True,2006-02-14,2013-05-26 14:49:45.738,1,280,1980 Kamjanets-Podilskyi Street,,Illinois,404,89502,874337098891,2006-02-15 09:45:30.000,404,Peoria,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-276,276,1,Brandy,Graves,brandy.graves@sakilacustomer.org,281,True,2006-02-14,2013-05-26 14:49:45.738,1,281,1944 Bamenda Way,,Michigan,573,24645,75975221996,2006-02-15 09:45:30.000,573,Warren,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-277,277,2,Olga,Jimenez,olga.jimenez@sakilacustomer.org,282,True,2006-02-14,2013-05-26 14:49:45.738,1,282,556 Baybay Manor,,Oyo & Osun,374,55802,363982224739,2006-02-15 09:45:30.000,374,Ogbomosho,69,2006-02-15 09:45:25.000,69,Nigeria,2006-02-15 09:44:00.000
-278,278,2,Billie,Horton,billie.horton@sakilacustomer.org,283,True,2006-02-14,2013-05-26 14:49:45.738,1,283,457 Tongliao Loop,,Bursa,222,56254,880756161823,2006-02-15 09:45:30.000,222,Inegl,97,2006-02-15 09:45:25.000,97,Turkey,2006-02-15 09:44:00.000
-279,279,2,Dianne,Shelton,dianne.shelton@sakilacustomer.org,284,True,2006-02-14,2013-05-26 14:49:45.738,1,284,600 Bradford Street,,East Azerbaidzan,514,96204,117592274996,2006-02-15 09:45:30.000,514,Tabriz,46,2006-02-15 09:45:25.000,46,Iran,2006-02-15 09:44:00.000
-280,280,2,Tracey,Barrett,tracey.barrett@sakilacustomer.org,285,True,2006-02-14,2013-05-26 14:49:45.738,1,285,1006 Santa Brbara dOeste Manor,,Ondo & Ekiti,389,36229,85059738746,2006-02-15 09:45:30.000,389,Owo,69,2006-02-15 09:45:25.000,69,Nigeria,2006-02-15 09:44:00.000
-281,281,2,Leona,Obrien,leona.obrien@sakilacustomer.org,286,True,2006-02-14,2013-05-26 14:49:45.738,1,286,1308 Sumy Loop,,Fujian,175,30657,583021225407,2006-02-15 09:45:30.000,175,Fuzhou,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-282,282,2,Jenny,Castro,jenny.castro@sakilacustomer.org,287,True,2006-02-14,2013-05-26 14:49:45.738,1,287,1405 Chisinau Place,,Ponce,411,8160,62781725285,2006-02-15 09:45:30.000,411,Ponce,77,2006-02-15 09:45:25.000,77,Puerto Rico,2006-02-15 09:44:00.000
-283,283,1,Felicia,Sutton,felicia.sutton@sakilacustomer.org,288,True,2006-02-14,2013-05-26 14:49:45.738,1,288,226 Halifax Street,,Xinxiang,277,58492,790651020929,2006-02-15 09:45:30.000,277,Korla,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-284,284,1,Sonia,Gregory,sonia.gregory@sakilacustomer.org,289,True,2006-02-14,2013-05-26 14:49:45.738,1,289,1279 Udine Parkway,,Edo & Delta,69,75860,195003555232,2006-02-15 09:45:30.000,69,Benin City,69,2006-02-15 09:45:25.000,69,Nigeria,2006-02-15 09:44:00.000
-285,285,1,Miriam,Mckinney,miriam.mckinney@sakilacustomer.org,290,True,2006-02-14,2013-05-26 14:49:45.738,1,290,1336 Benin City Drive,,Shiga,386,46044,341242939532,2006-02-15 09:45:30.000,386,Otsu,50,2006-02-15 09:45:25.000,50,Japan,2006-02-15 09:44:00.000
-286,286,1,Velma,Lucas,velma.lucas@sakilacustomer.org,291,True,2006-02-14,2013-05-26 14:49:45.738,1,291,1155 Liaocheng Place,,Oyo & Osun,152,22650,558236142492,2006-02-15 09:45:30.000,152,Effon-Alaiye,69,2006-02-15 09:45:25.000,69,Nigeria,2006-02-15 09:44:00.000
-287,287,2,Becky,Miles,becky.miles@sakilacustomer.org,292,True,2006-02-14,2013-05-26 14:49:45.738,1,292,1993 Tabuk Lane,,Tamil Nadu,522,64221,648482415405,2006-02-15 09:45:30.000,522,Tambaram,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-288,288,1,Bobbie,Craig,bobbie.craig@sakilacustomer.org,293,True,2006-02-14,2013-05-26 14:49:45.738,1,293,86 Higashiosaka Lane,,Guanajuato,563,33768,957128697225,2006-02-15 09:45:30.000,563,Valle de Santiago,60,2006-02-15 09:45:25.000,60,Mexico,2006-02-15 09:44:00.000
-289,289,1,Violet,Rodriquez,violet.rodriquez@sakilacustomer.org,294,True,2006-02-14,2013-05-26 14:49:45.738,1,294,1912 Allende Manor,,Kowloon and New Kowl,279,58124,172262454487,2006-02-15 09:45:30.000,279,Kowloon and New Kowloon,42,2006-02-15 09:45:25.000,42,Hong Kong,2006-02-15 09:44:00.000
-290,290,1,Kristina,Chambers,kristina.chambers@sakilacustomer.org,295,True,2006-02-14,2013-05-26 14:49:45.738,1,295,544 Tarsus Boulevard,,Gurico,562,53145,892523334,2006-02-15 09:45:30.000,562,Valle de la Pascua,104,2006-02-15 09:45:25.000,104,Venezuela,2006-02-15 09:44:00.000
-291,291,1,Toni,Holt,toni.holt@sakilacustomer.org,296,True,2006-02-14,2013-05-26 14:49:45.738,1,296,1936 Cuman Avenue,,Virginia,433,61195,976798660411,2006-02-15 09:45:30.000,433,Roanoke,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-292,292,2,Misty,Lambert,misty.lambert@sakilacustomer.org,297,True,2006-02-14,2013-05-26 14:49:45.738,1,297,1192 Tongliao Street,,Sharja,470,19065,350970907017,2006-02-15 09:45:30.000,470,Sharja,101,2006-02-15 09:45:25.000,101,United Arab Emirates,2006-02-15 09:44:00.000
-293,293,2,Mae,Fletcher,mae.fletcher@sakilacustomer.org,298,True,2006-02-14,2013-05-26 14:49:45.738,1,298,44 Najafabad Way,,Baskimaa,146,61391,96604821070,2006-02-15 09:45:30.000,146,Donostia-San Sebastin,87,2006-02-15 09:45:25.000,87,Spain,2006-02-15 09:44:00.000
-294,294,2,Shelly,Watts,shelly.watts@sakilacustomer.org,299,True,2006-02-14,2013-05-26 14:49:45.738,1,299,32 Pudukkottai Lane,,Ohio,140,38834,967274728547,2006-02-15 09:45:30.000,140,Dayton,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-295,295,1,Daisy,Bates,daisy.bates@sakilacustomer.org,300,True,2006-02-14,2013-05-26 14:49:45.738,1,300,661 Chisinau Lane,,Pietari,274,8856,816436065431,2006-02-15 09:45:30.000,274,Kolpino,80,2006-02-15 09:45:25.000,80,Russian Federation,2006-02-15 09:44:00.000
-296,296,2,Ramona,Hale,ramona.hale@sakilacustomer.org,301,True,2006-02-14,2013-05-26 14:49:45.738,1,301,951 Stara Zagora Manor,,Punjab,400,98573,429925609431,2006-02-15 09:45:30.000,400,Patiala,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-297,297,1,Sherri,Rhodes,sherri.rhodes@sakilacustomer.org,302,True,2006-02-14,2013-05-26 14:49:45.738,1,302,922 Vila Velha Loop,,Maharashtra,9,4085,510737228015,2006-02-15 09:45:30.000,9,Ahmadnagar,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-298,298,1,Erika,Pena,erika.pena@sakilacustomer.org,303,True,2006-02-14,2013-05-26 14:49:45.738,1,303,898 Jining Lane,,Pohjois-Pohjanmaa,387,40070,161643343536,2006-02-15 09:45:30.000,387,Oulu,33,2006-02-15 09:45:25.000,33,Finland,2006-02-15 09:44:00.000
-299,299,2,James,Gannon,james.gannon@sakilacustomer.org,304,True,2006-02-14,2013-05-26 14:49:45.738,1,304,1635 Kuwana Boulevard,,Hiroshima,205,52137,710603868323,2006-02-15 09:45:30.000,205,Hiroshima,50,2006-02-15 09:45:25.000,50,Japan,2006-02-15 09:44:00.000
-300,300,1,John,Farnsworth,john.farnsworth@sakilacustomer.org,305,True,2006-02-14,2013-05-26 14:49:45.738,1,305,41 El Alto Parkway,,Maharashtra,398,56883,51917807050,2006-02-15 09:45:30.000,398,Parbhani,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-301,301,2,Robert,Baughman,robert.baughman@sakilacustomer.org,306,True,2006-02-14,2013-05-26 14:49:45.738,1,306,1883 Maikop Lane,,Kaliningrad,254,68469,96110042435,2006-02-15 09:45:30.000,254,Kaliningrad,80,2006-02-15 09:45:25.000,80,Russian Federation,2006-02-15 09:44:00.000
-302,302,1,Michael,Silverman,michael.silverman@sakilacustomer.org,307,True,2006-02-14,2013-05-26 14:49:45.738,1,307,1908 Gaziantep Place,,Liaoning,536,58979,108053751300,2006-02-15 09:45:30.000,536,Tiefa,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-303,303,2,William,Satterfield,william.satterfield@sakilacustomer.org,308,True,2006-02-14,2013-05-26 14:49:45.738,1,308,687 Alessandria Parkway,,Sanaa,455,57587,407218522294,2006-02-15 09:45:30.000,455,Sanaa,107,2006-02-15 09:45:25.000,107,Yemen,2006-02-15 09:44:00.000
-304,304,2,David,Royal,david.royal@sakilacustomer.org,309,True,2006-02-14,2013-05-26 14:49:45.738,1,309,827 Yuncheng Drive,,Callao,99,79047,504434452842,2006-02-15 09:45:30.000,99,Callao,74,2006-02-15 09:45:25.000,74,Peru,2006-02-15 09:44:00.000
-305,305,1,Richard,Mccrary,richard.mccrary@sakilacustomer.org,310,True,2006-02-14,2013-05-26 14:49:45.738,1,310,913 Coacalco de Berriozbal Loop,,Texas,33,42141,262088367001,2006-02-15 09:45:30.000,33,Arlington,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-306,306,1,Charles,Kowalski,charles.kowalski@sakilacustomer.org,311,True,2006-02-14,2013-05-26 14:49:45.738,1,311,715 So Bernardo do Campo Lane,,Kedah,507,84804,181179321332,2006-02-15 09:45:30.000,507,Sungai Petani,59,2006-02-15 09:45:25.000,59,Malaysia,2006-02-15 09:44:00.000
-307,307,2,Joseph,Joy,joseph.joy@sakilacustomer.org,312,True,2006-02-14,2013-05-26 14:49:45.738,1,312,1354 Siegen Street,,Rio de Janeiro,25,80184,573441801529,2006-02-15 09:45:30.000,25,Angra dos Reis,15,2006-02-15 09:45:25.000,15,Brazil,2006-02-15 09:44:00.000
-308,308,1,Thomas,Grigsby,thomas.grigsby@sakilacustomer.org,313,True,2006-02-14,2013-05-26 14:49:45.738,1,313,1191 Sungai Petani Boulevard,,Missouri,262,9668,983259819766,2006-02-15 09:45:30.000,262,Kansas City,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-309,309,1,Christopher,Greco,christopher.greco@sakilacustomer.org,314,True,2006-02-14,2013-05-26 14:49:45.738,1,314,1224 Huejutla de Reyes Boulevard,,Lombardia,91,70923,806016930576,2006-02-15 09:45:30.000,91,Brescia,49,2006-02-15 09:45:25.000,49,Italy,2006-02-15 09:44:00.000
-310,310,2,Daniel,Cabral,daniel.cabral@sakilacustomer.org,315,True,2006-02-14,2013-05-26 14:49:45.738,1,315,543 Bergamo Avenue,,Minas Gerais,215,59686,103602195112,2006-02-15 09:45:30.000,215,Ibirit,15,2006-02-15 09:45:25.000,15,Brazil,2006-02-15 09:44:00.000
-311,311,2,Paul,Trout,paul.trout@sakilacustomer.org,316,True,2006-02-14,2013-05-26 14:49:45.738,1,316,746 Joliet Lane,,Kursk,286,94878,688485191923,2006-02-15 09:45:30.000,286,Kursk,80,2006-02-15 09:45:25.000,80,Russian Federation,2006-02-15 09:44:00.000
-312,312,2,Mark,Rinehart,mark.rinehart@sakilacustomer.org,317,True,2006-02-14,2013-05-26 14:49:45.738,1,317,780 Kimberley Way,,Tabuk,515,17032,824396883951,2006-02-15 09:45:30.000,515,Tabuk,82,2006-02-15 09:45:25.000,82,Saudi Arabia,2006-02-15 09:44:00.000
-313,313,2,Donald,Mahon,donald.mahon@sakilacustomer.org,318,True,2006-02-14,2013-05-26 14:49:45.738,1,318,1774 Yaound Place,,Hubei,166,91400,613124286867,2006-02-15 09:45:30.000,166,Ezhou,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-314,314,1,George,Linton,george.linton@sakilacustomer.org,319,True,2006-02-14,2013-05-26 14:49:45.738,1,319,1957 Yantai Lane,,So Paulo,490,59255,704948322302,2006-02-15 09:45:30.000,490,Sorocaba,15,2006-02-15 09:45:25.000,15,Brazil,2006-02-15 09:44:00.000
-315,315,2,Kenneth,Gooden,kenneth.gooden@sakilacustomer.org,320,True,2006-02-14,2013-05-26 14:49:45.738,0,320,1542 Lubumbashi Boulevard,,Tel Aviv,57,62472,508800331065,2006-02-15 09:45:30.000,57,Bat Yam,48,2006-02-15 09:45:25.000,48,Israel,2006-02-15 09:44:00.000
-316,316,1,Steven,Curley,steven.curley@sakilacustomer.org,321,True,2006-02-14,2013-05-26 14:49:45.738,1,321,651 Pathankot Loop,,Maharashtra,336,59811,139378397418,2006-02-15 09:45:30.000,336,Miraj,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-317,317,2,Edward,Baugh,edward.baugh@sakilacustomer.org,322,True,2006-02-14,2013-05-26 14:49:45.738,1,322,1359 Zhoushan Parkway,,Streymoyar,545,29763,46568045367,2006-02-15 09:45:30.000,545,Trshavn,32,2006-02-15 09:45:25.000,32,Faroe Islands,2006-02-15 09:44:00.000
-318,318,1,Brian,Wyman,brian.wyman@sakilacustomer.org,323,True,2006-02-14,2013-05-26 14:49:45.738,1,323,1769 Iwaki Lane,,Kujawsko-Pomorskie,97,25787,556100547674,2006-02-15 09:45:30.000,97,Bydgoszcz,76,2006-02-15 09:45:25.000,76,Poland,2006-02-15 09:44:00.000
-319,319,2,Ronald,Weiner,ronald.weiner@sakilacustomer.org,324,True,2006-02-14,2013-05-26 14:49:45.738,1,324,1145 Vilnius Manor,,Mxico,451,73170,674805712553,2006-02-15 09:45:30.000,451,San Felipe del Progreso,60,2006-02-15 09:45:25.000,60,Mexico,2006-02-15 09:44:00.000
-320,320,2,Anthony,Schwab,anthony.schwab@sakilacustomer.org,325,True,2006-02-14,2013-05-26 14:49:45.738,1,325,1892 Nabereznyje Telny Lane,,Tutuila,516,28396,478229987054,2006-02-15 09:45:30.000,516,Tafuna,3,2006-02-15 09:45:25.000,3,American Samoa,2006-02-15 09:44:00.000
-321,321,1,Kevin,Schuler,kevin.schuler@sakilacustomer.org,326,True,2006-02-14,2013-05-26 14:49:45.738,1,326,470 Boksburg Street,,Central,81,97960,908029859266,2006-02-15 09:45:30.000,81,Birgunj,66,2006-02-15 09:45:25.000,66,Nepal,2006-02-15 09:44:00.000
-322,322,1,Jason,Morrissey,jason.morrissey@sakilacustomer.org,327,True,2006-02-14,2013-05-26 14:49:45.738,1,327,1427 A Corua (La Corua) Place,,Buenos Aires,45,85799,972574862516,2006-02-15 09:45:30.000,45,Baha Blanca,6,2006-02-15 09:45:25.000,6,Argentina,2006-02-15 09:44:00.000
-323,323,2,Matthew,Mahan,matthew.mahan@sakilacustomer.org,328,True,2006-02-14,2013-05-26 14:49:45.738,1,328,479 San Felipe del Progreso Avenue,,Morelos,130,54949,869051782691,2006-02-15 09:45:30.000,130,Cuautla,60,2006-02-15 09:45:25.000,60,Mexico,2006-02-15 09:44:00.000
-324,324,2,Gary,Coy,gary.coy@sakilacustomer.org,329,True,2006-02-14,2013-05-26 14:49:45.738,1,329,867 Benin City Avenue,,Henan,591,78543,168884817145,2006-02-15 09:45:30.000,591,Yuzhou,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-325,325,1,Timothy,Bunn,timothy.bunn@sakilacustomer.org,330,True,2006-02-14,2013-05-26 14:49:45.738,1,330,981 Kumbakonam Place,,Distrito Federal,89,87611,829116184079,2006-02-15 09:45:30.000,89,Braslia,15,2006-02-15 09:45:25.000,15,Brazil,2006-02-15 09:44:00.000
-326,326,1,Jose,Andrew,jose.andrew@sakilacustomer.org,331,True,2006-02-14,2013-05-26 14:49:45.738,1,331,1016 Iwakuni Street,,St George,269,49833,961370847344,2006-02-15 09:45:30.000,269,Kingstown,81,2006-02-15 09:45:25.000,81,Saint Vincent and the Grenadines,2006-02-15 09:44:00.000
-327,327,2,Larry,Thrasher,larry.thrasher@sakilacustomer.org,332,True,2006-02-14,2013-05-26 14:49:45.738,1,332,663 Baha Blanca Parkway,,Adana,5,33463,834418779292,2006-02-15 09:45:30.000,5,Adana,97,2006-02-15 09:45:25.000,97,Turkey,2006-02-15 09:44:00.000
-328,328,2,Jeffrey,Spear,jeffrey.spear@sakilacustomer.org,333,True,2006-02-14,2013-05-26 14:49:45.738,1,333,1860 Taguig Loop,,West Java,119,59550,38158430589,2006-02-15 09:45:30.000,119,Ciparay,45,2006-02-15 09:45:25.000,45,Indonesia,2006-02-15 09:44:00.000
-329,329,2,Frank,Waggoner,frank.waggoner@sakilacustomer.org,334,True,2006-02-14,2013-05-26 14:49:45.738,1,334,1816 Bydgoszcz Loop,,Dhaka,234,64308,965273813662,2006-02-15 09:45:30.000,234,Jamalpur,12,2006-02-15 09:45:25.000,12,Bangladesh,2006-02-15 09:44:00.000
-330,330,1,Scott,Shelley,scott.shelley@sakilacustomer.org,335,True,2006-02-14,2013-05-26 14:49:45.738,1,335,587 Benguela Manor,,Illinois,42,91590,165450987037,2006-02-15 09:45:30.000,42,Aurora,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-331,331,1,Eric,Robert,eric.robert@sakilacustomer.org,336,True,2006-02-14,2013-05-26 14:49:45.738,1,336,430 Kumbakonam Drive,,Santa F,457,28814,105470691550,2006-02-15 09:45:30.000,457,Santa F,6,2006-02-15 09:45:25.000,6,Argentina,2006-02-15 09:44:00.000
-332,332,1,Stephen,Qualls,stephen.qualls@sakilacustomer.org,337,True,2006-02-14,2013-05-26 14:49:45.738,1,337,1838 Tabriz Lane,,Dhaka,143,1195,38988715447,2006-02-15 09:45:30.000,143,Dhaka,12,2006-02-15 09:45:25.000,12,Bangladesh,2006-02-15 09:44:00.000
-333,333,2,Andrew,Purdy,andrew.purdy@sakilacustomer.org,338,True,2006-02-14,2013-05-26 14:49:45.738,1,338,431 Szkesfehrvr Avenue,,Baki,48,57828,119501405123,2006-02-15 09:45:30.000,48,Baku,10,2006-02-15 09:45:25.000,10,Azerbaijan,2006-02-15 09:44:00.000
-334,334,2,Raymond,Mcwhorter,raymond.mcwhorter@sakilacustomer.org,339,True,2006-02-14,2013-05-26 14:49:45.738,1,339,503 Sogamoso Loop,,Sumqayit,505,49812,834626715837,2006-02-15 09:45:30.000,505,Sumqayit,10,2006-02-15 09:45:25.000,10,Azerbaijan,2006-02-15 09:44:00.000
-335,335,1,Gregory,Mauldin,gregory.mauldin@sakilacustomer.org,340,True,2006-02-14,2013-05-26 14:49:45.738,1,340,507 Smolensk Loop,,Sousse,492,22971,80303246192,2006-02-15 09:45:30.000,492,Sousse,96,2006-02-15 09:45:25.000,96,Tunisia,2006-02-15 09:44:00.000
-336,336,1,Joshua,Mark,joshua.mark@sakilacustomer.org,341,True,2006-02-14,2013-05-26 14:49:45.738,1,341,1920 Weifang Avenue,,Uttar Pradesh,427,15643,869507847714,2006-02-15 09:45:30.000,427,Rampur,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-337,337,1,Jerry,Jordon,jerry.jordon@sakilacustomer.org,342,True,2006-02-14,2013-05-26 14:49:45.738,1,342,124 al-Manama Way,,Hiroshima,382,52368,647899404952,2006-02-15 09:45:30.000,382,Onomichi,50,2006-02-15 09:45:25.000,50,Japan,2006-02-15 09:44:00.000
-338,338,1,Dennis,Gilman,dennis.gilman@sakilacustomer.org,343,True,2006-02-14,2013-05-26 14:49:45.738,1,343,1443 Mardan Street,,Western Cape,392,31483,231383037471,2006-02-15 09:45:30.000,392,Paarl,85,2006-02-15 09:45:25.000,85,South Africa,2006-02-15 09:44:00.000
-339,339,2,Walter,Perryman,walter.perryman@sakilacustomer.org,344,True,2006-02-14,2013-05-26 14:49:45.738,1,344,1909 Benguela Lane,,Henan,581,19913,624138001031,2006-02-15 09:45:30.000,581,Xinxiang,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-340,340,1,Patrick,Newsom,patrick.newsom@sakilacustomer.org,345,True,2006-02-14,2013-05-26 14:49:45.738,1,345,68 Ponce Parkway,,Hanoi,201,85926,870635127812,2006-02-15 09:45:30.000,201,Hanoi,105,2006-02-15 09:45:25.000,105,Vietnam,2006-02-15 09:44:00.000
-341,341,1,Peter,Menard,peter.menard@sakilacustomer.org,346,True,2006-02-14,2013-05-26 14:49:45.738,1,346,1217 Konotop Avenue,,Gelderland,151,504,718917251754,2006-02-15 09:45:30.000,151,Ede,67,2006-02-15 09:45:25.000,67,Netherlands,2006-02-15 09:44:00.000
-342,342,1,Harold,Martino,harold.martino@sakilacustomer.org,347,True,2006-02-14,2013-05-26 14:49:45.738,1,347,1293 Nam Dinh Way,,Roraima,84,71583,697656479977,2006-02-15 09:45:30.000,84,Boa Vista,15,2006-02-15 09:45:25.000,15,Brazil,2006-02-15 09:44:00.000
-343,343,1,Douglas,Graf,douglas.graf@sakilacustomer.org,348,True,2006-02-14,2013-05-26 14:49:45.738,1,348,785 Vaduz Street,,Baja California,335,36170,895616862749,2006-02-15 09:45:30.000,335,Mexicali,60,2006-02-15 09:45:25.000,60,Mexico,2006-02-15 09:44:00.000
-344,344,1,Henry,Billingsley,henry.billingsley@sakilacustomer.org,349,True,2006-02-14,2013-05-26 14:49:45.738,1,349,1516 Escobar Drive,,Tongatapu,370,46069,64536069371,2006-02-15 09:45:30.000,370,Nukualofa,95,2006-02-15 09:45:25.000,95,Tonga,2006-02-15 09:44:00.000
-345,345,1,Carl,Artis,carl.artis@sakilacustomer.org,350,True,2006-02-14,2013-05-26 14:49:45.738,1,350,1628 Nagareyama Lane,,Central,453,60079,20064292617,2006-02-15 09:45:30.000,453,San Lorenzo,73,2006-02-15 09:45:25.000,73,Paraguay,2006-02-15 09:44:00.000
-346,346,1,Arthur,Simpkins,arthur.simpkins@sakilacustomer.org,351,True,2006-02-14,2013-05-26 14:49:45.738,1,351,1157 Nyeri Loop,,Adygea,320,56380,262744791493,2006-02-15 09:45:30.000,320,Maikop,80,2006-02-15 09:45:25.000,80,Russian Federation,2006-02-15 09:44:00.000
-347,347,2,Ryan,Salisbury,ryan.salisbury@sakilacustomer.org,352,True,2006-02-14,2013-05-26 14:49:45.738,1,352,1673 Tangail Drive,,Daugavpils,137,26857,627924259271,2006-02-15 09:45:30.000,137,Daugavpils,54,2006-02-15 09:45:25.000,54,Latvia,2006-02-15 09:44:00.000
-348,348,2,Roger,Quintanilla,roger.quintanilla@sakilacustomer.org,353,True,2006-02-14,2013-05-26 14:49:45.738,1,353,381 Kabul Way,,Taipei,209,87272,55477302294,2006-02-15 09:45:30.000,209,Hsichuh,92,2006-02-15 09:45:25.000,92,Taiwan,2006-02-15 09:44:00.000
-349,349,2,Joe,Gilliland,joe.gilliland@sakilacustomer.org,354,True,2006-02-14,2013-05-26 14:49:45.738,1,354,953 Hodeida Street,,Southern Tagalog,221,18841,53912826864,2006-02-15 09:45:30.000,221,Imus,75,2006-02-15 09:45:25.000,75,Philippines,2006-02-15 09:44:00.000
-350,350,1,Juan,Fraley,juan.fraley@sakilacustomer.org,355,True,2006-02-14,2013-05-26 14:49:45.738,1,355,469 Nakhon Sawan Street,,Tuvassia,531,58866,689199636560,2006-02-15 09:45:30.000,531,Teboksary,80,2006-02-15 09:45:25.000,80,Russian Federation,2006-02-15 09:44:00.000
-351,351,1,Jack,Foust,jack.foust@sakilacustomer.org,356,True,2006-02-14,2013-05-26 14:49:45.738,1,356,1378 Beira Loop,,Krasnojarsk,597,40792,840957664136,2006-02-15 09:45:30.000,597,Zeleznogorsk,80,2006-02-15 09:45:25.000,80,Russian Federation,2006-02-15 09:44:00.000
-352,352,1,Albert,Crouse,albert.crouse@sakilacustomer.org,357,True,2006-02-14,2013-05-26 14:49:45.738,1,357,1641 Changhwa Place,,Nord-Ouest,52,37636,256546485220,2006-02-15 09:45:30.000,52,Bamenda,19,2006-02-15 09:45:25.000,19,Cameroon,2006-02-15 09:44:00.000
-353,353,1,Jonathan,Scarborough,jonathan.scarborough@sakilacustomer.org,358,True,2006-02-14,2013-05-26 14:49:45.738,1,358,1698 Southport Loop,,Hidalgo,393,49009,754358349853,2006-02-15 09:45:30.000,393,Pachuca de Soto,60,2006-02-15 09:45:25.000,60,Mexico,2006-02-15 09:44:00.000
-354,354,2,Justin,Ngo,justin.ngo@sakilacustomer.org,359,True,2006-02-14,2013-05-26 14:49:45.738,1,359,519 Nyeri Manor,,So Paulo,461,37650,764680915323,2006-02-15 09:45:30.000,461,Santo Andr,15,2006-02-15 09:45:25.000,15,Brazil,2006-02-15 09:44:00.000
-355,355,2,Terry,Grissom,terry.grissom@sakilacustomer.org,360,True,2006-02-14,2013-05-26 14:49:45.738,1,360,619 Hunuco Avenue,,Shimane,331,81508,142596392389,2006-02-15 09:45:30.000,331,Matsue,50,2006-02-15 09:45:25.000,50,Japan,2006-02-15 09:44:00.000
-356,356,2,Gerald,Fultz,gerald.fultz@sakilacustomer.org,361,True,2006-02-14,2013-05-26 14:49:45.738,1,361,45 Aparecida de Goinia Place,,Madhya Pradesh,464,7431,650496654258,2006-02-15 09:45:30.000,464,Satna,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-357,357,1,Keith,Rico,keith.rico@sakilacustomer.org,362,True,2006-02-14,2013-05-26 14:49:45.738,1,362,482 Kowloon and New Kowloon Manor,,Bratislava,90,97056,738968474939,2006-02-15 09:45:30.000,90,Bratislava,84,2006-02-15 09:45:25.000,84,Slovakia,2006-02-15 09:44:00.000
-358,358,2,Samuel,Marlow,samuel.marlow@sakilacustomer.org,363,True,2006-02-14,2013-05-26 14:49:45.738,1,363,604 Bern Place,,Jharkhand,429,5373,620719383725,2006-02-15 09:45:30.000,429,Ranchi,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-359,359,2,Willie,Markham,willie.markham@sakilacustomer.org,364,True,2006-02-14,2013-05-26 14:49:45.738,1,364,1623 Kingstown Drive,,Buenos Aires,20,91299,296394569728,2006-02-15 09:45:30.000,20,Almirante Brown,6,2006-02-15 09:45:25.000,6,Argentina,2006-02-15 09:44:00.000
-360,360,2,Ralph,Madrigal,ralph.madrigal@sakilacustomer.org,365,True,2006-02-14,2013-05-26 14:49:45.738,1,365,1009 Zanzibar Lane,,Arecibo,32,64875,102396298916,2006-02-15 09:45:30.000,32,Arecibo,77,2006-02-15 09:45:25.000,77,Puerto Rico,2006-02-15 09:44:00.000
-361,361,2,Lawrence,Lawton,lawrence.lawton@sakilacustomer.org,366,True,2006-02-14,2013-05-26 14:49:45.738,1,366,114 Jalib al-Shuyukh Manor,,Centre,585,60440,845378657301,2006-02-15 09:45:30.000,585,Yaound,19,2006-02-15 09:45:25.000,19,Cameroon,2006-02-15 09:44:00.000
-362,362,1,Nicholas,Barfield,nicholas.barfield@sakilacustomer.org,367,True,2006-02-14,2013-05-26 14:49:45.738,1,367,1163 London Parkway,,Par,66,6066,675120358494,2006-02-15 09:45:30.000,66,Belm,15,2006-02-15 09:45:25.000,15,Brazil,2006-02-15 09:44:00.000
-363,363,2,Roy,Whiting,roy.whiting@sakilacustomer.org,368,True,2006-02-14,2013-05-26 14:49:45.738,1,368,1658 Jastrzebie-Zdrj Loop,,Central,372,96584,568367775448,2006-02-15 09:45:30.000,372,Nyeri,52,2006-02-15 09:45:25.000,52,Kenya,2006-02-15 09:44:00.000
-364,364,1,Benjamin,Varney,benjamin.varney@sakilacustomer.org,369,True,2006-02-14,2013-05-26 14:49:45.738,1,369,817 Laredo Avenue,,Jalisco,188,77449,151249681135,2006-02-15 09:45:30.000,188,Guadalajara,60,2006-02-15 09:45:25.000,60,Mexico,2006-02-15 09:44:00.000
-365,365,2,Bruce,Schwarz,bruce.schwarz@sakilacustomer.org,370,True,2006-02-14,2013-05-26 14:49:45.738,1,370,1565 Tangail Manor,,Okinawa,377,45750,634445428822,2006-02-15 09:45:30.000,377,Okinawa,50,2006-02-15 09:45:25.000,50,Japan,2006-02-15 09:44:00.000
-366,366,1,Brandon,Huey,brandon.huey@sakilacustomer.org,371,True,2006-02-14,2013-05-26 14:49:45.738,1,371,1912 Emeishan Drive,,Balikesir,50,33050,99883471275,2006-02-15 09:45:30.000,50,Balikesir,97,2006-02-15 09:45:25.000,97,Turkey,2006-02-15 09:44:00.000
-367,367,1,Adam,Gooch,adam.gooch@sakilacustomer.org,372,True,2006-02-14,2013-05-26 14:49:45.738,1,372,230 Urawa Drive,,Andhra Pradesh,8,2738,166898395731,2006-02-15 09:45:30.000,8,Adoni,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-368,368,1,Harry,Arce,harry.arce@sakilacustomer.org,373,True,2006-02-14,2013-05-26 14:49:45.738,0,373,1922 Miraj Way,,Esfahan,356,13203,320471479776,2006-02-15 09:45:30.000,356,Najafabad,46,2006-02-15 09:45:25.000,46,Iran,2006-02-15 09:44:00.000
-369,369,2,Fred,Wheat,fred.wheat@sakilacustomer.org,374,True,2006-02-14,2013-05-26 14:49:45.738,1,374,433 Florencia Street,,Chihuahua,250,91330,561729882725,2006-02-15 09:45:30.000,250,Jurez,60,2006-02-15 09:45:25.000,60,Mexico,2006-02-15 09:44:00.000
-370,370,2,Wayne,Truong,wayne.truong@sakilacustomer.org,375,True,2006-02-14,2013-05-26 14:49:45.738,1,375,1049 Matamoros Parkway,,Karnataka,191,69640,960505250340,2006-02-15 09:45:30.000,191,Gulbarga,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-371,371,1,Billy,Poulin,billy.poulin@sakilacustomer.org,376,True,2006-02-14,2013-05-26 14:49:45.738,1,376,1061 Ede Avenue,,Southern Tagalog,98,57810,333390595558,2006-02-15 09:45:30.000,98,Cabuyao,75,2006-02-15 09:45:25.000,75,Philippines,2006-02-15 09:44:00.000
-372,372,2,Steve,Mackenzie,steve.mackenzie@sakilacustomer.org,377,True,2006-02-14,2013-05-26 14:49:45.738,1,377,154 Oshawa Manor,,East Java,415,72771,440365973660,2006-02-15 09:45:30.000,415,Probolinggo,45,2006-02-15 09:45:25.000,45,Indonesia,2006-02-15 09:44:00.000
-373,373,1,Louis,Leone,louis.leone@sakilacustomer.org,378,True,2006-02-14,2013-05-26 14:49:45.738,1,378,1191 Tandil Drive,,Southern Tagalog,523,6362,45554316010,2006-02-15 09:45:30.000,523,Tanauan,75,2006-02-15 09:45:25.000,75,Philippines,2006-02-15 09:44:00.000
-374,374,2,Jeremy,Hurtado,jeremy.hurtado@sakilacustomer.org,379,True,2006-02-14,2013-05-26 14:49:45.738,1,379,1133 Rizhao Avenue,,Pernambuco,572,2800,600264533987,2006-02-15 09:45:30.000,572,Vitria de Santo Anto,15,2006-02-15 09:45:25.000,15,Brazil,2006-02-15 09:44:00.000
-375,375,2,Aaron,Selby,aaron.selby@sakilacustomer.org,380,True,2006-02-14,2013-05-26 14:49:45.738,1,380,1519 Santiago de los Caballeros Loop,,East Kasai,348,22025,409315295763,2006-02-15 09:45:30.000,348,Mwene-Ditu,25,2006-02-15 09:45:25.000,25,"Congo, The Democratic Republic of the",2006-02-15 09:44:00.000
-376,376,1,Randy,Gaither,randy.gaither@sakilacustomer.org,381,True,2006-02-14,2013-05-26 14:49:45.738,1,381,1618 Olomouc Manor,,Kurgan,285,26385,96846695220,2006-02-15 09:45:30.000,285,Kurgan,80,2006-02-15 09:45:25.000,80,Russian Federation,2006-02-15 09:44:00.000
-377,377,1,Howard,Fortner,howard.fortner@sakilacustomer.org,382,True,2006-02-14,2013-05-26 14:49:45.738,1,382,220 Hidalgo Drive,,Kermanshah,265,45298,342720754566,2006-02-15 09:45:30.000,265,Kermanshah,46,2006-02-15 09:45:25.000,46,Iran,2006-02-15 09:44:00.000
-378,378,1,Eugene,Culpepper,eugene.culpepper@sakilacustomer.org,383,True,2006-02-14,2013-05-26 14:49:45.738,1,383,686 Donostia-San Sebastin Lane,,Guangdong,471,97390,71857599858,2006-02-15 09:45:30.000,471,Shenzhen,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-379,379,1,Carlos,Coughlin,carlos.coughlin@sakilacustomer.org,384,True,2006-02-14,2013-05-26 14:49:45.738,1,384,97 Mogiljov Lane,,Gujarat,73,89294,924815207181,2006-02-15 09:45:30.000,73,Bhavnagar,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-380,380,1,Russell,Brinson,russell.brinson@sakilacustomer.org,385,True,2006-02-14,2013-05-26 14:49:45.738,1,385,1642 Charlotte Amalie Drive,,Slaskie,549,75442,821476736117,2006-02-15 09:45:30.000,549,Tychy,76,2006-02-15 09:45:25.000,76,Poland,2006-02-15 09:44:00.000
-381,381,2,Bobby,Boudreau,bobby.boudreau@sakilacustomer.org,386,True,2006-02-14,2013-05-26 14:49:45.738,1,386,1368 Maracabo Boulevard,,,493,32716,934352415130,2006-02-15 09:45:30.000,493,South Hill,5,2006-02-15 09:45:25.000,5,Anguilla,2006-02-15 09:44:00.000
-382,382,2,Victor,Barkley,victor.barkley@sakilacustomer.org,387,True,2006-02-14,2013-05-26 14:49:45.738,1,387,401 Sucre Boulevard,,New Hampshire,322,25007,486395999608,2006-02-15 09:45:30.000,322,Manchester,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-383,383,1,Martin,Bales,martin.bales@sakilacustomer.org,388,True,2006-02-14,2013-05-26 14:49:45.738,1,388,368 Hunuco Boulevard,,Namibe,360,17165,106439158941,2006-02-15 09:45:30.000,360,Namibe,4,2006-02-15 09:45:25.000,4,Angola,2006-02-15 09:44:00.000
-384,384,2,Ernest,Stepp,ernest.stepp@sakilacustomer.org,389,True,2006-02-14,2013-05-26 14:49:45.738,1,389,500 Lincoln Parkway,,Jiangsu,210,95509,550306965159,2006-02-15 09:45:30.000,210,Huaian,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-385,385,1,Phillip,Holm,phillip.holm@sakilacustomer.org,390,True,2006-02-14,2013-05-26 14:49:45.738,1,390,102 Chapra Drive,,Ibaragi,521,14073,776031833752,2006-02-15 09:45:30.000,521,Tama,50,2006-02-15 09:45:25.000,50,Japan,2006-02-15 09:44:00.000
-386,386,1,Todd,Tan,todd.tan@sakilacustomer.org,391,True,2006-02-14,2013-05-26 14:49:45.738,1,391,1793 Meixian Place,,Hmelnytskyi,258,33535,619966287415,2006-02-15 09:45:30.000,258,Kamjanets-Podilskyi,100,2006-02-15 09:45:25.000,100,Ukraine,2006-02-15 09:44:00.000
-387,387,2,Jesse,Schilling,jesse.schilling@sakilacustomer.org,392,True,2006-02-14,2013-05-26 14:49:45.738,1,392,514 Ife Way,,Shaba,315,69973,900235712074,2006-02-15 09:45:30.000,315,Lubumbashi,25,2006-02-15 09:45:25.000,25,"Congo, The Democratic Republic of the",2006-02-15 09:44:00.000
-388,388,2,Craig,Morrell,craig.morrell@sakilacustomer.org,393,True,2006-02-14,2013-05-26 14:49:45.738,1,393,717 Changzhou Lane,,Southern Tagalog,104,21615,426255288071,2006-02-15 09:45:30.000,104,Cavite,75,2006-02-15 09:45:25.000,75,Philippines,2006-02-15 09:44:00.000
-389,389,1,Alan,Kahn,alan.kahn@sakilacustomer.org,394,True,2006-02-14,2013-05-26 14:49:45.738,1,394,753 Ilorin Avenue,,Sichuan,157,3656,464511145118,2006-02-15 09:45:30.000,157,Emeishan,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-390,390,1,Shawn,Heaton,shawn.heaton@sakilacustomer.org,395,True,2006-02-14,2013-05-26 14:49:45.738,1,395,1337 Mit Ghamr Avenue,,Nakhon Sawan,358,29810,175283210378,2006-02-15 09:45:30.000,358,Nakhon Sawan,94,2006-02-15 09:45:25.000,94,Thailand,2006-02-15 09:44:00.000
-391,391,1,Clarence,Gamez,clarence.gamez@sakilacustomer.org,396,True,2006-02-14,2013-05-26 14:49:45.738,1,396,767 Pyongyang Drive,,Osaka,229,83536,667736124769,2006-02-15 09:45:30.000,229,Izumisano,50,2006-02-15 09:45:25.000,50,Japan,2006-02-15 09:44:00.000
-392,392,2,Sean,Douglass,sean.douglass@sakilacustomer.org,397,True,2006-02-14,2013-05-26 14:49:45.738,1,397,614 Pak Kret Street,,Addis Abeba,6,27796,47808359842,2006-02-15 09:45:30.000,6,Addis Abeba,31,2006-02-15 09:45:25.000,31,Ethiopia,2006-02-15 09:44:00.000
-393,393,1,Philip,Causey,philip.causey@sakilacustomer.org,398,True,2006-02-14,2013-05-26 14:49:45.738,1,398,954 Lapu-Lapu Way,,Moskova,278,8816,737229003916,2006-02-15 09:45:30.000,278,Korolev,80,2006-02-15 09:45:25.000,80,Russian Federation,2006-02-15 09:44:00.000
-394,394,2,Chris,Brothers,chris.brothers@sakilacustomer.org,399,True,2006-02-14,2013-05-26 14:49:45.738,1,399,331 Bydgoszcz Parkway,,Asturia,181,966,537374465982,2006-02-15 09:45:30.000,181,Gijn,87,2006-02-15 09:45:25.000,87,Spain,2006-02-15 09:44:00.000
-395,395,2,Johnny,Turpin,johnny.turpin@sakilacustomer.org,400,True,2006-02-14,2013-05-26 14:49:45.738,1,400,1152 Citrus Heights Manor,,al-Qadarif,15,5239,765957414528,2006-02-15 09:45:30.000,15,al-Qadarif,89,2006-02-15 09:45:25.000,89,Sudan,2006-02-15 09:44:00.000
-396,396,1,Earl,Shanks,earl.shanks@sakilacustomer.org,401,True,2006-02-14,2013-05-26 14:49:45.738,1,401,168 Cianjur Manor,,Saitama,228,73824,679095087143,2006-02-15 09:45:30.000,228,Iwatsuki,50,2006-02-15 09:45:25.000,50,Japan,2006-02-15 09:44:00.000
-397,397,1,Jimmy,Schrader,jimmy.schrader@sakilacustomer.org,402,True,2006-02-14,2013-05-26 14:49:45.738,1,402,616 Hagonoy Avenue,,Krasnojarsk,39,46043,604177838256,2006-02-15 09:45:30.000,39,Atinsk,80,2006-02-15 09:45:25.000,80,Russian Federation,2006-02-15 09:44:00.000
-398,398,1,Antonio,Meek,antonio.meek@sakilacustomer.org,403,True,2006-02-14,2013-05-26 14:49:45.738,1,403,1190 0 Place,,Rio Grande do Sul,44,10417,841876514789,2006-02-15 09:45:30.000,44,Bag,15,2006-02-15 09:45:25.000,15,Brazil,2006-02-15 09:44:00.000
-399,399,1,Danny,Isom,danny.isom@sakilacustomer.org,404,True,2006-02-14,2013-05-26 14:49:45.738,1,404,734 Bchar Place,,Punjab,375,30586,280578750435,2006-02-15 09:45:30.000,375,Okara,72,2006-02-15 09:45:25.000,72,Pakistan,2006-02-15 09:44:00.000
-400,400,2,Bryan,Hardison,bryan.hardison@sakilacustomer.org,405,True,2006-02-14,2013-05-26 14:49:45.738,1,405,530 Lausanne Lane,,Texas,135,11067,775235029633,2006-02-15 09:45:30.000,135,Dallas,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-401,401,2,Tony,Carranza,tony.carranza@sakilacustomer.org,406,True,2006-02-14,2013-05-26 14:49:45.738,1,406,454 Patiala Lane,,Fukushima,276,13496,794553031307,2006-02-15 09:45:30.000,276,Koriyama,50,2006-02-15 09:45:25.000,50,Japan,2006-02-15 09:44:00.000
-402,402,1,Luis,Yanez,luis.yanez@sakilacustomer.org,407,True,2006-02-14,2013-05-26 14:49:45.738,1,407,1346 Mysore Drive,,Bretagne,92,61507,516647474029,2006-02-15 09:45:30.000,92,Brest,34,2006-02-15 09:45:25.000,34,France,2006-02-15 09:44:00.000
-403,403,1,Mike,Way,mike.way@sakilacustomer.org,408,True,2006-02-14,2013-05-26 14:49:45.738,1,408,990 Etawah Loop,,Tamil Nadu,564,79940,206169448769,2006-02-15 09:45:30.000,564,Valparai,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-404,404,2,Stanley,Scroggins,stanley.scroggins@sakilacustomer.org,409,True,2006-02-14,2013-05-26 14:49:45.738,1,409,1266 Laredo Parkway,,Saitama,380,7664,1483365694,2006-02-15 09:45:30.000,380,Omiya,50,2006-02-15 09:45:25.000,50,Japan,2006-02-15 09:44:00.000
-405,405,1,Leonard,Schofield,leonard.schofield@sakilacustomer.org,410,True,2006-02-14,2013-05-26 14:49:45.738,1,410,88 Nagaon Manor,,Buenos Aires,524,86868,779461480495,2006-02-15 09:45:30.000,524,Tandil,6,2006-02-15 09:45:25.000,6,Argentina,2006-02-15 09:44:00.000
-406,406,1,Nathan,Runyon,nathan.runyon@sakilacustomer.org,411,True,2006-02-14,2013-05-26 14:49:45.738,0,411,264 Bhimavaram Manor,,St Thomas,111,54749,302526949177,2006-02-15 09:45:30.000,111,Charlotte Amalie,106,2006-02-15 09:45:25.000,106,"Virgin Islands, U.S.",2006-02-15 09:44:00.000
-407,407,1,Dale,Ratcliff,dale.ratcliff@sakilacustomer.org,412,True,2006-02-14,2013-05-26 14:49:45.738,1,412,1639 Saarbrcken Drive,,North West,437,9827,328494873422,2006-02-15 09:45:30.000,437,Rustenburg,85,2006-02-15 09:45:25.000,85,South Africa,2006-02-15 09:44:00.000
-408,408,1,Manuel,Murrell,manuel.murrell@sakilacustomer.org,413,True,2006-02-14,2013-05-26 14:49:45.738,1,413,692 Amroha Drive,,Northern,230,35575,359478883004,2006-02-15 09:45:30.000,230,Jaffna,88,2006-02-15 09:45:25.000,88,Sri Lanka,2006-02-15 09:44:00.000
-409,409,2,Rodney,Moeller,rodney.moeller@sakilacustomer.org,414,True,2006-02-14,2013-05-26 14:49:45.738,1,414,1936 Lapu-Lapu Parkway,,Bauchi & Gombe,141,7122,653436985797,2006-02-15 09:45:30.000,141,Deba Habe,69,2006-02-15 09:45:25.000,69,Nigeria,2006-02-15 09:44:00.000
-410,410,2,Curtis,Irby,curtis.irby@sakilacustomer.org,415,True,2006-02-14,2013-05-26 14:49:45.738,1,415,432 Garden Grove Street,,Ontario,430,65630,615964523510,2006-02-15 09:45:30.000,430,Richmond Hill,20,2006-02-15 09:45:25.000,20,Canada,2006-02-15 09:44:00.000
-411,411,1,Norman,Currier,norman.currier@sakilacustomer.org,416,True,2006-02-14,2013-05-26 14:49:45.738,1,416,1445 Carmen Parkway,,West Java,117,70809,598912394463,2006-02-15 09:45:30.000,117,Cianjur,45,2006-02-15 09:45:25.000,45,Indonesia,2006-02-15 09:44:00.000
-412,412,2,Allen,Butterfield,allen.butterfield@sakilacustomer.org,417,True,2006-02-14,2013-05-26 14:49:45.738,1,417,791 Salinas Street,,Punjab,208,40509,129953030512,2006-02-15 09:45:30.000,208,Hoshiarpur,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-413,413,2,Marvin,Yee,marvin.yee@sakilacustomer.org,418,True,2006-02-14,2013-05-26 14:49:45.738,1,418,126 Acua Parkway,,West Bengali,71,58888,480039662421,2006-02-15 09:45:30.000,71,Berhampore (Baharampur),44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-414,414,1,Vincent,Ralston,vincent.ralston@sakilacustomer.org,419,True,2006-02-14,2013-05-26 14:49:45.738,1,419,397 Sunnyvale Avenue,,Guanajuato,19,55566,680851640676,2006-02-15 09:45:30.000,19,Allende,60,2006-02-15 09:45:25.000,60,Mexico,2006-02-15 09:44:00.000
-415,415,1,Glenn,Pullen,glenn.pullen@sakilacustomer.org,420,True,2006-02-14,2013-05-26 14:49:45.738,1,420,992 Klerksdorp Loop,,Utrecht,23,33711,855290087237,2006-02-15 09:45:30.000,23,Amersfoort,67,2006-02-15 09:45:25.000,67,Netherlands,2006-02-15 09:44:00.000
-416,416,2,Jeffery,Pinson,jeffery.pinson@sakilacustomer.org,421,True,2006-02-14,2013-05-26 14:49:45.738,1,421,966 Arecibo Loop,,Sind,134,94018,15273765306,2006-02-15 09:45:30.000,134,Dadu,72,2006-02-15 09:45:25.000,72,Pakistan,2006-02-15 09:44:00.000
-417,417,1,Travis,Estep,travis.estep@sakilacustomer.org,422,True,2006-02-14,2013-05-26 14:49:45.738,1,422,289 Santo Andr Manor,,al-Sharqiya,16,72410,214976066017,2006-02-15 09:45:30.000,16,al-Qatif,82,2006-02-15 09:45:25.000,82,Saudi Arabia,2006-02-15 09:44:00.000
-418,418,2,Jeff,East,jeff.east@sakilacustomer.org,423,True,2006-02-14,2013-05-26 14:49:45.738,1,423,437 Chungho Drive,,Puerto Plata,450,59489,491271355190,2006-02-15 09:45:30.000,450,San Felipe de Puerto Plata,27,2006-02-15 09:45:25.000,27,Dominican Republic,2006-02-15 09:44:00.000
-419,419,1,Chad,Carbone,chad.carbone@sakilacustomer.org,424,True,2006-02-14,2013-05-26 14:49:45.738,1,424,1948 Bayugan Parkway,,Bihar,264,60622,987306329957,2006-02-15 09:45:30.000,264,Katihar,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-420,420,1,Jacob,Lance,jacob.lance@sakilacustomer.org,425,True,2006-02-14,2013-05-26 14:49:45.738,1,425,1866 al-Qatif Avenue,,California,155,89420,546793516940,2006-02-15 09:45:30.000,155,El Monte,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-421,421,1,Lee,Hawks,lee.hawks@sakilacustomer.org,426,True,2006-02-14,2013-05-26 14:49:45.738,1,426,1661 Abha Drive,,Tamil Nadu,416,14400,270456873752,2006-02-15 09:45:30.000,416,Pudukkottai,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-422,422,1,Melvin,Ellington,melvin.ellington@sakilacustomer.org,427,True,2006-02-14,2013-05-26 14:49:45.738,1,427,1557 Cape Coral Parkway,,Hubei,293,46875,368284120423,2006-02-15 09:45:30.000,293,Laohekou,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-423,423,2,Alfred,Casillas,alfred.casillas@sakilacustomer.org,428,True,2006-02-14,2013-05-26 14:49:45.738,1,428,1727 Matamoros Place,,Sawhaj,465,78813,129673677866,2006-02-15 09:45:30.000,465,Sawhaj,29,2006-02-15 09:45:25.000,29,Egypt,2006-02-15 09:44:00.000
-424,424,2,Kyle,Spurlock,kyle.spurlock@sakilacustomer.org,429,True,2006-02-14,2013-05-26 14:49:45.738,1,429,1269 Botosani Manor,,Guangdong,468,47394,736517327853,2006-02-15 09:45:30.000,468,Shanwei,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-425,425,2,Francis,Sikes,francis.sikes@sakilacustomer.org,430,True,2006-02-14,2013-05-26 14:49:45.738,1,430,355 Vitria de Santo Anto Way,,Oaxaca,452,81758,548003849552,2006-02-15 09:45:30.000,452,San Juan Bautista Tuxtepec,60,2006-02-15 09:45:25.000,60,Mexico,2006-02-15 09:44:00.000
-426,426,1,Bradley,Motley,bradley.motley@sakilacustomer.org,431,True,2006-02-14,2013-05-26 14:49:45.738,1,431,1596 Acua Parkway,,Jharkhand,418,70425,157133457169,2006-02-15 09:45:30.000,418,Purnea (Purnia),44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-427,427,2,Jesus,Mccartney,jesus.mccartney@sakilacustomer.org,432,True,2006-02-14,2013-05-26 14:49:45.738,1,432,259 Ipoh Drive,,So Paulo,189,64964,419009857119,2006-02-15 09:45:30.000,189,Guaruj,15,2006-02-15 09:45:25.000,15,Brazil,2006-02-15 09:44:00.000
-428,428,2,Herbert,Kruger,herbert.kruger@sakilacustomer.org,433,True,2006-02-14,2013-05-26 14:49:45.738,1,433,1823 Hoshiarpur Lane,,Komi,510,33191,307133768620,2006-02-15 09:45:30.000,510,Syktyvkar,80,2006-02-15 09:45:25.000,80,Russian Federation,2006-02-15 09:44:00.000
-429,429,2,Frederick,Isbell,frederick.isbell@sakilacustomer.org,434,True,2006-02-14,2013-05-26 14:49:45.738,1,434,1404 Taguig Drive,,Okayama,547,87212,572068624538,2006-02-15 09:45:30.000,547,Tsuyama,50,2006-02-15 09:45:25.000,50,Japan,2006-02-15 09:44:00.000
-430,430,1,Ray,Houle,ray.houle@sakilacustomer.org,435,True,2006-02-14,2013-05-26 14:49:45.738,1,435,740 Udaipur Lane,,Nizni Novgorod,150,33505,497288595103,2006-02-15 09:45:30.000,150,Dzerzinsk,80,2006-02-15 09:45:25.000,80,Russian Federation,2006-02-15 09:44:00.000
-431,431,2,Joel,Francisco,joel.francisco@sakilacustomer.org,436,True,2006-02-14,2013-05-26 14:49:45.738,1,436,287 Cuautla Boulevard,,Chuquisaca,501,72736,82619513349,2006-02-15 09:45:30.000,501,Sucre,14,2006-02-15 09:45:25.000,14,Bolivia,2006-02-15 09:44:00.000
-432,432,1,Edwin,Burk,edwin.burk@sakilacustomer.org,437,True,2006-02-14,2013-05-26 14:49:45.738,1,437,1766 Almirante Brown Street,,KwaZulu-Natal,364,63104,617567598243,2006-02-15 09:45:30.000,364,Newcastle,85,2006-02-15 09:45:25.000,85,South Africa,2006-02-15 09:44:00.000
-433,433,1,Don,Bone,don.bone@sakilacustomer.org,438,True,2006-02-14,2013-05-26 14:49:45.738,1,438,596 Huixquilucan Place,,Nampula,351,65892,342709348083,2006-02-15 09:45:30.000,351,Naala-Porto,63,2006-02-15 09:45:25.000,63,Mozambique,2006-02-15 09:44:00.000
-434,434,1,Eddie,Tomlin,eddie.tomlin@sakilacustomer.org,439,True,2006-02-14,2013-05-26 14:49:45.738,1,439,1351 Aparecida de Goinia Parkway,,Northern Mindanao,391,41775,959834530529,2006-02-15 09:45:30.000,391,Ozamis,75,2006-02-15 09:45:25.000,75,Philippines,2006-02-15 09:44:00.000
-435,435,2,Ricky,Shelby,ricky.shelby@sakilacustomer.org,440,True,2006-02-14,2013-05-26 14:49:45.738,1,440,722 Bradford Lane,,Shandong,249,90920,746251338300,2006-02-15 09:45:30.000,249,Junan,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-436,436,1,Troy,Quigley,troy.quigley@sakilacustomer.org,441,True,2006-02-14,2013-05-26 14:49:45.738,1,441,983 Santa F Way,,British Colombia,565,47472,145720452260,2006-02-15 09:45:30.000,565,Vancouver,20,2006-02-15 09:45:25.000,20,Canada,2006-02-15 09:44:00.000
-437,437,2,Randall,Neumann,randall.neumann@sakilacustomer.org,442,True,2006-02-14,2013-05-26 14:49:45.738,1,442,1245 Ibirit Way,,La Romana,290,40926,331888642162,2006-02-15 09:45:30.000,290,La Romana,27,2006-02-15 09:45:25.000,27,Dominican Republic,2006-02-15 09:44:00.000
-438,438,1,Barry,Lovelace,barry.lovelace@sakilacustomer.org,443,True,2006-02-14,2013-05-26 14:49:45.738,1,443,1836 Korla Parkway,,Copperbelt,272,55405,689681677428,2006-02-15 09:45:30.000,272,Kitwe,109,2006-02-15 09:45:25.000,109,Zambia,2006-02-15 09:44:00.000
-439,439,2,Alexander,Fennell,alexander.fennell@sakilacustomer.org,444,True,2006-02-14,2013-05-26 14:49:45.738,1,444,231 Kaliningrad Place,,Lombardia,70,57833,575081026569,2006-02-15 09:45:30.000,70,Bergamo,49,2006-02-15 09:45:25.000,49,Italy,2006-02-15 09:44:00.000
-440,440,1,Bernard,Colby,bernard.colby@sakilacustomer.org,445,True,2006-02-14,2013-05-26 14:49:45.738,1,445,495 Bhimavaram Lane,,Maharashtra,144,3,82088937724,2006-02-15 09:45:30.000,144,Dhule (Dhulia),44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-441,441,1,Mario,Cheatham,mario.cheatham@sakilacustomer.org,446,True,2006-02-14,2013-05-26 14:49:45.738,1,446,1924 Shimonoseki Drive,,Batna,59,52625,406784385440,2006-02-15 09:45:30.000,59,Batna,2,2006-02-15 09:45:25.000,2,Algeria,2006-02-15 09:44:00.000
-442,442,1,Leroy,Bustamante,leroy.bustamante@sakilacustomer.org,447,True,2006-02-14,2013-05-26 14:49:45.738,1,447,105 Dzerzinsk Manor,,Inner Mongolia,540,48570,240776414296,2006-02-15 09:45:30.000,540,Tongliao,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-443,443,2,Francisco,Skidmore,francisco.skidmore@sakilacustomer.org,448,True,2006-02-14,2013-05-26 14:49:45.738,1,448,614 Denizli Parkway,,Rio Grande do Sul,486,29444,876491807547,2006-02-15 09:45:30.000,486,So Leopoldo,15,2006-02-15 09:45:25.000,15,Brazil,2006-02-15 09:44:00.000
-444,444,2,Marcus,Hidalgo,marcus.hidalgo@sakilacustomer.org,449,True,2006-02-14,2013-05-26 14:49:45.738,1,449,1289 Belm Boulevard,,Tartumaa,530,88306,237368926031,2006-02-15 09:45:30.000,530,Tartu,30,2006-02-15 09:45:25.000,30,Estonia,2006-02-15 09:44:00.000
-445,445,1,Micheal,Forman,micheal.forman@sakilacustomer.org,450,True,2006-02-14,2013-05-26 14:49:45.738,1,450,203 Tambaram Street,,Buenos Aires,161,73942,411549550611,2006-02-15 09:45:30.000,161,Escobar,6,2006-02-15 09:45:25.000,6,Argentina,2006-02-15 09:44:00.000
-446,446,2,Theodore,Culp,theodore.culp@sakilacustomer.org,451,True,2006-02-14,2013-05-26 14:49:45.738,0,451,1704 Tambaram Manor,,West Bengali,554,2834,39463554936,2006-02-15 09:45:30.000,554,Uluberia,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-447,447,1,Clifford,Bowens,clifford.bowens@sakilacustomer.org,452,True,2006-02-14,2013-05-26 14:49:45.738,1,452,207 Cuernavaca Loop,,Tatarstan,352,52671,782900030287,2006-02-15 09:45:30.000,352,Nabereznyje Telny,80,2006-02-15 09:45:25.000,80,Russian Federation,2006-02-15 09:44:00.000
-448,448,1,Miguel,Betancourt,miguel.betancourt@sakilacustomer.org,453,True,2006-02-14,2013-05-26 14:49:45.738,1,453,319 Springs Loop,,Baijeri,160,99552,72524459905,2006-02-15 09:45:30.000,160,Erlangen,38,2006-02-15 09:45:25.000,38,Germany,2006-02-15 09:44:00.000
-449,449,2,Oscar,Aquino,oscar.aquino@sakilacustomer.org,454,True,2006-02-14,2013-05-26 14:49:45.738,1,454,956 Nam Dinh Manor,,Kerman,481,21872,474047727727,2006-02-15 09:45:30.000,481,Sirjan,46,2006-02-15 09:45:25.000,46,Iran,2006-02-15 09:44:00.000
-450,450,1,Jay,Robb,jay.robb@sakilacustomer.org,455,True,2006-02-14,2013-05-26 14:49:45.738,1,455,1947 Paarl Way,,Central Java,509,23636,834061016202,2006-02-15 09:45:30.000,509,Surakarta,45,2006-02-15 09:45:25.000,45,Indonesia,2006-02-15 09:44:00.000
-451,451,1,Jim,Rea,jim.rea@sakilacustomer.org,456,True,2006-02-14,2013-05-26 14:49:45.738,1,456,814 Simferopol Loop,,Sinaloa,154,48745,524567129902,2006-02-15 09:45:30.000,154,El Fuerte,60,2006-02-15 09:45:25.000,60,Mexico,2006-02-15 09:44:00.000
-452,452,1,Tom,Milner,tom.milner@sakilacustomer.org,457,True,2006-02-14,2013-05-26 14:49:45.738,1,457,535 Ahmadnagar Manor,,Abu Dhabi,3,41136,985109775584,2006-02-15 09:45:30.000,3,Abu Dhabi,101,2006-02-15 09:45:25.000,101,United Arab Emirates,2006-02-15 09:44:00.000
-453,453,1,Calvin,Martel,calvin.martel@sakilacustomer.org,458,True,2006-02-14,2013-05-26 14:49:45.738,1,458,138 Caracas Boulevard,,Zulia,326,16790,974433019532,2006-02-15 09:45:30.000,326,Maracabo,104,2006-02-15 09:45:25.000,104,Venezuela,2006-02-15 09:44:00.000
-454,454,2,Alex,Gresham,alex.gresham@sakilacustomer.org,459,True,2006-02-14,2013-05-26 14:49:45.738,1,459,251 Florencia Drive,,Michoacn de Ocampo,556,16119,118011831565,2006-02-15 09:45:30.000,556,Uruapan,60,2006-02-15 09:45:25.000,60,Mexico,2006-02-15 09:44:00.000
-455,455,2,Jon,Wiles,jon.wiles@sakilacustomer.org,460,True,2006-02-14,2013-05-26 14:49:45.738,1,460,659 Gatineau Boulevard,,La Paz,153,28587,205524798287,2006-02-15 09:45:30.000,153,El Alto,14,2006-02-15 09:45:25.000,14,Bolivia,2006-02-15 09:44:00.000
-456,456,2,Ronnie,Ricketts,ronnie.ricketts@sakilacustomer.org,461,True,2006-02-14,2013-05-26 14:49:45.738,1,461,1889 Valparai Way,,Ziguinchor,600,75559,670370974122,2006-02-15 09:45:30.000,600,Ziguinchor,83,2006-02-15 09:45:25.000,83,Senegal,2006-02-15 09:44:00.000
-457,457,2,Bill,Gavin,bill.gavin@sakilacustomer.org,462,True,2006-02-14,2013-05-26 14:49:45.738,1,462,1485 Bratislava Place,,Illinois,435,83183,924663855568,2006-02-15 09:45:30.000,435,Rockford,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-458,458,1,Lloyd,Dowd,lloyd.dowd@sakilacustomer.org,463,True,2006-02-14,2013-05-26 14:49:45.738,1,463,935 Aden Boulevard,,Central Java,532,64709,335052544020,2006-02-15 09:45:30.000,532,Tegal,45,2006-02-15 09:45:25.000,45,Indonesia,2006-02-15 09:44:00.000
-459,459,1,Tommy,Collazo,tommy.collazo@sakilacustomer.org,464,True,2006-02-14,2013-05-26 14:49:45.738,1,464,76 Kermanshah Manor,,Esfahan,423,23343,762361821578,2006-02-15 09:45:30.000,423,Qomsheh,46,2006-02-15 09:45:25.000,46,Iran,2006-02-15 09:44:00.000
-460,460,1,Leon,Bostic,leon.bostic@sakilacustomer.org,465,True,2006-02-14,2013-05-26 14:49:45.738,1,465,734 Tanshui Avenue,,Caquet,170,70664,366776723320,2006-02-15 09:45:30.000,170,Florencia,24,2006-02-15 09:45:25.000,24,Colombia,2006-02-15 09:44:00.000
-461,461,1,Derek,Blakely,derek.blakely@sakilacustomer.org,466,True,2006-02-14,2013-05-26 14:49:45.738,1,466,118 Jaffna Loop,,Northern Mindanao,182,10447,325526730021,2006-02-15 09:45:30.000,182,Gingoog,75,2006-02-15 09:45:25.000,75,Philippines,2006-02-15 09:44:00.000
-462,462,2,Warren,Sherrod,warren.sherrod@sakilacustomer.org,467,True,2006-02-14,2013-05-26 14:49:45.738,1,467,1621 Tongliao Avenue,,Irkutsk,558,22173,209342540247,2006-02-15 09:45:30.000,558,Usolje-Sibirskoje,80,2006-02-15 09:45:25.000,80,Russian Federation,2006-02-15 09:44:00.000
-463,463,2,Darrell,Power,darrell.power@sakilacustomer.org,468,True,2006-02-14,2013-05-26 14:49:45.738,1,468,1844 Usak Avenue,,Nova Scotia,196,84461,164414772677,2006-02-15 09:45:30.000,196,Halifax,20,2006-02-15 09:45:25.000,20,Canada,2006-02-15 09:44:00.000
-464,464,1,Jerome,Kenyon,jerome.kenyon@sakilacustomer.org,469,True,2006-02-14,2013-05-26 14:49:45.738,1,469,1872 Toulon Loop,,OHiggins,428,7939,928809465153,2006-02-15 09:45:30.000,428,Rancagua,22,2006-02-15 09:45:25.000,22,Chile,2006-02-15 09:44:00.000
-465,465,1,Floyd,Gandy,floyd.gandy@sakilacustomer.org,470,True,2006-02-14,2013-05-26 14:49:45.738,1,470,1088 Ibirit Place,,Jalisco,595,88502,49084281333,2006-02-15 09:45:30.000,595,Zapopan,60,2006-02-15 09:45:25.000,60,Mexico,2006-02-15 09:44:00.000
-466,466,1,Leo,Ebert,leo.ebert@sakilacustomer.org,471,True,2006-02-14,2013-05-26 14:49:45.738,1,471,1322 Mosul Parkway,,Shandong,145,95400,268053970382,2006-02-15 09:45:30.000,145,Dongying,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-467,467,2,Alvin,Deloach,alvin.deloach@sakilacustomer.org,472,True,2006-02-14,2013-05-26 14:49:45.738,1,472,1447 Chatsworth Place,,Chihuahua,129,41545,769370126331,2006-02-15 09:45:30.000,129,Cuauhtmoc,60,2006-02-15 09:45:25.000,60,Mexico,2006-02-15 09:44:00.000
-468,468,1,Tim,Cary,tim.cary@sakilacustomer.org,473,True,2006-02-14,2013-05-26 14:49:45.738,1,473,1257 Guadalajara Street,,Karnataka,78,33599,195337700615,2006-02-15 09:45:30.000,78,Bijapur,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-469,469,2,Wesley,Bull,wesley.bull@sakilacustomer.org,474,True,2006-02-14,2013-05-26 14:49:45.738,1,474,1469 Plock Lane,,Galicia,388,95835,622884741180,2006-02-15 09:45:30.000,388,Ourense (Orense),87,2006-02-15 09:45:25.000,87,Spain,2006-02-15 09:44:00.000
-470,470,1,Gordon,Allard,gordon.allard@sakilacustomer.org,475,True,2006-02-14,2013-05-26 14:49:45.738,1,475,434 Ourense (Orense) Manor,,Hodeida,206,14122,562370137426,2006-02-15 09:45:30.000,206,Hodeida,107,2006-02-15 09:45:25.000,107,Yemen,2006-02-15 09:44:00.000
-471,471,1,Dean,Sauer,dean.sauer@sakilacustomer.org,476,True,2006-02-14,2013-05-26 14:49:45.738,1,476,270 Tambaram Parkway,,Gauteng,244,9668,248446668735,2006-02-15 09:45:30.000,244,Johannesburg,85,2006-02-15 09:45:25.000,85,South Africa,2006-02-15 09:44:00.000
-472,472,1,Greg,Robins,greg.robins@sakilacustomer.org,477,True,2006-02-14,2013-05-26 14:49:45.738,1,477,1786 Salinas Place,,Nam Ha,359,66546,206060652238,2006-02-15 09:45:30.000,359,Nam Dinh,105,2006-02-15 09:45:25.000,105,Vietnam,2006-02-15 09:44:00.000
-473,473,2,Jorge,Olivares,jorge.olivares@sakilacustomer.org,478,True,2006-02-14,2013-05-26 14:49:45.738,1,478,1078 Stara Zagora Drive,,Aceh,301,69221,932992626595,2006-02-15 09:45:30.000,301,Lhokseumawe,45,2006-02-15 09:45:25.000,45,Indonesia,2006-02-15 09:44:00.000
-474,474,2,Dustin,Gillette,dustin.gillette@sakilacustomer.org,479,True,2006-02-14,2013-05-26 14:49:45.738,1,479,1854 Okara Boulevard,,Drenthe,158,42123,131912793873,2006-02-15 09:45:30.000,158,Emmen,67,2006-02-15 09:45:25.000,67,Netherlands,2006-02-15 09:44:00.000
-475,475,2,Pedro,Chestnut,pedro.chestnut@sakilacustomer.org,480,True,2006-02-14,2013-05-26 14:49:45.738,1,480,421 Yaound Street,,Sumy,385,11363,726875628268,2006-02-15 09:45:30.000,385,ostka,100,2006-02-15 09:45:25.000,100,Ukraine,2006-02-15 09:44:00.000
-476,476,1,Derrick,Bourque,derrick.bourque@sakilacustomer.org,481,True,2006-02-14,2013-05-26 14:49:45.738,1,481,1153 Allende Way,,Qubec,179,20336,856872225376,2006-02-15 09:45:30.000,179,Gatineau,20,2006-02-15 09:45:25.000,20,Canada,2006-02-15 09:44:00.000
-477,477,1,Dan,Paine,dan.paine@sakilacustomer.org,482,True,2006-02-14,2013-05-26 14:49:45.738,1,482,808 Naala-Porto Parkway,,England,500,41060,553452430707,2006-02-15 09:45:30.000,500,Stockport,102,2006-02-15 09:45:25.000,102,United Kingdom,2006-02-15 09:44:00.000
-478,478,1,Lewis,Lyman,lewis.lyman@sakilacustomer.org,483,True,2006-02-14,2013-05-26 14:49:45.738,1,483,632 Usolje-Sibirskoje Parkway,,Ha Darom,36,73085,667648979883,2006-02-15 09:45:30.000,36,Ashqelon,48,2006-02-15 09:45:25.000,48,Israel,2006-02-15 09:44:00.000
-479,479,1,Zachary,Hite,zachary.hite@sakilacustomer.org,484,True,2006-02-14,2013-05-26 14:49:45.738,1,484,98 Pyongyang Boulevard,,Ohio,11,88749,191958435142,2006-02-15 09:45:30.000,11,Akron,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-480,480,1,Corey,Hauser,corey.hauser@sakilacustomer.org,485,True,2006-02-14,2013-05-26 14:49:45.738,1,485,984 Novoterkassk Loop,,Gaziantep,180,28165,435118527255,2006-02-15 09:45:30.000,180,Gaziantep,97,2006-02-15 09:45:25.000,97,Turkey,2006-02-15 09:44:00.000
-481,481,1,Herman,Devore,herman.devore@sakilacustomer.org,486,True,2006-02-14,2013-05-26 14:49:45.738,1,486,64 Korla Street,,Mwanza,347,25145,510383179153,2006-02-15 09:45:30.000,347,Mwanza,93,2006-02-15 09:45:25.000,93,Tanzania,2006-02-15 09:44:00.000
-482,482,1,Maurice,Crawley,maurice.crawley@sakilacustomer.org,487,True,2006-02-14,2013-05-26 14:49:45.738,0,487,1785 So Bernardo do Campo Street,,Veracruz,125,71182,684529463244,2006-02-15 09:45:30.000,125,Coatzacoalcos,60,2006-02-15 09:45:25.000,60,Mexico,2006-02-15 09:44:00.000
-483,483,2,Vernon,Chapa,vernon.chapa@sakilacustomer.org,488,True,2006-02-14,2013-05-26 14:49:45.738,1,488,698 Jelets Boulevard,,Denizli,142,2596,975185523021,2006-02-15 09:45:30.000,142,Denizli,97,2006-02-15 09:45:25.000,97,Turkey,2006-02-15 09:44:00.000
-484,484,1,Roberto,Vu,roberto.vu@sakilacustomer.org,489,True,2006-02-14,2013-05-26 14:49:45.738,1,489,1297 Alvorada Parkway,,Ningxia,587,11839,508348602835,2006-02-15 09:45:30.000,587,Yinchuan,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-485,485,1,Clyde,Tobias,clyde.tobias@sakilacustomer.org,490,True,2006-02-14,2013-05-26 14:49:45.738,1,490,1909 Dayton Avenue,,Guangdong,469,88513,702955450528,2006-02-15 09:45:30.000,469,Shaoguan,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-486,486,1,Glen,Talbert,glen.talbert@sakilacustomer.org,491,True,2006-02-14,2013-05-26 14:49:45.738,1,491,1789 Saint-Denis Parkway,,Coahuila de Zaragoza,4,8268,936806643983,2006-02-15 09:45:30.000,4,Acua,60,2006-02-15 09:45:25.000,60,Mexico,2006-02-15 09:44:00.000
-487,487,2,Hector,Poindexter,hector.poindexter@sakilacustomer.org,492,True,2006-02-14,2013-05-26 14:49:45.738,1,492,185 Mannheim Lane,,Stavropol,408,23661,589377568313,2006-02-15 09:45:30.000,408,Pjatigorsk,80,2006-02-15 09:45:25.000,80,Russian Federation,2006-02-15 09:44:00.000
-488,488,2,Shane,Millard,shane.millard@sakilacustomer.org,493,True,2006-02-14,2013-05-26 14:49:45.738,1,493,184 Mandaluyong Street,,Baja California Sur,288,94239,488425406814,2006-02-15 09:45:30.000,288,La Paz,60,2006-02-15 09:45:25.000,60,Mexico,2006-02-15 09:44:00.000
-489,489,1,Ricardo,Meador,ricardo.meador@sakilacustomer.org,494,True,2006-02-14,2013-05-26 14:49:45.738,1,494,591 Sungai Petani Drive,,Okayama,376,46400,37247325001,2006-02-15 09:45:30.000,376,Okayama,50,2006-02-15 09:45:25.000,50,Japan,2006-02-15 09:44:00.000
-490,490,1,Sam,Mcduffie,sam.mcduffie@sakilacustomer.org,495,True,2006-02-14,2013-05-26 14:49:45.738,1,495,656 Matamoros Drive,,Boyac,487,19489,17305839123,2006-02-15 09:45:30.000,487,Sogamoso,24,2006-02-15 09:45:25.000,24,Colombia,2006-02-15 09:44:00.000
-491,491,2,Rick,Mattox,rick.mattox@sakilacustomer.org,496,True,2006-02-14,2013-05-26 14:49:45.738,1,496,775 ostka Drive,,al-Daqahliya,337,22358,171973024401,2006-02-15 09:45:30.000,337,Mit Ghamr,29,2006-02-15 09:45:25.000,29,Egypt,2006-02-15 09:44:00.000
-492,492,2,Lester,Kraus,lester.kraus@sakilacustomer.org,497,True,2006-02-14,2013-05-26 14:49:45.738,1,497,1013 Tabuk Boulevard,,West Bengali,261,96203,158399646978,2006-02-15 09:45:30.000,261,Kanchrapara,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-493,493,1,Brent,Harkins,brent.harkins@sakilacustomer.org,498,True,2006-02-14,2013-05-26 14:49:45.738,1,498,319 Plock Parkway,,Istanbul,504,26101,854259976812,2006-02-15 09:45:30.000,504,Sultanbeyli,97,2006-02-15 09:45:25.000,97,Turkey,2006-02-15 09:44:00.000
-494,494,2,Ramon,Choate,ramon.choate@sakilacustomer.org,499,True,2006-02-14,2013-05-26 14:49:45.738,1,499,1954 Kowloon and New Kowloon Way,,Chimborazo,434,63667,898559280434,2006-02-15 09:45:30.000,434,Robamba,28,2006-02-15 09:45:25.000,28,Ecuador,2006-02-15 09:44:00.000
-495,495,2,Charlie,Bess,charlie.bess@sakilacustomer.org,500,True,2006-02-14,2013-05-26 14:49:45.738,1,500,362 Rajkot Lane,,Gansu,47,98030,962020153680,2006-02-15 09:45:30.000,47,Baiyin,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-496,496,2,Tyler,Wren,tyler.wren@sakilacustomer.org,501,True,2006-02-14,2013-05-26 14:49:45.738,1,501,1060 Tandil Lane,,Shandong,432,72349,211256301880,2006-02-15 09:45:30.000,432,Rizhao,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-497,497,2,Gilbert,Sledge,gilbert.sledge@sakilacustomer.org,502,True,2006-02-14,2013-05-26 14:49:45.738,1,502,1515 Korla Way,,England,589,57197,959467760895,2006-02-15 09:45:30.000,589,York,102,2006-02-15 09:45:25.000,102,United Kingdom,2006-02-15 09:44:00.000
-498,498,1,Gene,Sanborn,gene.sanborn@sakilacustomer.org,503,True,2006-02-14,2013-05-26 14:49:45.738,1,503,1416 San Juan Bautista Tuxtepec Avenue,,Zufar,444,50592,144206758053,2006-02-15 09:45:30.000,444,Salala,71,2006-02-15 09:45:25.000,71,Oman,2006-02-15 09:44:00.000
-499,499,2,Marc,Outlaw,marc.outlaw@sakilacustomer.org,504,True,2006-02-14,2013-05-26 14:49:45.738,1,504,1 Valle de Santiago Avenue,,Apulia,93,86208,465897838272,2006-02-15 09:45:30.000,93,Brindisi,49,2006-02-15 09:45:25.000,49,Italy,2006-02-15 09:44:00.000
-500,500,1,Reginald,Kinder,reginald.kinder@sakilacustomer.org,505,True,2006-02-14,2013-05-26 14:49:45.738,1,505,519 Brescia Parkway,,East Java,318,69504,793996678771,2006-02-15 09:45:30.000,318,Madiun,45,2006-02-15 09:45:25.000,45,Indonesia,2006-02-15 09:44:00.000
-501,501,1,Ruben,Geary,ruben.geary@sakilacustomer.org,506,True,2006-02-14,2013-05-26 14:49:45.738,1,506,414 Mandaluyong Street,,Lubelskie,314,16370,52709222667,2006-02-15 09:45:30.000,314,Lublin,76,2006-02-15 09:45:25.000,76,Poland,2006-02-15 09:44:00.000
-502,502,1,Brett,Cornwell,brett.cornwell@sakilacustomer.org,507,True,2006-02-14,2013-05-26 14:49:45.738,1,507,1197 Sokoto Boulevard,,West Bengali,478,87687,868602816371,2006-02-15 09:45:30.000,478,Siliguri (Shiliguri),44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-503,503,1,Angel,Barclay,angel.barclay@sakilacustomer.org,508,True,2006-02-14,2013-05-26 14:49:45.738,1,508,496 Celaya Drive,,Nagano,552,90797,759586584889,2006-02-15 09:45:30.000,552,Ueda,50,2006-02-15 09:45:25.000,50,Japan,2006-02-15 09:44:00.000
-504,504,1,Nathaniel,Adam,nathaniel.adam@sakilacustomer.org,509,True,2006-02-14,2013-05-26 14:49:45.738,1,509,786 Matsue Way,,Illinois,245,37469,111177206479,2006-02-15 09:45:30.000,245,Joliet,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-505,505,1,Rafael,Abney,rafael.abney@sakilacustomer.org,510,True,2006-02-14,2013-05-26 14:49:45.738,1,510,48 Maracabo Place,,Central Luzon,519,1570,82671830126,2006-02-15 09:45:30.000,519,Talavera,75,2006-02-15 09:45:25.000,75,Philippines,2006-02-15 09:44:00.000
-506,506,2,Leslie,Seward,leslie.seward@sakilacustomer.org,511,True,2006-02-14,2013-05-26 14:49:45.738,1,511,1152 al-Qatif Lane,,Kalimantan Barat,412,44816,131370665218,2006-02-15 09:45:30.000,412,Pontianak,45,2006-02-15 09:45:25.000,45,Indonesia,2006-02-15 09:44:00.000
-507,507,2,Edgar,Rhoads,edgar.rhoads@sakilacustomer.org,512,True,2006-02-14,2013-05-26 14:49:45.738,1,512,1269 Ipoh Avenue,,Eskisehir,163,54674,402630109080,2006-02-15 09:45:30.000,163,Eskisehir,97,2006-02-15 09:45:25.000,97,Turkey,2006-02-15 09:44:00.000
-508,508,2,Milton,Howland,milton.howland@sakilacustomer.org,513,True,2006-02-14,2013-05-26 14:49:45.738,1,513,758 Korolev Parkway,,Andhra Pradesh,568,75474,441628280920,2006-02-15 09:45:30.000,568,Vijayawada,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-509,509,1,Raul,Fortier,raul.fortier@sakilacustomer.org,514,True,2006-02-14,2013-05-26 14:49:45.738,1,514,1747 Rustenburg Place,,Bihar,110,51369,442673923363,2006-02-15 09:45:30.000,110,Chapra,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-510,510,2,Ben,Easter,ben.easter@sakilacustomer.org,515,True,2006-02-14,2013-05-26 14:49:45.738,0,515,886 Tonghae Place,,Volgograd,259,19450,711928348157,2006-02-15 09:45:30.000,259,Kamyin,80,2006-02-15 09:45:25.000,80,Russian Federation,2006-02-15 09:44:00.000
-511,511,1,Chester,Benner,chester.benner@sakilacustomer.org,516,True,2006-02-14,2013-05-26 14:49:45.738,1,516,1574 Goinia Boulevard,,Heilongjiang,502,39529,59634255214,2006-02-15 09:45:30.000,502,Suihua,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-512,512,1,Cecil,Vines,cecil.vines@sakilacustomer.org,517,True,2006-02-14,2013-05-26 14:49:45.738,1,517,548 Uruapan Street,,Ontario,312,35653,879347453467,2006-02-15 09:45:30.000,312,London,102,2006-02-15 09:45:25.000,102,United Kingdom,2006-02-15 09:44:00.000
-513,513,2,Duane,Tubbs,duane.tubbs@sakilacustomer.org,519,True,2006-02-14,2013-05-26 14:49:45.738,1,519,962 Tama Loop,,,583,65952,282667506728,2006-02-15 09:45:30.000,583,Yangor,65,2006-02-15 09:45:25.000,65,Nauru,2006-02-15 09:44:00.000
-514,514,2,Franklin,Troutman,franklin.troutman@sakilacustomer.org,520,True,2006-02-14,2013-05-26 14:49:45.738,1,520,1778 Gijn Manor,,Hubei,594,35156,288910576761,2006-02-15 09:45:30.000,594,Zaoyang,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-515,515,1,Andre,Rapp,andre.rapp@sakilacustomer.org,521,True,2006-02-14,2013-05-26 14:49:45.738,1,521,568 Dhule (Dhulia) Loop,,Coquimbo,127,92568,602101369463,2006-02-15 09:45:30.000,127,Coquimbo,22,2006-02-15 09:45:25.000,22,Chile,2006-02-15 09:44:00.000
-516,516,2,Elmer,Noe,elmer.noe@sakilacustomer.org,522,True,2006-02-14,2013-05-26 14:49:45.738,1,522,1768 Udine Loop,,Battambang,60,32347,448876499197,2006-02-15 09:45:30.000,60,Battambang,18,2006-02-15 09:45:25.000,18,Cambodia,2006-02-15 09:44:00.000
-517,517,2,Brad,Mccurdy,brad.mccurdy@sakilacustomer.org,523,True,2006-02-14,2013-05-26 14:49:45.738,1,523,608 Birgunj Parkway,,Taipei,116,400,627425618482,2006-02-15 09:45:30.000,116,Chungho,92,2006-02-15 09:45:25.000,92,Taiwan,2006-02-15 09:44:00.000
-518,518,1,Gabriel,Harder,gabriel.harder@sakilacustomer.org,524,True,2006-02-14,2013-05-26 14:49:45.738,1,524,680 A Corua (La Corua) Manor,,Sivas,482,49806,158326114853,2006-02-15 09:45:30.000,482,Sivas,97,2006-02-15 09:45:25.000,97,Turkey,2006-02-15 09:44:00.000
-519,519,2,Ron,Deluca,ron.deluca@sakilacustomer.org,525,True,2006-02-14,2013-05-26 14:49:45.738,1,525,1949 Sanya Street,,Gumma,224,61244,132100972047,2006-02-15 09:45:30.000,224,Isesaki,50,2006-02-15 09:45:25.000,50,Japan,2006-02-15 09:44:00.000
-520,520,2,Mitchell,Westmoreland,mitchell.westmoreland@sakilacustomer.org,526,True,2006-02-14,2013-05-26 14:49:45.738,1,526,617 Klerksdorp Place,,Khanh Hoa,366,94707,574973479129,2006-02-15 09:45:30.000,366,Nha Trang,105,2006-02-15 09:45:25.000,105,Vietnam,2006-02-15 09:44:00.000
-521,521,2,Roland,South,roland.south@sakilacustomer.org,527,True,2006-02-14,2013-05-26 14:49:45.738,1,527,1993 0 Loop,,Liaoning,588,41214,25865528181,2006-02-15 09:45:30.000,588,Yingkou,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-522,522,2,Arnold,Havens,arnold.havens@sakilacustomer.org,528,True,2006-02-14,2013-05-26 14:49:45.738,1,528,1176 Southend-on-Sea Manor,,Southern Tagalog,458,81651,236679267178,2006-02-15 09:45:30.000,458,Santa Rosa,75,2006-02-15 09:45:25.000,75,Philippines,2006-02-15 09:44:00.000
-523,523,1,Harvey,Guajardo,harvey.guajardo@sakilacustomer.org,529,True,2006-02-14,2013-05-26 14:49:45.738,1,529,600 Purnea (Purnia) Avenue,,Nghe An,571,18043,638409958875,2006-02-15 09:45:30.000,571,Vinh,105,2006-02-15 09:45:25.000,105,Vietnam,2006-02-15 09:44:00.000
-524,525,2,Adrian,Clary,adrian.clary@sakilacustomer.org,531,True,2006-02-14,2013-05-26 14:49:45.738,1,531,1986 Sivas Place,,Friuli-Venezia Giuli,551,95775,182059202712,2006-02-15 09:45:30.000,551,Udine,49,2006-02-15 09:45:25.000,49,Italy,2006-02-15 09:44:00.000
-525,526,2,Karl,Seal,karl.seal@sakilacustomer.org,532,True,2006-02-14,2013-05-26 14:49:45.738,1,532,1427 Tabuk Place,,Florida,101,31342,214756839122,2006-02-15 09:45:30.000,101,Cape Coral,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-526,527,1,Cory,Meehan,cory.meehan@sakilacustomer.org,533,True,2006-02-14,2013-05-26 14:49:45.738,1,533,556 Asuncin Way,,Mogiljov,339,35364,338244023543,2006-02-15 09:45:30.000,339,Mogiljov,13,2006-02-15 09:45:25.000,13,Belarus,2006-02-15 09:44:00.000
-527,528,1,Claude,Herzog,claude.herzog@sakilacustomer.org,534,True,2006-02-14,2013-05-26 14:49:45.738,1,534,486 Ondo Parkway,,Benguela,67,35202,105882218332,2006-02-15 09:45:30.000,67,Benguela,4,2006-02-15 09:45:25.000,4,Angola,2006-02-15 09:44:00.000
-528,529,2,Erik,Guillen,erik.guillen@sakilacustomer.org,535,True,2006-02-14,2013-05-26 14:49:45.738,1,535,635 Brest Manor,,Andhra Pradesh,75,40899,80593242951,2006-02-15 09:45:30.000,75,Bhimavaram,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-529,530,2,Darryl,Ashcraft,darryl.ashcraft@sakilacustomer.org,536,True,2006-02-14,2013-05-26 14:49:45.738,1,536,166 Jinchang Street,,Buenos Aires,165,86760,717566026669,2006-02-15 09:45:30.000,165,Ezeiza,6,2006-02-15 09:45:25.000,6,Argentina,2006-02-15 09:44:00.000
-530,531,2,Jamie,Waugh,jamie.waugh@sakilacustomer.org,537,True,2006-02-14,2013-05-26 14:49:45.738,1,537,958 Sagamihara Lane,,Mie,287,88408,427274926505,2006-02-15 09:45:30.000,287,Kuwana,50,2006-02-15 09:45:25.000,50,Japan,2006-02-15 09:44:00.000
-531,532,2,Neil,Renner,neil.renner@sakilacustomer.org,538,True,2006-02-14,2013-05-26 14:49:45.738,1,538,1817 Livorno Way,,Khanh Hoa,100,79401,478380208348,2006-02-15 09:45:30.000,100,Cam Ranh,105,2006-02-15 09:45:25.000,105,Vietnam,2006-02-15 09:44:00.000
-532,533,1,Jessie,Milam,jessie.milam@sakilacustomer.org,539,True,2006-02-14,2013-05-26 14:49:45.738,1,539,1332 Gaziantep Lane,,Shandong,80,22813,383353187467,2006-02-15 09:45:30.000,80,Binzhou,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-533,534,1,Christian,Jung,christian.jung@sakilacustomer.org,540,True,2006-02-14,2013-05-26 14:49:45.738,0,540,949 Allende Lane,,Uttar Pradesh,24,67521,122981120653,2006-02-15 09:45:30.000,24,Amroha,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-534,535,1,Javier,Elrod,javier.elrod@sakilacustomer.org,541,True,2006-02-14,2013-05-26 14:49:45.738,1,541,195 Ilorin Street,,Chari-Baguirmi,363,49250,8912935608,2006-02-15 09:45:30.000,363,NDjamna,21,2006-02-15 09:45:25.000,21,Chad,2006-02-15 09:44:00.000
-535,536,2,Fernando,Churchill,fernando.churchill@sakilacustomer.org,542,True,2006-02-14,2013-05-26 14:49:45.738,1,542,193 Bhusawal Place,,Kang-won,539,9750,745267607502,2006-02-15 09:45:30.000,539,Tonghae,86,2006-02-15 09:45:25.000,86,South Korea,2006-02-15 09:44:00.000
-536,537,2,Clinton,Buford,clinton.buford@sakilacustomer.org,543,True,2006-02-14,2013-05-26 14:49:45.738,1,543,43 Vilnius Manor,,Colorado,42,79814,484500282381,2006-02-15 09:45:30.000,42,Aurora,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-537,538,2,Ted,Breaux,ted.breaux@sakilacustomer.org,544,True,2006-02-14,2013-05-26 14:49:45.738,1,544,183 Haiphong Street,,Jilin,46,69953,488600270038,2006-02-15 09:45:30.000,46,Baicheng,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-538,539,1,Mathew,Bolin,mathew.bolin@sakilacustomer.org,545,True,2006-02-14,2013-05-26 14:49:45.738,1,545,163 Augusta-Richmond County Loop,,Carabobo,561,33030,754579047924,2006-02-15 09:45:30.000,561,Valencia,104,2006-02-15 09:45:25.000,104,Venezuela,2006-02-15 09:44:00.000
-539,540,1,Tyrone,Asher,tyrone.asher@sakilacustomer.org,546,True,2006-02-14,2013-05-26 14:49:45.738,1,546,191 Jos Azueta Parkway,,Ruse,436,13629,932156667696,2006-02-15 09:45:30.000,436,Ruse,17,2006-02-15 09:45:25.000,17,Bulgaria,2006-02-15 09:44:00.000
-540,541,2,Darren,Windham,darren.windham@sakilacustomer.org,547,True,2006-02-14,2013-05-26 14:49:45.738,1,547,379 Lublin Parkway,,Toscana,309,74568,921960450089,2006-02-15 09:45:30.000,309,Livorno,49,2006-02-15 09:45:25.000,49,Italy,2006-02-15 09:44:00.000
-541,542,2,Lonnie,Tirado,lonnie.tirado@sakilacustomer.org,548,True,2006-02-14,2013-05-26 14:49:45.738,1,548,1658 Cuman Loop,,Sumatera Selatan,396,51309,784907335610,2006-02-15 09:45:30.000,396,Pangkal Pinang,45,2006-02-15 09:45:25.000,45,Indonesia,2006-02-15 09:44:00.000
-542,543,1,Lance,Pemberton,lance.pemberton@sakilacustomer.org,549,True,2006-02-14,2013-05-26 14:49:45.738,1,549,454 Qinhuangdao Drive,,Tadla-Azilal,68,25866,786270036240,2006-02-15 09:45:30.000,68,Beni-Mellal,62,2006-02-15 09:45:25.000,62,Morocco,2006-02-15 09:44:00.000
-543,544,2,Cody,Nolen,cody.nolen@sakilacustomer.org,550,True,2006-02-14,2013-05-26 14:49:45.738,1,550,1715 Okayama Street,,So Paulo,485,55676,169352919175,2006-02-15 09:45:30.000,485,So Bernardo do Campo,15,2006-02-15 09:45:25.000,15,Brazil,2006-02-15 09:44:00.000
-544,545,2,Julio,Noland,julio.noland@sakilacustomer.org,551,True,2006-02-14,2013-05-26 14:49:45.738,1,551,182 Nukualofa Drive,,Sumy,275,15414,426346224043,2006-02-15 09:45:30.000,275,Konotop,100,2006-02-15 09:45:25.000,100,Ukraine,2006-02-15 09:44:00.000
-545,546,1,Kelly,Knott,kelly.knott@sakilacustomer.org,552,True,2006-02-14,2013-05-26 14:49:45.738,1,552,390 Wroclaw Way,,Hainan,462,5753,357593328658,2006-02-15 09:45:30.000,462,Sanya,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-546,547,1,Kurt,Emmons,kurt.emmons@sakilacustomer.org,553,True,2006-02-14,2013-05-26 14:49:45.738,1,553,1421 Quilmes Lane,,Ishikawa,260,19151,135407755975,2006-02-15 09:45:30.000,260,Kanazawa,50,2006-02-15 09:45:25.000,50,Japan,2006-02-15 09:44:00.000
-547,548,1,Allan,Cornish,allan.cornish@sakilacustomer.org,554,True,2006-02-14,2013-05-26 14:49:45.738,1,554,947 Trshavn Place,,Central Luzon,528,841,50898428626,2006-02-15 09:45:30.000,528,Tarlac,75,2006-02-15 09:45:25.000,75,Philippines,2006-02-15 09:44:00.000
-548,549,1,Nelson,Christenson,nelson.christenson@sakilacustomer.org,555,True,2006-02-14,2013-05-26 14:49:45.738,1,555,1764 Jalib al-Shuyukh Parkway,,Galicia,459,77642,84794532510,2006-02-15 09:45:30.000,459,Santiago de Compostela,87,2006-02-15 09:45:25.000,87,Spain,2006-02-15 09:44:00.000
-549,550,2,Guy,Brownlee,guy.brownlee@sakilacustomer.org,556,True,2006-02-14,2013-05-26 14:49:45.738,1,556,346 Cam Ranh Avenue,,Zhejiang,599,39976,978430786151,2006-02-15 09:45:30.000,599,Zhoushan,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-550,551,2,Clayton,Barbee,clayton.barbee@sakilacustomer.org,557,True,2006-02-14,2013-05-26 14:49:45.738,1,557,1407 Pachuca de Soto Place,,Rio Grande do Sul,21,26284,380077794770,2006-02-15 09:45:30.000,21,Alvorada,15,2006-02-15 09:45:25.000,15,Brazil,2006-02-15 09:44:00.000
-551,552,2,Hugh,Waldrop,hugh.waldrop@sakilacustomer.org,558,True,2006-02-14,2013-05-26 14:49:45.738,1,558,904 Clarksville Drive,,Zhejiang,193,52234,955349440539,2006-02-15 09:45:30.000,193,Haining,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-552,553,1,Max,Pitt,max.pitt@sakilacustomer.org,559,True,2006-02-14,2013-05-26 14:49:45.738,1,559,1917 Kumbakonam Parkway,,Vojvodina,368,11892,698182547686,2006-02-15 09:45:30.000,368,Novi Sad,108,2006-02-15 09:45:25.000,108,Yugoslavia,2006-02-15 09:44:00.000
-553,554,1,Dwayne,Olvera,dwayne.olvera@sakilacustomer.org,560,True,2006-02-14,2013-05-26 14:49:45.738,1,560,1447 Imus Place,,Gujarat,426,12905,62127829280,2006-02-15 09:45:30.000,426,Rajkot,44,2006-02-15 09:45:25.000,44,India,2006-02-15 09:44:00.000
-554,555,1,Dwight,Lombardi,dwight.lombardi@sakilacustomer.org,561,True,2006-02-14,2013-05-26 14:49:45.738,1,561,1497 Fengshan Drive,,KwaZulu-Natal,112,63022,368738360376,2006-02-15 09:45:30.000,112,Chatsworth,85,2006-02-15 09:45:25.000,85,South Africa,2006-02-15 09:44:00.000
-555,556,2,Armando,Gruber,armando.gruber@sakilacustomer.org,562,True,2006-02-14,2013-05-26 14:49:45.738,1,562,869 Shikarpur Way,,England,496,57380,590764256785,2006-02-15 09:45:30.000,496,Southport,102,2006-02-15 09:45:25.000,102,United Kingdom,2006-02-15 09:44:00.000
-556,557,1,Felix,Gaffney,felix.gaffney@sakilacustomer.org,563,True,2006-02-14,2013-05-26 14:49:45.738,1,563,1059 Yuncheng Avenue,,Vilna,570,47498,107092893983,2006-02-15 09:45:30.000,570,Vilnius,56,2006-02-15 09:45:25.000,56,Lithuania,2006-02-15 09:44:00.000
-557,558,1,Jimmie,Eggleston,jimmie.eggleston@sakilacustomer.org,564,True,2006-02-14,2013-05-26 14:49:45.738,0,564,505 Madiun Boulevard,,Dolnoslaskie,577,97271,970638808606,2006-02-15 09:45:30.000,577,Wroclaw,76,2006-02-15 09:45:25.000,76,Poland,2006-02-15 09:44:00.000
-558,559,2,Everett,Banda,everett.banda@sakilacustomer.org,565,True,2006-02-14,2013-05-26 14:49:45.738,1,565,1741 Hoshiarpur Boulevard,,al-Sharqiya,79,22372,855066328617,2006-02-15 09:45:30.000,79,Bilbays,29,2006-02-15 09:45:25.000,29,Egypt,2006-02-15 09:44:00.000
-559,560,1,Jordan,Archuleta,jordan.archuleta@sakilacustomer.org,566,True,2006-02-14,2013-05-26 14:49:45.738,1,566,1229 Varanasi (Benares) Manor,,Buenos Aires,43,40195,817740355461,2006-02-15 09:45:30.000,43,Avellaneda,6,2006-02-15 09:45:25.000,6,Argentina,2006-02-15 09:44:00.000
-560,561,2,Ian,Still,ian.still@sakilacustomer.org,567,True,2006-02-14,2013-05-26 14:49:45.738,1,567,1894 Boa Vista Way,,Texas,178,77464,239357986667,2006-02-15 09:45:30.000,178,Garland,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-561,562,1,Wallace,Slone,wallace.slone@sakilacustomer.org,568,True,2006-02-14,2013-05-26 14:49:45.738,1,568,1342 Sharja Way,,Sokoto & Kebbi & Zam,488,93655,946114054231,2006-02-15 09:45:30.000,488,Sokoto,69,2006-02-15 09:45:25.000,69,Nigeria,2006-02-15 09:44:00.000
-562,563,2,Ken,Prewitt,ken.prewitt@sakilacustomer.org,569,True,2006-02-14,2013-05-26 14:49:45.738,1,569,1342 Abha Boulevard,,Bukarest,95,10714,997453607116,2006-02-15 09:45:30.000,95,Bucuresti,78,2006-02-15 09:45:25.000,78,Romania,2006-02-15 09:44:00.000
-563,564,2,Bob,Pfeiffer,bob.pfeiffer@sakilacustomer.org,570,True,2006-02-14,2013-05-26 14:49:45.738,1,570,415 Pune Avenue,,Shandong,580,44274,203202500108,2006-02-15 09:45:30.000,580,Xintai,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-564,565,2,Jaime,Nettles,jaime.nettles@sakilacustomer.org,571,True,2006-02-14,2013-05-26 14:49:45.738,1,571,1746 Faaa Way,,Huanuco,214,32515,863080561151,2006-02-15 09:45:30.000,214,Hunuco,74,2006-02-15 09:45:25.000,74,Peru,2006-02-15 09:44:00.000
-565,566,1,Casey,Mena,casey.mena@sakilacustomer.org,572,True,2006-02-14,2013-05-26 14:49:45.738,1,572,539 Hami Way,,Tokat,538,52196,525518075499,2006-02-15 09:45:30.000,538,Tokat,97,2006-02-15 09:45:25.000,97,Turkey,2006-02-15 09:44:00.000
-566,567,2,Alfredo,Mcadams,alfredo.mcadams@sakilacustomer.org,573,True,2006-02-14,2013-05-26 14:49:45.738,1,573,1407 Surakarta Manor,,Moskova,466,33224,324346485054,2006-02-15 09:45:30.000,466,Serpuhov,80,2006-02-15 09:45:25.000,80,Russian Federation,2006-02-15 09:44:00.000
-567,568,2,Alberto,Henning,alberto.henning@sakilacustomer.org,574,True,2006-02-14,2013-05-26 14:49:45.738,1,574,502 Mandi Bahauddin Parkway,,Anzotegui,55,15992,618156722572,2006-02-15 09:45:30.000,55,Barcelona,104,2006-02-15 09:45:25.000,104,Venezuela,2006-02-15 09:44:00.000
-568,569,2,Dave,Gardiner,dave.gardiner@sakilacustomer.org,575,True,2006-02-14,2013-05-26 14:49:45.738,1,575,1052 Pathankot Avenue,,Sichuan,299,77397,128499386727,2006-02-15 09:45:30.000,299,Leshan,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-569,570,2,Ivan,Cromwell,ivan.cromwell@sakilacustomer.org,576,True,2006-02-14,2013-05-26 14:49:45.738,1,576,1351 Sousse Lane,,Coahuila de Zaragoza,341,37815,203804046132,2006-02-15 09:45:30.000,341,Monclova,60,2006-02-15 09:45:25.000,60,Mexico,2006-02-15 09:44:00.000
-570,571,2,Johnnie,Chisholm,johnnie.chisholm@sakilacustomer.org,577,True,2006-02-14,2013-05-26 14:49:45.738,1,577,1501 Pangkal Pinang Avenue,,Mazowieckie,409,943,770864062795,2006-02-15 09:45:30.000,409,Plock,76,2006-02-15 09:45:25.000,76,Poland,2006-02-15 09:44:00.000
-571,572,1,Sidney,Burleson,sidney.burleson@sakilacustomer.org,578,True,2006-02-14,2013-05-26 14:49:45.738,1,578,1405 Hagonoy Avenue,,Slaskie,133,86587,867287719310,2006-02-15 09:45:30.000,133,Czestochowa,76,2006-02-15 09:45:25.000,76,Poland,2006-02-15 09:44:00.000
-572,573,1,Byron,Box,byron.box@sakilacustomer.org,579,True,2006-02-14,2013-05-26 14:49:45.738,1,579,521 San Juan Bautista Tuxtepec Place,,Qaraghandy,598,95093,844018348565,2006-02-15 09:45:30.000,598,Zhezqazghan,51,2006-02-15 09:45:25.000,51,Kazakstan,2006-02-15 09:44:00.000
-573,574,2,Julian,Vest,julian.vest@sakilacustomer.org,580,True,2006-02-14,2013-05-26 14:49:45.738,1,580,923 Tangail Boulevard,,Tokyo-to,10,33384,315528269898,2006-02-15 09:45:30.000,10,Akishima,50,2006-02-15 09:45:25.000,50,Japan,2006-02-15 09:44:00.000
-574,575,2,Isaac,Oglesby,isaac.oglesby@sakilacustomer.org,581,True,2006-02-14,2013-05-26 14:49:45.738,1,581,186 Skikda Lane,,Morelos,131,89422,14465669789,2006-02-15 09:45:30.000,131,Cuernavaca,60,2006-02-15 09:45:25.000,60,Mexico,2006-02-15 09:44:00.000
-575,576,2,Morris,Mccarter,morris.mccarter@sakilacustomer.org,582,True,2006-02-14,2013-05-26 14:49:45.738,1,582,1568 Celaya Parkway,,Kaohsiung,168,34750,278669994384,2006-02-15 09:45:30.000,168,Fengshan,92,2006-02-15 09:45:25.000,92,Taiwan,2006-02-15 09:44:00.000
-576,577,2,Clifton,Malcolm,clifton.malcolm@sakilacustomer.org,583,True,2006-02-14,2013-05-26 14:49:45.738,1,583,1489 Kakamigahara Lane,,Taipei,526,98883,29341849811,2006-02-15 09:45:30.000,526,Tanshui,92,2006-02-15 09:45:25.000,92,Taiwan,2006-02-15 09:44:00.000
-577,578,2,Willard,Lumpkin,willard.lumpkin@sakilacustomer.org,584,True,2006-02-14,2013-05-26 14:49:45.738,1,584,1819 Alessandria Loop,,Campeche,103,53829,377633994405,2006-02-15 09:45:30.000,103,Carmen,60,2006-02-15 09:45:25.000,60,Mexico,2006-02-15 09:44:00.000
-578,579,2,Daryl,Larue,daryl.larue@sakilacustomer.org,585,True,2006-02-14,2013-05-26 14:49:45.738,1,585,1208 Tama Loop,,Ninawa,344,73605,954786054144,2006-02-15 09:45:30.000,344,Mosul,47,2006-02-15 09:45:25.000,47,Iraq,2006-02-15 09:44:00.000
-579,580,1,Ross,Grey,ross.grey@sakilacustomer.org,586,True,2006-02-14,2013-05-26 14:49:45.738,1,586,951 Springs Lane,,Central Mindanao,219,96115,165164761435,2006-02-15 09:45:30.000,219,Iligan,75,2006-02-15 09:45:25.000,75,Philippines,2006-02-15 09:44:00.000
-580,581,1,Virgil,Wofford,virgil.wofford@sakilacustomer.org,587,True,2006-02-14,2013-05-26 14:49:45.738,1,587,760 Miyakonojo Drive,,Guerrero,246,64682,294449058179,2006-02-15 09:45:30.000,246,Jos Azueta,60,2006-02-15 09:45:25.000,60,Mexico,2006-02-15 09:44:00.000
-581,582,2,Andy,Vanhorn,andy.vanhorn@sakilacustomer.org,588,True,2006-02-14,2013-05-26 14:49:45.738,1,588,966 Asuncin Way,,Hidalgo,212,62703,995527378381,2006-02-15 09:45:30.000,212,Huejutla de Reyes,60,2006-02-15 09:45:25.000,60,Mexico,2006-02-15 09:44:00.000
-582,583,1,Marshall,Thorn,marshall.thorn@sakilacustomer.org,589,True,2006-02-14,2013-05-26 14:49:45.738,1,589,1584 Ljubertsy Lane,,England,494,22954,285710089439,2006-02-15 09:45:30.000,494,Southampton,102,2006-02-15 09:45:25.000,102,United Kingdom,2006-02-15 09:44:00.000
-583,584,2,Salvador,Teel,salvador.teel@sakilacustomer.org,590,True,2006-02-14,2013-05-26 14:49:45.738,1,590,247 Jining Parkway,,Banjul,54,53446,170115379190,2006-02-15 09:45:30.000,54,Banjul,37,2006-02-15 09:45:25.000,37,Gambia,2006-02-15 09:44:00.000
-584,585,1,Perry,Swafford,perry.swafford@sakilacustomer.org,591,True,2006-02-14,2013-05-26 14:49:45.738,1,591,773 Dallas Manor,,Buenos Aires,424,12664,914466027044,2006-02-15 09:45:30.000,424,Quilmes,6,2006-02-15 09:45:25.000,6,Argentina,2006-02-15 09:44:00.000
-585,586,1,Kirk,Stclair,kirk.stclair@sakilacustomer.org,592,True,2006-02-14,2013-05-26 14:49:45.738,1,592,1923 Stara Zagora Lane,,Nantou,546,95179,182178609211,2006-02-15 09:45:30.000,546,Tsaotun,92,2006-02-15 09:45:25.000,92,Taiwan,2006-02-15 09:44:00.000
-586,587,1,Sergio,Stanfield,sergio.stanfield@sakilacustomer.org,593,True,2006-02-14,2013-05-26 14:49:45.738,1,593,1402 Zanzibar Boulevard,,Guanajuato,106,71102,387448063440,2006-02-15 09:45:30.000,106,Celaya,60,2006-02-15 09:45:25.000,60,Mexico,2006-02-15 09:44:00.000
-587,588,1,Marion,Ocampo,marion.ocampo@sakilacustomer.org,594,True,2006-02-14,2013-05-26 14:49:45.738,1,594,1464 Kursk Parkway,,Shandong,574,17381,338758048786,2006-02-15 09:45:30.000,574,Weifang,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-588,589,1,Tracy,Herrmann,tracy.herrmann@sakilacustomer.org,595,True,2006-02-14,2013-05-26 14:49:45.738,1,595,1074 Sanaa Parkway,,Loja,311,22474,154124128457,2006-02-15 09:45:30.000,311,Loja,28,2006-02-15 09:45:25.000,28,Ecuador,2006-02-15 09:44:00.000
-589,590,2,Seth,Hannon,seth.hannon@sakilacustomer.org,596,True,2006-02-14,2013-05-26 14:49:45.738,1,596,1759 Niznekamsk Avenue,,al-Manama,14,39414,864392582257,2006-02-15 09:45:30.000,14,al-Manama,11,2006-02-15 09:45:25.000,11,Bahrain,2006-02-15 09:44:00.000
-590,591,1,Kent,Arsenault,kent.arsenault@sakilacustomer.org,597,True,2006-02-14,2013-05-26 14:49:45.738,1,597,32 Liaocheng Way,,Minas Gerais,248,1944,410877354933,2006-02-15 09:45:30.000,248,Juiz de Fora,15,2006-02-15 09:45:25.000,15,Brazil,2006-02-15 09:44:00.000
-591,592,1,Terrance,Roush,terrance.roush@sakilacustomer.org,598,True,2006-02-14,2013-05-26 14:49:45.738,0,598,42 Fontana Avenue,,Fejr,512,14684,437829801725,2006-02-15 09:45:30.000,512,Szkesfehrvr,43,2006-02-15 09:45:25.000,43,Hungary,2006-02-15 09:44:00.000
-592,593,2,Rene,Mcalister,rene.mcalister@sakilacustomer.org,599,True,2006-02-14,2013-05-26 14:49:45.738,1,599,1895 Zhezqazghan Drive,,California,177,36693,137809746111,2006-02-15 09:45:30.000,177,Garden Grove,103,2006-02-15 09:45:25.000,103,United States,2006-02-15 09:44:00.000
-593,594,1,Eduardo,Hiatt,eduardo.hiatt@sakilacustomer.org,600,True,2006-02-14,2013-05-26 14:49:45.738,1,600,1837 Kaduna Parkway,,Inner Mongolia,241,82580,640843562301,2006-02-15 09:45:30.000,241,Jining,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-594,595,1,Terrence,Gunderson,terrence.gunderson@sakilacustomer.org,601,True,2006-02-14,2013-05-26 14:49:45.738,1,601,844 Bucuresti Place,,Liaoning,242,36603,935952366111,2006-02-15 09:45:30.000,242,Jinzhou,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
-595,596,1,Enrique,Forsythe,enrique.forsythe@sakilacustomer.org,602,True,2006-02-14,2013-05-26 14:49:45.738,1,602,1101 Bucuresti Boulevard,,West Greece,401,97661,199514580428,2006-02-15 09:45:30.000,401,Patras,39,2006-02-15 09:45:25.000,39,Greece,2006-02-15 09:44:00.000
-596,597,1,Freddie,Duggan,freddie.duggan@sakilacustomer.org,603,True,2006-02-14,2013-05-26 14:49:45.738,1,603,1103 Quilmes Boulevard,,Piura,503,52137,644021380889,2006-02-15 09:45:30.000,503,Sullana,74,2006-02-15 09:45:25.000,74,Peru,2006-02-15 09:44:00.000
-597,598,1,Wade,Delvalle,wade.delvalle@sakilacustomer.org,604,True,2006-02-14,2013-05-26 14:49:45.738,1,604,1331 Usak Boulevard,,Vaud,296,61960,145308717464,2006-02-15 09:45:30.000,296,Lausanne,91,2006-02-15 09:45:25.000,91,Switzerland,2006-02-15 09:44:00.000
-598,599,2,Austin,Cintron,austin.cintron@sakilacustomer.org,605,True,2006-02-14,2013-05-26 14:49:45.738,1,605,1325 Fukuyama Street,,Heilongjiang,537,27107,288241215394,2006-02-15 09:45:30.000,537,Tieli,23,2006-02-15 09:45:25.000,23,China,2006-02-15 09:44:00.000
+,customer_id,address_id,active,city_id,country_id,country
+0,524,530,1,419,45,Indonesia
+1,1,5,1,463,50,Japan
+2,2,6,1,449,103,United States
+3,3,7,1,38,39,Greece
+4,4,8,1,349,64,Myanmar
+5,5,9,1,361,92,Taiwan
+6,6,10,1,295,103,United States
+7,7,11,1,280,108,Yugoslavia
+8,8,12,1,200,68,New Zealand
+9,9,13,1,329,71,Oman
+10,10,14,1,162,46,Iran
+11,11,15,1,440,50,Japan
+12,12,16,1,582,44,India
+13,13,17,1,384,97,Turkey
+14,14,18,1,120,103,United States
+15,15,19,1,76,44,India
+16,16,20,0,495,102,United Kingdom
+17,17,21,1,156,80,Russian Federation
+18,18,22,1,252,69,Nigeria
+19,19,23,1,267,85,South Africa
+20,20,24,1,327,72,Pakistan
+21,21,25,1,525,12,Bangladesh
+22,22,26,1,443,62,Morocco
+23,23,27,1,303,54,Latvia
+24,24,28,1,128,6,Argentina
+25,25,29,1,472,72,Pakistan
+26,26,30,1,121,41,Holy See (Vatican City State)
+27,27,31,1,138,75,Philippines
+28,28,32,1,346,44,India
+29,29,33,1,474,50,Japan
+30,30,34,1,316,92,Taiwan
+31,31,35,1,257,44,India
+32,32,36,1,239,44,India
+33,33,37,1,17,49,Italy
+34,34,38,1,284,50,Japan
+35,35,39,1,544,34,France
+36,36,40,1,31,46,Iran
+37,37,41,1,362,23,China
+38,38,42,1,115,61,Moldova
+39,39,43,1,569,15,Brazil
+40,40,44,1,353,62,Morocco
+41,41,45,1,586,7,Armenia
+42,42,46,1,394,94,Thailand
+43,43,47,1,167,36,French Polynesia
+44,44,48,1,308,80,Russian Federation
+45,45,49,1,27,22,Chile
+46,46,50,1,343,80,Russian Federation
+47,47,51,1,247,15,Brazil
+48,48,52,1,367,80,Russian Federation
+49,49,53,1,237,82,Saudi Arabia
+50,50,54,1,379,89,Sudan
+51,51,55,1,171,103,United States
+52,52,56,1,1,87,Spain
+53,53,57,1,355,50,Japan
+54,54,58,1,227,50,Japan
+55,55,59,1,49,80,Russian Federation
+56,56,60,1,397,36,French Polynesia
+57,57,61,1,560,55,Liechtenstein
+58,58,62,1,282,59,Malaysia
+59,59,63,1,350,44,India
+60,60,64,1,231,44,India
+61,61,65,1,56,91,Switzerland
+62,62,66,1,441,103,United States
+63,63,67,1,306,103,United States
+64,64,68,0,139,23,China
+65,65,69,1,105,35,French Guiana
+66,66,70,1,321,90,Sweden
+67,67,71,1,579,23,China
+68,68,72,1,475,44,India
+69,69,73,1,63,2,Algeria
+70,70,74,1,13,82,Saudi Arabia
+71,71,75,1,61,75,Philippines
+72,72,76,1,517,75,Philippines
+73,73,77,1,114,92,Taiwan
+74,74,78,1,431,15,Brazil
+75,75,79,1,108,92,Taiwan
+76,76,80,1,402,51,Kazakstan
+77,77,81,1,30,15,Brazil
+78,78,82,1,425,44,India
+79,79,83,1,256,50,Japan
+80,80,84,1,217,69,Nigeria
+81,81,85,1,319,57,Madagascar
+82,82,86,1,479,100,Ukraine
+83,83,87,1,497,85,South Africa
+84,84,88,1,40,60,Mexico
+85,85,89,1,88,102,United Kingdom
+86,86,90,1,489,94,Thailand
+87,87,91,1,480,24,Colombia
+88,88,92,1,113,86,South Korea
+89,89,93,1,289,6,Argentina
+90,90,94,1,332,23,China
+91,91,95,1,53,16,Brunei
+92,92,96,1,183,15,Brazil
+93,93,97,1,592,23,China
+94,94,98,1,82,75,Philippines
+95,95,99,1,399,44,India
+96,96,100,1,41,103,United States
+97,97,101,1,534,63,Mozambique
+98,98,102,1,12,101,United Arab Emirates
+99,99,103,1,268,86,South Korea
+100,100,104,1,238,80,Russian Federation
+101,101,105,1,2,82,Saudi Arabia
+102,102,106,1,34,48,Israel
+103,103,107,1,220,69,Nigeria
+104,104,108,1,543,34,France
+105,105,109,1,173,99,Tuvalu
+106,106,110,1,225,80,Russian Federation
+107,107,111,1,334,6,Argentina
+108,108,112,1,213,60,Mexico
+109,109,113,1,273,85,South Africa
+110,110,114,1,159,23,China
+111,111,115,1,102,104,Venezuela
+112,112,116,1,292,103,United States
+113,113,117,1,132,104,Venezuela
+114,114,118,1,148,38,Germany
+115,115,119,1,365,60,Mexico
+116,116,120,1,403,45,Indonesia
+117,117,121,1,176,44,India
+118,118,122,1,185,103,United States
+119,119,123,1,476,29,Egypt
+120,120,124,1,147,24,Colombia
+121,121,125,1,164,44,India
+122,122,126,1,305,74,Peru
+123,123,127,1,566,44,India
+124,124,128,0,281,97,Turkey
+125,125,129,1,85,85,South Africa
+126,126,130,1,410,15,Brazil
+127,127,131,1,484,80,Russian Federation
+128,128,132,1,236,76,Poland
+129,129,133,1,302,23,China
+130,130,134,1,190,15,Brazil
+131,131,135,1,345,100,Ukraine
+132,132,136,1,87,85,South Africa
+133,133,137,1,541,60,Mexico
+134,134,138,1,421,29,Egypt
+135,135,139,1,417,44,India
+136,136,140,1,211,44,India
+137,137,141,1,29,67,Netherlands
+138,138,142,1,207,23,China
+139,139,143,1,542,92,Taiwan
+140,140,144,1,123,103,United States
+141,141,145,1,172,50,Japan
+142,142,146,1,149,102,United Kingdom
+143,143,147,1,266,97,Turkey
+144,144,148,1,340,13,Belarus
+145,145,149,1,491,85,South Africa
+146,146,150,1,499,103,United States
+147,147,151,1,555,50,Japan
+148,148,152,1,442,79,Runion
+149,149,153,1,94,103,United States
+150,150,154,1,202,60,Mexico
+151,151,155,1,291,23,China
+152,152,156,1,354,44,India
+153,153,157,1,232,45,Indonesia
+154,154,158,1,590,23,China
+155,155,159,1,72,91,Switzerland
+156,156,160,1,381,69,Nigeria
+157,157,161,1,420,70,North Korea
+158,158,162,1,187,103,United States
+159,159,163,1,307,9,Austria
+160,160,164,1,310,80,Russian Federation
+161,161,165,1,533,48,Israel
+162,162,166,1,297,34,France
+163,163,167,1,253,50,Japan
+164,164,168,1,529,97,Turkey
+165,165,169,1,199,23,China
+166,166,170,1,304,58,Malawi
+167,167,171,1,107,44,India
+168,168,172,1,240,23,China
+169,169,173,0,407,23,China
+170,170,174,1,550,44,India
+171,171,175,1,223,59,Malaysia
+172,172,176,1,58,97,Turkey
+173,173,177,1,186,9,Austria
+174,174,178,1,373,104,Venezuela
+175,175,179,1,18,44,India
+176,176,180,1,483,2,Algeria
+177,177,181,1,330,60,Mexico
+178,178,182,1,456,15,Brazil
+179,179,183,1,270,80,Russian Federation
+180,180,184,1,405,24,Colombia
+181,181,185,1,333,103,United States
+182,182,186,1,126,103,United States
+183,183,187,1,317,15,Brazil
+184,184,188,1,438,67,Netherlands
+185,185,189,1,467,46,Iran
+186,186,190,1,195,44,India
+187,187,191,1,506,100,Ukraine
+188,188,192,1,62,75,Philippines
+189,189,193,1,383,20,Canada
+190,190,194,1,513,93,Tanzania
+191,191,195,1,369,80,Russian Federation
+192,192,196,1,169,44,India
+193,193,197,1,271,52,Kenya
+194,194,198,1,204,50,Japan
+195,195,199,1,477,38,Germany
+196,196,200,1,325,38,Germany
+197,197,201,1,109,23,China
+198,198,202,1,218,69,Nigeria
+199,199,203,1,194,105,Vietnam
+200,200,204,1,35,98,Turkmenistan
+201,201,205,1,575,38,Germany
+202,202,206,1,77,44,India
+203,203,207,1,184,45,Indonesia
+204,204,208,1,557,97,Turkey
+205,205,209,1,122,73,Paraguay
+206,206,210,1,83,15,Brazil
+207,207,211,1,371,40,Greenland
+208,208,212,1,51,44,India
+209,209,213,1,74,44,India
+210,210,214,1,7,107,Yemen
+211,211,215,1,174,23,China
+212,212,216,1,65,103,United States
+213,213,217,1,518,107,Yemen
+214,214,218,1,508,103,United States
+215,215,219,1,498,17,Bulgaria
+216,216,220,1,28,15,Brazil
+217,217,221,1,448,44,India
+218,218,222,1,251,1,Afghanistan
+219,219,223,1,567,6,Argentina
+220,220,224,1,593,93,Tanzania
+221,221,225,1,511,49,Italy
+222,222,226,1,235,80,Russian Federation
+223,223,227,1,324,72,Pakistan
+224,224,228,1,243,44,India
+225,225,229,1,22,44,India
+226,226,230,1,37,73,Paraguay
+227,227,231,1,439,38,Germany
+228,228,232,1,406,18,Cambodia
+229,229,233,1,26,15,Brazil
+230,230,234,1,86,78,Romania
+231,231,235,1,559,44,India
+232,232,236,1,596,69,Nigeria
+233,233,237,1,216,29,Egypt
+234,234,238,1,233,53,Kuwait
+235,235,239,1,96,24,Colombia
+236,236,240,1,527,75,Philippines
+237,237,241,1,357,86,South Korea
+238,238,242,1,473,44,India
+239,239,243,1,118,45,Indonesia
+240,240,244,1,226,50,Japan
+241,241,245,0,578,23,China
+242,242,246,1,422,23,China
+243,243,247,1,454,6,Argentina
+244,244,248,1,294,75,Philippines
+245,245,249,1,553,86,South Korea
+246,246,250,1,328,15,Brazil
+247,247,251,1,124,60,Mexico
+248,248,252,1,520,103,United States
+249,249,253,1,535,23,China
+250,250,254,1,390,69,Nigeria
+251,251,255,1,198,38,Germany
+252,252,256,1,312,102,United Kingdom
+253,253,258,1,338,50,Japan
+254,254,259,1,413,15,Brazil
+255,255,260,1,192,75,Philippines
+256,256,261,1,342,64,Myanmar
+257,257,262,1,64,63,Mozambique
+258,258,263,1,460,27,Dominican Republic
+259,259,264,1,197,44,India
+260,260,265,1,136,23,China
+261,261,266,1,548,75,Philippines
+262,262,267,1,414,28,Ecuador
+263,263,268,1,323,75,Philippines
+264,264,269,1,203,50,Japan
+265,265,270,1,378,26,Czech Republic
+266,266,271,1,447,9,Austria
+267,267,272,1,298,23,China
+268,268,273,1,395,44,India
+269,269,274,1,446,103,United States
+270,270,275,1,255,76,Poland
+271,271,276,0,283,44,India
+272,272,277,1,584,23,China
+273,273,278,1,445,60,Mexico
+274,274,279,1,263,44,India
+275,275,280,1,404,103,United States
+276,276,281,1,573,103,United States
+277,277,282,1,374,69,Nigeria
+278,278,283,1,222,97,Turkey
+279,279,284,1,514,46,Iran
+280,280,285,1,389,69,Nigeria
+281,281,286,1,175,23,China
+282,282,287,1,411,77,Puerto Rico
+283,283,288,1,277,23,China
+284,284,289,1,69,69,Nigeria
+285,285,290,1,386,50,Japan
+286,286,291,1,152,69,Nigeria
+287,287,292,1,522,44,India
+288,288,293,1,563,60,Mexico
+289,289,294,1,279,42,Hong Kong
+290,290,295,1,562,104,Venezuela
+291,291,296,1,433,103,United States
+292,292,297,1,470,101,United Arab Emirates
+293,293,298,1,146,87,Spain
+294,294,299,1,140,103,United States
+295,295,300,1,274,80,Russian Federation
+296,296,301,1,400,44,India
+297,297,302,1,9,44,India
+298,298,303,1,387,33,Finland
+299,299,304,1,205,50,Japan
+300,300,305,1,398,44,India
+301,301,306,1,254,80,Russian Federation
+302,302,307,1,536,23,China
+303,303,308,1,455,107,Yemen
+304,304,309,1,99,74,Peru
+305,305,310,1,33,103,United States
+306,306,311,1,507,59,Malaysia
+307,307,312,1,25,15,Brazil
+308,308,313,1,262,103,United States
+309,309,314,1,91,49,Italy
+310,310,315,1,215,15,Brazil
+311,311,316,1,286,80,Russian Federation
+312,312,317,1,515,82,Saudi Arabia
+313,313,318,1,166,23,China
+314,314,319,1,490,15,Brazil
+315,315,320,0,57,48,Israel
+316,316,321,1,336,44,India
+317,317,322,1,545,32,Faroe Islands
+318,318,323,1,97,76,Poland
+319,319,324,1,451,60,Mexico
+320,320,325,1,516,3,American Samoa
+321,321,326,1,81,66,Nepal
+322,322,327,1,45,6,Argentina
+323,323,328,1,130,60,Mexico
+324,324,329,1,591,23,China
+325,325,330,1,89,15,Brazil
+326,326,331,1,269,81,Saint Vincent and the Grenadines
+327,327,332,1,5,97,Turkey
+328,328,333,1,119,45,Indonesia
+329,329,334,1,234,12,Bangladesh
+330,330,335,1,42,103,United States
+331,331,336,1,457,6,Argentina
+332,332,337,1,143,12,Bangladesh
+333,333,338,1,48,10,Azerbaijan
+334,334,339,1,505,10,Azerbaijan
+335,335,340,1,492,96,Tunisia
+336,336,341,1,427,44,India
+337,337,342,1,382,50,Japan
+338,338,343,1,392,85,South Africa
+339,339,344,1,581,23,China
+340,340,345,1,201,105,Vietnam
+341,341,346,1,151,67,Netherlands
+342,342,347,1,84,15,Brazil
+343,343,348,1,335,60,Mexico
+344,344,349,1,370,95,Tonga
+345,345,350,1,453,73,Paraguay
+346,346,351,1,320,80,Russian Federation
+347,347,352,1,137,54,Latvia
+348,348,353,1,209,92,Taiwan
+349,349,354,1,221,75,Philippines
+350,350,355,1,531,80,Russian Federation
+351,351,356,1,597,80,Russian Federation
+352,352,357,1,52,19,Cameroon
+353,353,358,1,393,60,Mexico
+354,354,359,1,461,15,Brazil
+355,355,360,1,331,50,Japan
+356,356,361,1,464,44,India
+357,357,362,1,90,84,Slovakia
+358,358,363,1,429,44,India
+359,359,364,1,20,6,Argentina
+360,360,365,1,32,77,Puerto Rico
+361,361,366,1,585,19,Cameroon
+362,362,367,1,66,15,Brazil
+363,363,368,1,372,52,Kenya
+364,364,369,1,188,60,Mexico
+365,365,370,1,377,50,Japan
+366,366,371,1,50,97,Turkey
+367,367,372,1,8,44,India
+368,368,373,0,356,46,Iran
+369,369,374,1,250,60,Mexico
+370,370,375,1,191,44,India
+371,371,376,1,98,75,Philippines
+372,372,377,1,415,45,Indonesia
+373,373,378,1,523,75,Philippines
+374,374,379,1,572,15,Brazil
+375,375,380,1,348,25,"Congo, The Democratic Republic of the"
+376,376,381,1,285,80,Russian Federation
+377,377,382,1,265,46,Iran
+378,378,383,1,471,23,China
+379,379,384,1,73,44,India
+380,380,385,1,549,76,Poland
+381,381,386,1,493,5,Anguilla
+382,382,387,1,322,103,United States
+383,383,388,1,360,4,Angola
+384,384,389,1,210,23,China
+385,385,390,1,521,50,Japan
+386,386,391,1,258,100,Ukraine
+387,387,392,1,315,25,"Congo, The Democratic Republic of the"
+388,388,393,1,104,75,Philippines
+389,389,394,1,157,23,China
+390,390,395,1,358,94,Thailand
+391,391,396,1,229,50,Japan
+392,392,397,1,6,31,Ethiopia
+393,393,398,1,278,80,Russian Federation
+394,394,399,1,181,87,Spain
+395,395,400,1,15,89,Sudan
+396,396,401,1,228,50,Japan
+397,397,402,1,39,80,Russian Federation
+398,398,403,1,44,15,Brazil
+399,399,404,1,375,72,Pakistan
+400,400,405,1,135,103,United States
+401,401,406,1,276,50,Japan
+402,402,407,1,92,34,France
+403,403,408,1,564,44,India
+404,404,409,1,380,50,Japan
+405,405,410,1,524,6,Argentina
+406,406,411,0,111,106,"Virgin Islands, U.S."
+407,407,412,1,437,85,South Africa
+408,408,413,1,230,88,Sri Lanka
+409,409,414,1,141,69,Nigeria
+410,410,415,1,430,20,Canada
+411,411,416,1,117,45,Indonesia
+412,412,417,1,208,44,India
+413,413,418,1,71,44,India
+414,414,419,1,19,60,Mexico
+415,415,420,1,23,67,Netherlands
+416,416,421,1,134,72,Pakistan
+417,417,422,1,16,82,Saudi Arabia
+418,418,423,1,450,27,Dominican Republic
+419,419,424,1,264,44,India
+420,420,425,1,155,103,United States
+421,421,426,1,416,44,India
+422,422,427,1,293,23,China
+423,423,428,1,465,29,Egypt
+424,424,429,1,468,23,China
+425,425,430,1,452,60,Mexico
+426,426,431,1,418,44,India
+427,427,432,1,189,15,Brazil
+428,428,433,1,510,80,Russian Federation
+429,429,434,1,547,50,Japan
+430,430,435,1,150,80,Russian Federation
+431,431,436,1,501,14,Bolivia
+432,432,437,1,364,85,South Africa
+433,433,438,1,351,63,Mozambique
+434,434,439,1,391,75,Philippines
+435,435,440,1,249,23,China
+436,436,441,1,565,20,Canada
+437,437,442,1,290,27,Dominican Republic
+438,438,443,1,272,109,Zambia
+439,439,444,1,70,49,Italy
+440,440,445,1,144,44,India
+441,441,446,1,59,2,Algeria
+442,442,447,1,540,23,China
+443,443,448,1,486,15,Brazil
+444,444,449,1,530,30,Estonia
+445,445,450,1,161,6,Argentina
+446,446,451,0,554,44,India
+447,447,452,1,352,80,Russian Federation
+448,448,453,1,160,38,Germany
+449,449,454,1,481,46,Iran
+450,450,455,1,509,45,Indonesia
+451,451,456,1,154,60,Mexico
+452,452,457,1,3,101,United Arab Emirates
+453,453,458,1,326,104,Venezuela
+454,454,459,1,556,60,Mexico
+455,455,460,1,153,14,Bolivia
+456,456,461,1,600,83,Senegal
+457,457,462,1,435,103,United States
+458,458,463,1,532,45,Indonesia
+459,459,464,1,423,46,Iran
+460,460,465,1,170,24,Colombia
+461,461,466,1,182,75,Philippines
+462,462,467,1,558,80,Russian Federation
+463,463,468,1,196,20,Canada
+464,464,469,1,428,22,Chile
+465,465,470,1,595,60,Mexico
+466,466,471,1,145,23,China
+467,467,472,1,129,60,Mexico
+468,468,473,1,78,44,India
+469,469,474,1,388,87,Spain
+470,470,475,1,206,107,Yemen
+471,471,476,1,244,85,South Africa
+472,472,477,1,359,105,Vietnam
+473,473,478,1,301,45,Indonesia
+474,474,479,1,158,67,Netherlands
+475,475,480,1,385,100,Ukraine
+476,476,481,1,179,20,Canada
+477,477,482,1,500,102,United Kingdom
+478,478,483,1,36,48,Israel
+479,479,484,1,11,103,United States
+480,480,485,1,180,97,Turkey
+481,481,486,1,347,93,Tanzania
+482,482,487,0,125,60,Mexico
+483,483,488,1,142,97,Turkey
+484,484,489,1,587,23,China
+485,485,490,1,469,23,China
+486,486,491,1,4,60,Mexico
+487,487,492,1,408,80,Russian Federation
+488,488,493,1,288,60,Mexico
+489,489,494,1,376,50,Japan
+490,490,495,1,487,24,Colombia
+491,491,496,1,337,29,Egypt
+492,492,497,1,261,44,India
+493,493,498,1,504,97,Turkey
+494,494,499,1,434,28,Ecuador
+495,495,500,1,47,23,China
+496,496,501,1,432,23,China
+497,497,502,1,589,102,United Kingdom
+498,498,503,1,444,71,Oman
+499,499,504,1,93,49,Italy
+500,500,505,1,318,45,Indonesia
+501,501,506,1,314,76,Poland
+502,502,507,1,478,44,India
+503,503,508,1,552,50,Japan
+504,504,509,1,245,103,United States
+505,505,510,1,519,75,Philippines
+506,506,511,1,412,45,Indonesia
+507,507,512,1,163,97,Turkey
+508,508,513,1,568,44,India
+509,509,514,1,110,44,India
+510,510,515,0,259,80,Russian Federation
+511,511,516,1,502,23,China
+512,512,517,1,312,102,United Kingdom
+513,513,519,1,583,65,Nauru
+514,514,520,1,594,23,China
+515,515,521,1,127,22,Chile
+516,516,522,1,60,18,Cambodia
+517,517,523,1,116,92,Taiwan
+518,518,524,1,482,97,Turkey
+519,519,525,1,224,50,Japan
+520,520,526,1,366,105,Vietnam
+521,521,527,1,588,23,China
+522,522,528,1,458,75,Philippines
+523,523,529,1,571,105,Vietnam
+524,525,531,1,551,49,Italy
+525,526,532,1,101,103,United States
+526,527,533,1,339,13,Belarus
+527,528,534,1,67,4,Angola
+528,529,535,1,75,44,India
+529,530,536,1,165,6,Argentina
+530,531,537,1,287,50,Japan
+531,532,538,1,100,105,Vietnam
+532,533,539,1,80,23,China
+533,534,540,0,24,44,India
+534,535,541,1,363,21,Chad
+535,536,542,1,539,86,South Korea
+536,537,543,1,42,103,United States
+537,538,544,1,46,23,China
+538,539,545,1,561,104,Venezuela
+539,540,546,1,436,17,Bulgaria
+540,541,547,1,309,49,Italy
+541,542,548,1,396,45,Indonesia
+542,543,549,1,68,62,Morocco
+543,544,550,1,485,15,Brazil
+544,545,551,1,275,100,Ukraine
+545,546,552,1,462,23,China
+546,547,553,1,260,50,Japan
+547,548,554,1,528,75,Philippines
+548,549,555,1,459,87,Spain
+549,550,556,1,599,23,China
+550,551,557,1,21,15,Brazil
+551,552,558,1,193,23,China
+552,553,559,1,368,108,Yugoslavia
+553,554,560,1,426,44,India
+554,555,561,1,112,85,South Africa
+555,556,562,1,496,102,United Kingdom
+556,557,563,1,570,56,Lithuania
+557,558,564,0,577,76,Poland
+558,559,565,1,79,29,Egypt
+559,560,566,1,43,6,Argentina
+560,561,567,1,178,103,United States
+561,562,568,1,488,69,Nigeria
+562,563,569,1,95,78,Romania
+563,564,570,1,580,23,China
+564,565,571,1,214,74,Peru
+565,566,572,1,538,97,Turkey
+566,567,573,1,466,80,Russian Federation
+567,568,574,1,55,104,Venezuela
+568,569,575,1,299,23,China
+569,570,576,1,341,60,Mexico
+570,571,577,1,409,76,Poland
+571,572,578,1,133,76,Poland
+572,573,579,1,598,51,Kazakstan
+573,574,580,1,10,50,Japan
+574,575,581,1,131,60,Mexico
+575,576,582,1,168,92,Taiwan
+576,577,583,1,526,92,Taiwan
+577,578,584,1,103,60,Mexico
+578,579,585,1,344,47,Iraq
+579,580,586,1,219,75,Philippines
+580,581,587,1,246,60,Mexico
+581,582,588,1,212,60,Mexico
+582,583,589,1,494,102,United Kingdom
+583,584,590,1,54,37,Gambia
+584,585,591,1,424,6,Argentina
+585,586,592,1,546,92,Taiwan
+586,587,593,1,106,60,Mexico
+587,588,594,1,574,23,China
+588,589,595,1,311,28,Ecuador
+589,590,596,1,14,11,Bahrain
+590,591,597,1,248,15,Brazil
+591,592,598,0,512,43,Hungary
+592,593,599,1,177,103,United States
+593,594,600,1,241,23,China
+594,595,601,1,242,23,China
+595,596,602,1,401,39,Greece
+596,597,603,1,503,74,Peru
+597,598,604,1,296,91,Switzerland
+598,599,605,1,537,23,China
