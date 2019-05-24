@@ -19,16 +19,16 @@ Add as many "name+comment" entries as necessary
 Add as many "url+licence+comment" entries as necessary
 
 ### Code:
-  - comment: For a wider screen view
+  - comment: For a wider screen view. In cell 3.
     url: https://stackoverflow.com/questions/21971449/how-do-i-increase-the-cell-width-of-the-jupyter-ipython-notebook-in-my-browser
     licence: N/A
     
-  - comment: For a wider screen view
+  - comment: For a wider screen view. In cell 4.
     url: https://stackoverflow.com/questions/36757301/disable-ipython-notebook-autoscrolling
     licence: N/A
     
     
-  - comment: For datafram look and feel
+  - comment: For datafram look and feel. In cell 29.
     url: https://stackoverflow.com/questions/19124601/pretty-print-an-entire-pandas-series-dataframe
     licence: N/A
     
@@ -40,6 +40,9 @@ Add as many "url+licence+comment" entries as necessary
     url: N/A
     licence: N/A
 
+### Reference:
+  - Location: Section C last question
+  - Buana, P.W., Jannet, S.D.R.M. and Putra, I.K.G.D., 2012. Combination of k-nearest neighbor and k-means based on term re-weighting for classify Indonesian news. International Journal of Computer Applications, 50(11), pp.37-42.
 
 ## Sign *your* names and uids here. There should be one entry per team member
 
