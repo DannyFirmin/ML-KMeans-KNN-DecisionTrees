@@ -27,11 +27,7 @@ Add as many "url+licence+comment" entries as necessary
     url: https://stackoverflow.com/questions/36757301/disable-ipython-notebook-autoscrolling
     licence: N/A
     
-    
-  - comment: For datafram look and feel. In cell 29.
-    url: https://stackoverflow.com/questions/19124601/pretty-print-an-entire-pandas-series-dataframe
-    licence: N/A
-    
+   
 
 Add as many "url+licence+comment" entries as necessary
 
