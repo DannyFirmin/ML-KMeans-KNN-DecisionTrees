@@ -1,0 +1,105 @@
+                     ==============================
+                       COMP2420, Semester 1, 2019
+                         Assignment 2 Mark Sheet
+                     ==============================
+
+=======================================================
+  Uni Id  | Lab Group  | Tutor                  
+=======================================================
+ u6611178   thu13-15b    Cody Christopher
+ u6588836   wed08-10     Xu Wang
+ u6555407   tue11-13b    Alexei Khorev
+=======================================================
+
+Group Number : A2Grp12
+
+Gitlab Repo : gitlab.cecs.anu.edu.au:u6611178/comp2420-2019-ass2
+
+Markers
+-------
+
+Database Management: Cody Christopher
+Data Acquisition: Alexei Khorev
+Machine Learning:
+  Short answers and k-means: Hanif Rasyidi
+  Classification: Xu Wang
+Decision Trees: Harshit Trivedi
+
+Marks
+=====
+
+========================================
+ Database Management 
+   Q1                         :    2.5/3
+   Q2                         :    3/3
+   Q3                         :    4/4
+   Q4                         :    2.5/5
+
+ Data Acquisition             :    17/20
+
+ Machine Learning
+   Short Answers
+   Q1.1.1                     :    4/4
+   Q1.1.2                     :    4/4
+
+   K-Means Clustering
+   Q1.2.1                     :    14/15
+   Q1.2.2                     :    1/2
+
+   Classification
+   Q2.1                       :    23/25
+   Q2.2                       :    5/5
+
+ Decision Trees
+   Q1                         :    3/3
+   Q2                         :    3/3
+   Q3                         :    3.5/4
+
+ Penalty (if any)             :    /100 
+========================================
+   Total (max 100)            :  89.5
+========================================
+
+
+Feedback
+========
+
+Database Management
+-------------------
+Col name in q1 should be spaces not \_
+q4 answer will get customers who borrow
+twice from the same store and get diff
+inventory ids.
+
+
+Data Acquisition
+----------------
+
+failed execute (time out); rather simple but involved
+sql-queries with significant follow-up pandas data adjustments
+
+Machine Learning
+----------------
+Short Answers and K-Means
+.........................
+Is there any special reason why choosing the 4 as optimal value?Because 3 and 5 is also visually have a decent "improvement" compared to the previous value? Can have another detailed explaination here, although using the elbow method is a good choice.
+
+While the plot of k-means clustering managed to show us a good separation of data, a detailed legend for x and y axis might help to visualize better.
+
+Need more explanation on the result of the clustering. What 'new' info we can get from cluster 0, 1, 2, 3? How to translate the range value to real attribute (i.e. popularity, length, actor)?
+
+Classification
+..............
+Model: Answer can be improved by investigating other evaluation metrics.(17)
+Justification: Answers can be improved by providing strengths and pitfalls of the model.(6)
+Short Answer: (5)
+
+
+
+Decision Trees
+--------------
+1. Correct.
+2. Correct. Good reasoning!
+3. Correct. Make sure you calculate all initial entropies upto 3-4 decimal places, so that the final solution is more accurate. The actual Information Gain was 0.4067
+
+
